@@ -2,6 +2,8 @@
 
 Aspiring Software Developer from Assam, India.
 
+---
+
 ## 🚀 Skills
 
 - HTML
@@ -9,6 +11,8 @@ Aspiring Software Developer from Assam, India.
 - JavaScript
 - React.js (Learning)
 - Git & GitHub
+
+---
 
 ## 💻 Projects
 
@@ -19,15 +23,29 @@ Aspiring Software Developer from Assam, India.
 - Chat App
 - E-Commerce Website
 
+---
+
 ## 🎯 Goal
 
 Become a Professional Software Developer and AI Engineer.
 
+---
+
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/Manashjyotibora122
-- Portfolio: https://manashjyotibora122.github.io
-- LinkedIn: https://www.linkedin.com/in/manashjyoti-bora-323b97405
+### GitHub
+
+https://github.com/Manashjyotibora122
+
+### Portfolio Website
+
+https://manashjyotibora122.github.io/portfolio-website/
+
+### LinkedIn
+
+https://www.linkedin.com/in/manashjyoti-bora-323b97405
+
+---
 
 ## ⚡ Fun Fact
 
