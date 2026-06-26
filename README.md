@@ -120,4 +120,14 @@
 
 ---
 
+## 🤝 Let's Connect
+
+I'm always open to collaborating on exciting projects, contributing to open source, and connecting with fellow developers.
+
+If you're looking for a passionate developer or would like to collaborate, feel free to reach out!
+
+⭐ Thanks for visiting my profile!
+
+---
+
 > 🚀 **Always learning. Always building. Always improving.**
