@@ -16,10 +16,38 @@
 
 ---
 
+## 🎯 Current Focus
+
+- 🚀 Building Production-Ready Full Stack Applications
+- ⚡ Mastering React.js Ecosystem
+- 🌐 Learning Backend Development with Node.js & Express.js
+- 🗄️ Working with MongoDB & REST APIs
+- 🤝 Contributing to Open Source
+
+---
+
+## 📚 Currently Learning
+
+- ⚛️ Advanced React.js
+- 🟢 Node.js & Express.js
+- 🍃 MongoDB
+- 🔐 Authentication (JWT)
+- ☁️ Deployment (Vercel, Netlify & Render)
+
+---
+
 ## 🛠 Tech Stack
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
+</p>
+
+---
+
+## 🛠 Developer Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman,npm,vercel,netlify,firebase" />
 </p>
 
 ---
@@ -79,4 +107,4 @@
 
 ---
 
-> ⭐ **Code with purpose. Learn without limits. Build solutions that create real impact.**
+> 🚀 **Always learning. Always building. Always improving.**
