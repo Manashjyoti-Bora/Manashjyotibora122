@@ -50,14 +50,6 @@
 
 ---
 
-## 🛠 Developer Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman,npm,vercel,netlify,firebase" />
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
