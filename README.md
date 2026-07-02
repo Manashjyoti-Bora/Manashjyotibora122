@@ -1,23 +1,23 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-<!-- 🌟 MANASHJYOTI BORA — ULTRA-PREMIUM GITHUB PROFILE README                  -->
-<!-- 🚀 Full Stack Software Engineer | Next.js & React Architect | Problem Solver  -->
-<!-- 📍 Nagaon, Assam, India | Actively Seeking Software/Web Dev Roles           -->
+<!-- 👑 MANASHJYOTI BORA — MASTERPIECE GITHUB PROFILE README                      -->
+<!-- 🚀 Full Stack Software Developer | Next.js • React • Node.js • TypeScript    -->
+<!-- 📍 Nagaon, Assam, India | Actively Seeking Software/Web Dev Internships     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                🎨 ANIMATED WAVING HERO BANNER                    ║ -->
+<!-- ║                🌊 ANIMATED WAVING GRADIENT HEADER                 ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,20:1e3a8a,50:3b82f6,80:6366f1,100:06b6d4&height=260&section=header&text=Manashjyoti%20Bora&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Full%20Stack%20Software%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descSize=16&descAlignY=54&descAlign=50" width="100%" alt="Header Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:1e3a8a,50:3b82f6,75:6366f1,100:06b6d4&height=265&section=header&text=Manashjyoti%20Bora&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Full%20Stack%20Software%20Developer%20%7C%20React%20%E2%80%A2%20Next.js%20%E2%80%A2%20TypeScript%20%E2%80%A2%20Node.js&descSize=16&descAlignY=55&descAlign=50" width="100%" alt="Header Banner"/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                ⚡ DYNAMIC MULTI-LINE TYPING BAR                  ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════════╝ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=%F0%9F%9A%80+Full+Stack+Software+Developer+%7C+Crafting+Modern+Web+Experiences;%E2%9A%A1+Specialized+in+React.js,+Next.js+App+Router,+TypeScript+%26+Node.js;%F0%9F%8E%AF+Passionate+about+Clean+Architecture,+Performance+%26+Scalability;%E2%9C%A8+Actively+Seeking+Software%2FWeb+Developer+Internship+%26+Junior+Roles!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=820&height=90&lines=%F0%9F%9A%80+Full+Stack+Software+Developer+%7C+Crafting+Modern+Web+Experiences;%E2%9A%A1+Specialized+in+React.js,+Next.js+App+Router,+TypeScript+%26+Node.js;%F0%9F%8E%AF+Passionate+about+Clean+Architecture,+Performance+%26+Scalability;%E2%9C%A8+Actively+Seeking+Software%2FWeb+Developer+Internship+%26+Junior+Roles!" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -28,7 +28,9 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE%20VIEWS&color=3b82f6&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=6366f1&labelColor=0f172a" alt="Followers"/>
+  <a href="https://github.com/Manashjyoti-Bora?tab=followers">
+    <img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=6366f1&labelColor=0f172a" alt="Followers"/>
+  </a>
   <a href="mailto:manashjyotibora122@gmail.com">
     <img src="https://img.shields.io/badge/HIRE_ME-AVAILABLE-10b981?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Available for Hire"/>
   </a>
@@ -51,13 +53,13 @@
 <tr>
 <td width="64%" valign="top">
 
-I am a forward-thinking **Full Stack Software Developer** based in **Nagaon, Assam, India** 🇮🇳. I combine user-centric frontend design with resilient backend systems to deliver production-ready web applications.
+I am a forward-thinking **Full Stack Software Developer** based in **Nagaon, Assam, India** 🇮🇳. I specialize in crafting end-to-end web applications with modern architectures, pixel-perfect user interfaces, and robust backend integrations.
 
-- ⚡ **Core Philosophy:** Write code that is clean, modular, self-documenting, and highly performant.
-- 🔭 **Specialized Tech Stack:** **React 19, Next.js 14+, TypeScript, Tailwind CSS, Node.js & MongoDB**
-- 💼 **Immediate Goal:** Seeking high-growth **Software Developer / Full-Stack Internships** where I can contribute shipping impactful features.
-- 🌱 **Currently Exploring:** Microservices architecture, Advanced State Management & Web Performance Optimization.
-- 📫 **Quick Contact:** [manashjyotibora122@gmail.com](mailto:manashjyotibora122@gmail.com)
+- ⚡ **Core Philosophy:** Write clean, modular, self-documenting, and high-performance code.
+- 🔭 **Primary Tech Stack:** **React 19, Next.js 14+, TypeScript, Tailwind CSS, Node.js & MongoDB**
+- 💼 **Immediate Goal:** Seeking high-growth **Software Developer / Full-Stack Internships** to contribute to impactful software engineering teams.
+- 🌱 **Currently Mastering:** Full-Stack System Design, Microservices & Web Performance Optimization.
+- 📫 **Direct Contact:** [manashjyotibora122@gmail.com](mailto:manashjyotibora122@gmail.com)
 
 </td>
 <td width="36%" align="center" valign="middle">
@@ -82,7 +84,7 @@ I am a forward-thinking **Full Stack Software Developer** based in **Nagaon, Ass
 <tr>
 <td align="center">
 
-### 🚀 High-Velocity Execution & Modern Engineering Standard
+### 🚀 High-Velocity Execution & Modern Engineering Standards
 
 <br/>
 
@@ -153,31 +155,31 @@ I am a forward-thinking **Full Stack Software Developer** based in **Nagaon, Ass
   </a>
 </p>
 
-> Ultra-modern **Apple/Netflix hybrid storefront** engineered with Next.js App Router, TypeScript, and atomic UI system components.
+> Ultra-modern **Apple/Netflix hybrid e-commerce storefront** engineered with Next.js App Router, TypeScript, and atomic UI components.
 
 **Highlights:**
-- ⚡ Sub-second page loads with Next.js SSR/SSG
-- 🛒 Complete interactive shopping cart workflow
-- 🎨 Engineered using shadcn/ui & Tailwind CSS
+- ⚡ Blazing fast performance & SSR optimization
+- 🛒 Complete shopping cart & checkout workflow
+- 🎨 Styled with Tailwind CSS & shadcn/ui
 
 **Tech Stack:** `Next.js` `TypeScript` `Tailwind CSS` `React`
 
 </td>
 <td width="50%" valign="top">
 
-### 💼 [DevHire Pro ATS](https://github.com/Manashjyoti-Bora/devhire-pro)
+### 💼 [DevHire Pro ATS](https://github.com/Manashjyoti-Bora/devhire-pro-ats)
 <p align="center">
-  <a href="https://github.com/Manashjyoti-Bora/devhire-pro">
+  <a href="https://github.com/Manashjyoti-Bora/devhire-pro-ats">
     <img src="https://img.shields.io/badge/📂_SOURCE-GitHub-181717?style=for-the-badge&logo=github" alt="Source Code"/>
   </a>
 </p>
 
-> Enterprise-inspired **Job Portal & Applicant Tracking System**. Features real-time search filtering, dynamic state management, and modern aesthetics.
+> Enterprise-grade **Job Portal & Applicant Tracking System** designed for tech recruitment. Features real-time multi-attribute filtering and state tracking.
 
 **Highlights:**
-- 🔍 Instant multi-attribute keyword & skill search
-- 🌓 Seamless glassmorphic Light/Dark theme switching
-- 📊 Real-time job application state tracking
+- 🔍 Instant keyword, skill & location search filtering
+- 🌓 Modern Glassmorphic Light/Dark theme switching
+- 📊 Interactive job application pipeline tracker
 
 **Tech Stack:** `React 19` `Vite` `Lucide Icons` `Modern CSS`
 
@@ -193,12 +195,12 @@ I am a forward-thinking **Full Stack Software Developer** based in **Nagaon, Ass
   </a>
 </p>
 
-> Agile productivity workflow suite featuring dynamic **Kanban task boards**, priority tagging, and sprint management capabilities.
+> Agile productivity workflow suite featuring dynamic **Kanban task boards**, priority tagging, and sprint tracking management capabilities.
 
 **Highlights:**
 - 📌 Dynamic stage columns (To Do, In Progress, Done)
-- ⚡ Priority indicators (High, Medium, Low) & live updates
-- 🎨 Responsive dark-themed modern dashboard
+- ⚡ Live priority tagging (High, Medium, Low)
+- 🎨 Responsive dark-themed professional dashboard
 
 **Tech Stack:** `React` `JavaScript ES6+` `State Management`
 
@@ -216,7 +218,7 @@ I am a forward-thinking **Full Stack Software Developer** based in **Nagaon, Ass
 
 **Highlights:**
 - 📱 Fully responsive across mobile, tablet & desktop
-- ✨ Intuitive UX navigation and micro-animations
+- ✨ Intuitive navigation and micro-animations
 - 🚀 Optimized for SEO and recruiter readability
 
 **Tech Stack:** `HTML5` `CSS3` `Modern UI`
@@ -279,6 +281,6 @@ I am a forward-thinking **Full Stack Software Developer** based in **Nagaon, Ass
 
 <br/>
 
-<sub>💡 <i>Crafted with passion, clean code, and modern design by Manashjyoti Bora</i></sub>
+<sub>💡 <i>Crafted with passion, clean code, and modern engineering by Manashjyoti Bora</i></sub>
 
 </div>
