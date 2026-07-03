@@ -34,7 +34,7 @@
 
 I'm a **Full Stack Software Developer** from **Nagaon, Assam, India** 🇮🇳 who builds end-to-end web applications — from Figma-level UI polish to typed APIs and cloud deployment.
 
-**What I build:** Production-grade web apps with React 19, Next.js App Router, TypeScript and Node.js — storefronts, dashboards, job portals, and award-style portfolios. Every project is **deployed, documented and public**.
+**What I build:** Production-grade web apps with React 19, Next.js App Router, TypeScript and Node.js — dashboards, job portals, e-commerce platforms, and award-style portfolios. Every project is **deployed, documented and public**.
 
 **Current focus:** Full-stack system design, Node.js backends, and web performance optimization.
 
@@ -156,27 +156,6 @@ remote: Ready ✅
 </td>
 <td width="50%" valign="top">
 
-### 🛍️ Premium Tech Storefront
-**🏆 Most Popular** · `v1.0` · ✅ Live in Production
-
-[![Live Demo](https://img.shields.io/badge/🔴_LIVE_DEMO-Launch_App-06b6d4?style=for-the-badge)](https://premium-tech-storefront.vercel.app/)
-[![Source](https://img.shields.io/badge/📂_SOURCE-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Manashjyoti-Bora/premium-tech-storefront)
-
-> Ultra-modern Apple/Netflix hybrid e-commerce storefront with atomic design system.
-
-**Key Features:**
-- ⚡ Server-rendered product pages (App Router SSR)
-- 🛒 Complete cart & checkout workflow
-- 🎨 Atomic UI components with Tailwind + shadcn/ui
-- 📱 Fully responsive, tested on real low-end devices
-
-`Next.js` `TypeScript` `Tailwind CSS` `React` `shadcn/ui`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 💼 DevHire Pro — Job Portal & ATS
 **🧩 Most Complex Logic** · `v1.0` · ✅ Complete
 
@@ -191,6 +170,24 @@ remote: Ready ✅
 - ⚡ Memoized rendering — zero lag while filtering
 
 `React 19` `Vite` `JavaScript` `Lucide Icons` `Modern CSS`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 NexusMart — Full-Stack E-Commerce
+**🚧 In Development** · Backend + Auth + Database showcase
+
+> Complete online store proving the full stack: Node.js API routes, MongoDB CRUD, JWT authentication, cart + checkout, user dashboard and admin product panel.
+
+**Planned Features:**
+- 🔐 JWT auth (bcrypt + HTTP-only cookies) with protected routes
+- 🗄️ MongoDB Atlas — users, products, orders collections
+- 🛒 Cart, checkout flow & order history
+- 🛠️ Admin panel with product CRUD
+
+`Next.js` `TypeScript` `Node.js` `MongoDB` `JWT` `Zod`
 
 </td>
 <td width="50%" valign="top">
