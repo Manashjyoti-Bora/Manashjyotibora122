@@ -8,6 +8,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=110&lines=%F0%9F%9A%80+Full+Stack+Software+Developer+%7C+Crafting+Modern+Web+Experiences;%E2%9A%A1+React+19+%E2%80%A2+Next.js+App+Router+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;%F0%9F%8E%AF+Clean+Architecture+%E2%80%A2+Performance+First+%E2%80%A2+Pixel-Perfect+UI;%E2%9C%A8+Open+to+Software+Developer+Internships+%26+Junior+Roles!)](https://manashjyoti-bora.vercel.app)
 
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%" alt="animated banner">
+
 <!-- ═══════════════════ STATUS BADGES ═══════════════════ -->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE+VIEWS&color=3b82f6&style=for-the-badge)
@@ -53,7 +55,7 @@ I'm a **Full Stack Software Developer** from **Nagaon, Assam, India** 🇮🇳 w
 </td>
 <td width="38%" valign="top">
 
-<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" alt="Coding animation"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Coding animation"/>
 
 <br/><br/>
 
@@ -75,7 +77,7 @@ remote: Ready ✅
 
 <!-- ═══════════════════ ABOUT ME ═══════════════════ -->
 
-## 🎯 About Me
+## <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="28"> About Me
 
 | | |
 |---|---|
@@ -90,7 +92,7 @@ remote: Ready ✅
 
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 
-## 🛠️ Tech Stack & Tools
+## <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="28"> Tech Stack & Tools
 
 ### ⚡ Frontend & Styling
 ![Frontend](https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,redux&theme=dark)
@@ -129,7 +131,7 @@ remote: Ready ✅
 
 <!-- ═══════════════════ FEATURED PROJECTS ═══════════════════ -->
 
-## 🚀 Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="28"> Featured Projects
 
 <table>
 <tr>
@@ -225,7 +227,7 @@ remote: Ready ✅
 
 <!-- ═══════════════════ GITHUB ANALYTICS ═══════════════════ -->
 
-## 📊 GitHub Analytics
+## <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="28"> GitHub Analytics
 
 <div align="center">
 
@@ -239,6 +241,10 @@ remote: Ready ✅
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Manashjyoti-Bora&theme=tokyo-night&hide_border=true&bg_color=0f172a&color=3b82f6&line=38bdf8&point=e2e8f0&area=true)
 
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg)
+
 ### 🗓️ Contribution Heatmap
 
 <img src="https://ghchart.rshah.org/3b82f6/Manashjyoti-Bora" width="100%" alt="Contribution heatmap"/>
@@ -249,7 +255,7 @@ remote: Ready ✅
 
 <!-- ═══════════════════ OPEN SOURCE + LEARNING ═══════════════════ -->
 
-## 🌱 Open Source & Current Learning
+## <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="28"> Open Source & Current Learning
 
 <table>
 <tr>
@@ -335,7 +341,7 @@ remote: Ready ✅
 
 <!-- ═══════════════════ CONTACT ═══════════════════ -->
 
-## 📬 Let's Connect
+## <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="28"> Let's Connect
 
 <div align="center">
 
