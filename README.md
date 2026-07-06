@@ -65,6 +65,15 @@ I'm a **Full Stack Software Developer** from **Nagaon, Assam, India** 🇮🇳 w
 
 <br/><br/>
 
+```ansi
+[38;5;213m❯ whoami[0m
+[38;5;51mManashjyoti Bora[0m — [38;5;220mFull Stack Developer[0m
+[38;5;213m❯ status[0m
+[38;5;46m● AVAILABLE[0m for internships & junior roles
+[38;5;213m❯ superpower[0m
+[38;5;208mShips production code from a phone 📱[0m
+```
+
 ```yaml
 name: Manashjyoti Bora
 role: Full Stack Developer
@@ -123,6 +132,17 @@ remote: Ready ✅
 
 ### 🔧 Workflow, Build & Design Tools
 ![Tools](https://skillicons.dev/icons?i=vscode,vite,npm,postman,figma&theme=dark)
+
+### 🎨 Skill Meters
+
+| | | |
+|---|---|---|
+| **React / Next.js** | 🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜ | `expert-track` |
+| **TypeScript** | 🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜ | `daily driver` |
+| **Tailwind CSS** | 🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ | `fluent` |
+| **Node.js / APIs** | 🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜ | `shipping` |
+| **MongoDB** | 🟧🟧🟧🟧🟧🟧🟧⬜⬜⬜ | `production-used` |
+| **Consistency** | 🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 | `superpower` 🔥 |
 
 <details>
 <summary><b>📋 Full stack breakdown (click to expand)</b></summary>
@@ -261,7 +281,7 @@ remote: Ready ✅
 
 ### 🏙️ 3D Contribution City (yes, THREE-DIMENSIONAL!)
 
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 
 ### 🐍 Contribution Snake
 
@@ -353,6 +373,13 @@ timeline
 
 ## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="28"> For Recruiters — Quick Facts
 
+> [!IMPORTANT]
+> **⚡ TL;DR for busy recruiters:** 1st-year student · 2 live products · 100% public code · immediately available · replies within 24h.
+
+> [!TIP]
+> **Fastest way to evaluate me:** open [nexusmart-dusky.vercel.app](https://nexusmart-dusky.vercel.app), create an account, place an order. That's a real MongoDB + JWT backend you just used — built from a phone.
+
+
 <div align="center">
 
 | | |
@@ -398,6 +425,12 @@ timeline
 ### ✨ Daily Dev Wisdom
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### ⌨️ Try My Portfolio's Secret Shortcuts
+
+Visit [manashjyoti-bora.vercel.app](https://manashjyoti-bora.vercel.app) and press:
+
+<kbd>Ctrl</kbd> + <kbd>K</kbd> → Command Palette · <kbd>Ctrl</kbd> + <kbd>/</kbd> → Hidden Terminal · type <kbd>i</kbd><kbd>d</kbd><kbd>d</kbd><kbd>q</kbd><kbd>d</kbd> → 🤫 · <kbd>↑</kbd><kbd>↑</kbd><kbd>↓</kbd><kbd>↓</kbd><kbd>←</kbd><kbd>→</kbd><kbd>←</kbd><kbd>→</kbd><kbd>B</kbd><kbd>A</kbd> → 🎊
 
 ### 😄 Random Dev Joke (changes every visit!)
 
