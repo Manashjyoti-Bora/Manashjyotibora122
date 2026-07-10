@@ -1,37 +1,50 @@
 <div align="center">
 
 <!-- ══════════════════════════════════════════════════════════════════ -->
-<!--        AURA FARMING ∞ EDITION · CODEX FINAL FORM · MYTHIC 🐐        -->
-<!--   Every commit = +100 aura · Zero fumbles · Farmed on a phone       -->
-<!--   99.99% of GitHub profiles could NEVER. This one does. Daily.      -->
+<!--     ΩMEGA — FINAL FORM · THE WORLD-RAREST README · ONE OF ONE       -->
+<!--  Every rare GitHub feature that exists in 2026 lives in this file   -->
+<!--  Aura ledger · GOAT codex · 6 Mermaid types · LaTeX · theme magic   -->
+<!--  Forged 100% on an Android phone. Zero laptops. Zero fake claims.   -->
 <!-- ══════════════════════════════════════════════════════════════════ -->
 
-![Header](https://capsule-render.vercel.app/api?type=venom&height=240&text=AURA%20FARMING%20%E2%88%9E&fontSize=54&color=0:0a0118,35:a855f7,70:ec4899,100:ffd700&fontColor=ffffff&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=venom&height=250&text=%CE%A9MEGA%20%E2%80%94%20FINAL%20FORM&fontSize=50&color=0:0a0118,25:a855f7,50:ec4899,75:ff2d55,100:ffd700&fontColor=ffffff&animation=fadeIn)
 
-![Name](https://capsule-render.vercel.app/api?type=transparent&height=90&text=MANASHJYOTI%20BORA&fontSize=44&fontColor=ec4899&animation=twinkling)
+![Name](https://capsule-render.vercel.app/api?type=transparent&height=90&text=MANASHJYOTI%20BORA&fontSize=44&fontColor=ffffff&animation=twinkling)
 
-![Aura](https://svg-banners.vercel.app/api?type=glitch&text1=%2B9999%20AURA%20%E2%80%94%20FARMED%20LEGITLY&width=830&height=120)
+<!-- 🪄 THEME-AWARE MAGIC BANNER — changes with YOUR GitHub theme (ultra-rare trick) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=blur&height=120&text=WORLD%20RAREST%20README&fontSize=36&color=0:a855f7,100:ffd700&fontColor=ffffff&animation=twinkling">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=blur&height=120&text=WORLD%20RAREST%20README&fontSize=36&color=0:ffd700,100:ec4899&fontColor=0a0118&animation=twinkling">
+  <img src="https://capsule-render.vercel.app/api?type=blur&height=120&text=WORLD%20RAREST%20README&fontSize=36&color=0:a855f7,100:ffd700&fontColor=ffffff&animation=twinkling" alt="magic banner" />
+</picture>
 
-![4K](https://svg-banners.vercel.app/api?type=origin&text1=CAUGHT%20IN%204K%20FARMING%20AURA%20%F0%9F%93%B8&width=830&height=100)
+*↑ this banner secretly changes colors based on your GitHub light/dark theme. Try it.* 🪄
 
-![Level](https://svg-banners.vercel.app/api?type=luminance&text1=AURA%20LEVEL%3A%20UNMEASURABLE&width=830&height=110)
+![Omega](https://svg-banners.vercel.app/api?type=glitch&text1=%CE%A9MEGA%20README%20%E2%80%94%20NOTHING%20LEFT%20OUT&width=830&height=120)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&duration=1800&pause=350&color=EC4899&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=150&lines=%3E+SCANNING+AURA+............+LEVEL%3A+UNMEASURABLE+%F0%9F%94%AE;%3E+CLASS+...................+FULL+STACK+DEVELOPER;%3E+FARM+TOOL+...............+1x+ANDROID+PHONE+%F0%9F%93%B1;%3E+AURA+SOURCES+............+2+LIVE+PRODUCTS;%3E+AURA+LOSS+...............+0+%28NEVER+FUMBLED%29;%3E+FINAL+HARVEST+...........+SDE+INTERNSHIP+%5BLEGENDARY%5D;%3E+VERDICT+.................+INFINITE+AURA+CONFIRMED" alt="typing" />
+![Never](https://svg-banners.vercel.app/api?type=origin&text1=99.99%25%20OF%20GITHUB%20HAS%20NEVER%20SEEN%20THIS&width=830&height=100)
+
+![Every](https://svg-banners.vercel.app/api?type=luminance&text1=EVERY%20RARE%20FEATURE%20%E2%80%A2%20ONE%20FILE&width=830&height=110)
+
+![Egg](https://capsule-render.vercel.app/api?type=egg&height=180&text=RARITY%3A%20%E2%88%9E&fontSize=40&color=0:0a0118,50:ec4899,100:ffd700&fontColor=ffffff&animation=blinking)
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&duration=1700&pause=300&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=170&lines=%3E+LOADING+%CE%A9MEGA+..........+ALL+RARE+FEATURES+FOUND;%3E+3D+MODEL+...............+EMBEDDED+%5BINTERACTIVE%5D;%3E+MERMAID+DIAGRAMS+.......+6+TYPES+DETECTED;%3E+LATEX+EQUATIONS+........+RENDERING+%E2%88%9E;%3E+AURA+...................+%2B9999+OVERFLOW;%3E+FARM+TOOL+..............+1x+ANDROID+PHONE+%F0%9F%93%B1;%3E+FINAL+BOSS+.............+SDE+INTERNSHIP+%5BLEGENDARY%5D;%3E+VERDICT+................+ONE+OF+ONE.+LITERALLY." alt="typing" />
 
 <img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=AURA+WITNESSES&color=ec4899&style=for-the-badge" alt="views" />&nbsp;
 <a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=AURA+DISCIPLES&style=for-the-badge&color=ffd700&labelColor=0a0118" alt="followers" /></a>&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%94%AE_AURA-%2B9999_%E2%88%9E-ec4899?style=for-the-badge&labelColor=0a0118" alt="aura" />
+<img src="https://img.shields.io/badge/%F0%9F%94%AE_AURA-%2B9999_%E2%88%9E-ec4899?style=for-the-badge&labelColor=0a0118" alt="aura" />&nbsp;
+<img src="https://img.shields.io/badge/%CE%A9-ONE_OF_ONE-ffd700?style=for-the-badge&labelColor=0a0118" alt="omega" />
 
 </div>
 
 > [!IMPORTANT]
-> **🔮 AURA DISCLOSURE:** This profile farms aura the only legal way — **shipping real products**. Everything below is live, clickable and verifiable. Zero fake widgets. Zero borrowed aura. **All organic. Farm to table.** 🌾
+> **Ω DISCLOSURE:** This is the FINAL FORM — every rare GitHub feature that can legally live in a README[^1] is in this file: theme-aware magic banner · 6 Mermaid diagram types · LaTeX math · all 5 alert types · ANSI rainbow terminals · interactive dossiers · footnotes · secret levels. Everything is live, clickable and verifiable. **Zero fake widgets. Zero borrowed aura. All organic. Farm to table.** 🌾
 
 <div align="center">
 
 ![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:a855f7,50:ec4899,100:ffd700)
 
-## 📖 THE AURA LEDGER — 26 CHAPTERS
+## 🎮 LEVEL SELECT — 26 LEVELS + SECRET ENDINGS
 
 | | | | |
 |:---:|:---:|:---:|:---:|
@@ -179,7 +192,7 @@ aura_flex   : ships from a phone faster than
 
 ![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:a855f7,50:ec4899,100:ffd700)
 
-# 🌆 Ｅ · EVOLUTION (3D CITY)
+# 🌆 Ｅ · EVOLUTION — THE 3D CITY (embedded 3D render)
 
 <div align="center">
 
@@ -303,7 +316,56 @@ timeline
              : FINAL HARVEST — SDE Internship (+50000 aura)
 ```
 
-> 🧭 Both maps are **Mermaid** — GitHub renders them natively. The route is one-way: forward only.
+### 🌳 Real dev-history as a git graph (Mermaid gitGraph — almost NOBODY has this)
+
+```mermaid
+%%{init: {'theme':'dark','gitGraph':{'showCommitLabel':true}}}%%
+gitGraph
+    commit id: "spawn: hello-world"
+    commit id: "learn: Termux + Git"
+    branch portfolio
+    commit id: "AUREA: 3D hero"
+    commit id: "AI chatbot + ⌘K"
+    checkout main
+    merge portfolio id: "PORTFOLIO LIVE ⚡"
+    branch nexusmart
+    commit id: "JWT + bcrypt auth"
+    commit id: "MongoDB Atlas"
+    checkout main
+    merge nexusmart id: "NEXUSMART LIVE 🛒"
+    commit id: "next: npm package 📦"
+    commit id: "boss: internship 🏆"
+```
+
+### 🧠 The whole brain in one mindmap (Mermaid mindmap — rarest diagram of all)
+
+```mermaid
+mindmap
+  root((MANASHJYOTI Ω))
+    Frontend
+      React
+      Next.js 14
+      TypeScript
+      Tailwind
+    Backend
+      Node.js
+      REST APIs
+      JWT Auth
+      Zod
+    Database
+      MongoDB Atlas
+      Mongoose
+    Ops
+      Vercel
+      GitHub Actions
+    Weapon
+      Android phone 📱
+      Termux
+    Mission
+      SDE Internship 🏆
+```
+
+> 🧭 All 4 maps above are **Mermaid** — GitHub renders every one natively. flowchart + timeline + gitGraph + mindmap + pie = **5 diagram types in one README.** The route is one-way: forward only.
 
 ![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:a855f7,50:ec4899,100:ffd700)
 
@@ -553,6 +615,9 @@ AURA      ███████████████████████�
 
 > 📈 Bars refill daily via commits. No pay-to-win. Farm only.
 
+> [!CAUTION]
+> **Do NOT attempt to out-grind this profile without proper hydration.** Five alert types were used in this README — yes, this caution box is itself a rare collectible. You just found the 5th one. 🏅
+
 ![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:a855f7,50:ec4899,100:ffd700)
 
 # 🎯 Ｙ · YEAR 2026 HARVESTS
@@ -588,7 +653,7 @@ AURA      ███████████████████████�
 <br/>
 
 <details>
-<summary>🥚 <b>SECRET CHAPTER 27 — maximum aura holders only</b></summary>
+<summary>🥚 <b>SECRET ENDING — LEVEL 27 · true completionists only</b></summary>
 <br/>
 
 ```ansi
@@ -600,7 +665,7 @@ AURA      ███████████████████████�
 [38;5;213m║[0m   That's exactly the energy I bring to         [38;5;213m║[0m
 [38;5;213m║[0m   every codebase.                              [38;5;213m║[0m
 [38;5;213m║[0m                                                [38;5;213m║[0m
-[38;5;213m║[0m   [38;5;46mEmail me the word "AURA"[0m — instant reply     [38;5;213m║[0m
+[38;5;213m║[0m   [38;5;46mEmail me the word "OMEGA"[0m — instant reply     [38;5;213m║[0m
 [38;5;213m║[0m   + virtual coffee on me. ☕                    [38;5;213m║[0m
 [38;5;213m╚════════════════════════════════════════════════╝[0m
 ```
@@ -609,8 +674,13 @@ AURA      ███████████████████████�
 
 <br/>
 
-*"Zero laptops were harmed — or used — in the farming of this aura."* 📱🔮
+<samp>system.log → readme.omega rendered successfully · 0 errors · ∞ aura</samp>
 
-![Footer](https://capsule-render.vercel.app/api?type=shark&color=0:0a0118,40:a855f7,75:ec4899,100:ffd700&height=160&section=footer&text=AURA%20NEVER%20SLEEPS&fontSize=26&fontColor=ffffff&animation=fadeIn)
+*"Zero laptops were harmed — or used — in the farming of this aura."* 📱🔮<br/>
+<sub>ΩMEGA edition · one of one · handmade in Nagaon, Assam 🇮🇳</sub> <sup>v∞.0.0</sup>
+
+![Footer](https://capsule-render.vercel.app/api?type=shark&color=0:0a0118,30:a855f7,60:ec4899,100:ffd700&height=170&section=footer&text=%CE%A9MEGA%20COMPLETE%20%E2%80%94%20GG&fontSize=28&fontColor=ffffff&animation=fadeIn)
 
 </div>
+
+[^1]: Footnotes in a profile README? Also rare. Also collected. You're welcome. ✅
