@@ -29,6 +29,81 @@
 
 <br><br>
 
+<div align="center">
+<svg width="780" height="90" viewBox="0 0 780 90" xmlns="http://www.w3.org/2000/svg" style="max-width:100%">
+  <defs>
+    <linearGradient id="mBg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#000"/><stop offset="1" stop-color="#0a0014"/>
+    </linearGradient>
+  </defs>
+  <rect width="780" height="90" fill="url(#mBg)" rx="8"/>
+  <style>
+    .m{fill:#00ff9d;font-family:monospace;font-size:11px;opacity:0}
+    .m1{animation:dr 2.2s linear infinite}
+    .m2{animation:dr 2.6s linear infinite .3s}
+    .m3{animation:dr 1.9s linear infinite .7s}
+    .m4{animation:dr 3.1s linear infinite 1.1s}
+    .m5{animation:dr 2.4s linear infinite 1.5s}
+    @keyframes dr{0%{opacity:0;transform:translateY(-20px)}15%{opacity:1}85%{opacity:1}100%{opacity:0;transform:translateY(80px)}}
+  </style>
+  <text class="m m1" x="8" y="0">}0_$$<}{*</text>
+  <text class="m m2" x="23" y="0">10{/$%0/*</text>
+  <text class="m m3" x="38" y="0">$#_0>*+_<</text>
+  <text class="m m4" x="53" y="0">/+}{?}==_</text>
+  <text class="m m5" x="68" y="0">1#}?{;=/{</text>
+  <text class="m m1" x="83" y="0">1$;{$}?_#</text>
+  <text class="m m2" x="98" y="0">=>==/_{>$</text>
+  <text class="m m3" x="113" y="0">>#?_$+1$1</text>
+  <text class="m m4" x="128" y="0">+?_{/+/&?</text>
+  <text class="m m5" x="143" y="0">#<_<$_*?=</text>
+  <text class="m m1" x="158" y="0">$<%&{1}<></text>
+  <text class="m m2" x="173" y="0">*{??#%_0}</text>
+  <text class="m m3" x="188" y="0">_+};*>#0_</text>
+  <text class="m m4" x="203" y="0">%>%};%/<=</text>
+  <text class="m m5" x="218" y="0">>%0+&0}=;</text>
+  <text class="m m1" x="233" y="0">$1${{&{<<</text>
+  <text class="m m2" x="248" y="0">&>_%*//;?</text>
+  <text class="m m3" x="263" y="0">=#%#}$${+</text>
+  <text class="m m4" x="278" y="0">0$$0{1${1</text>
+  <text class="m m5" x="293" y="0">+{%$_&/<&</text>
+  <text class="m m1" x="308" y="0">$&*/}}*=*</text>
+  <text class="m m2" x="323" y="0">*#1}1?+}$</text>
+  <text class="m m3" x="338" y="0">//#<*>_#$</text>
+  <text class="m m4" x="353" y="0">{#}10{$>*</text>
+  <text class="m m5" x="368" y="0">&&/?1>?0?</text>
+  <text class="m m1" x="383" y="0">_#;*&</;/</text>
+  <text class="m m2" x="398" y="0">11+11&%%></text>
+  <text class="m m3" x="413" y="0">1%{>{{$?}</text>
+  <text class="m m4" x="428" y="0">$1{*%+_/+</text>
+  <text class="m m5" x="443" y="0">$_?<;#+{0</text>
+  <text class="m m1" x="458" y="0">#}{/%_<={</text>
+  <text class="m m2" x="473" y="0">$=;>#;%0;</text>
+  <text class="m m3" x="488" y="0">}<_}}<_;/</text>
+  <text class="m m4" x="503" y="0">+/_%&_1{*</text>
+  <text class="m m5" x="518" y="0">_10+<_>#*</text>
+  <text class="m m1" x="533" y="0">0}{<1=<*<</text>
+  <text class="m m2" x="548" y="0">1;=1=/$}=</text>
+  <text class="m m3" x="563" y="0">*<$>>*0>+</text>
+  <text class="m m4" x="578" y="0">*$_>}?1&$</text>
+  <text class="m m5" x="593" y="0">/#=;$$0/?</text>
+  <text class="m m1" x="608" y="0">+_{_=%?+0</text>
+  <text class="m m2" x="623" y="0">}_>_1}*=+</text>
+  <text class="m m3" x="638" y="0">*%}?/_1*0</text>
+  <text class="m m4" x="653" y="0">%/=*{++};</text>
+  <text class="m m5" x="668" y="0">%;*+?;</*</text>
+  <text class="m m1" x="683" y="0">?>;?0;;/*</text>
+  <text class="m m2" x="698" y="0">+###/%&>{</text>
+  <text class="m m3" x="713" y="0">;%+{$;$/<</text>
+  <text class="m m4" x="728" y="0">01$&{#*/?</text>
+  <text class="m m5" x="743" y="0">&?$<0}*$></text>
+  <text class="m m1" x="758" y="0">%#1$}#<#%</text>
+  <text class="m m2" x="773" y="0">+#%*#>&#_</text>
+  <text x="390" y="52" text-anchor="middle" font-family="monospace" font-size="22" font-weight="bold" fill="#fff">
+    <tspan>SYSTEM ONLINE · </tspan><tspan fill="#00ff9d">npm run ship</tspan><tspan> 🚀</tspan>
+  </text>
+</svg>
+</div>
+
 <p align="center">
   <a href="https://github.com/Manashjyoti-Bora"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspal&logoColor=white"></a><span style="display:inline-block;position:relative;top:-3px;margin:0 6px">
   <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#22c55e;box-shadow:0 0 0 0 rgba(34,197,94,.8);animation:pulseDot 1.8s infinite"></span>
@@ -55,6 +130,29 @@
 </p>
 
 </div>
+
+<div align="center" aria-hidden="true">
+<svg width="780" height="28" viewBox="0 0 780 28" xmlns="http://www.w3.org/2000/svg" style="max-width:100%">
+  <style>
+    @keyframes fall{0%{transform:translateY(-10px) rotate(0)}100%{transform:translateY(18px) rotate(360deg)}}
+    .p{animation:fall 2.5s linear infinite}
+  </style><rect class="p" x="-1" y="-6" width="4" height="6" rx="1" fill="#4169E1" style="animation-delay:0.99s" transform="rotate(274 -1 5)"/><rect class="p" x="10" y="-6" width="8" height="7" rx="1" fill="#00CED1" style="animation-delay:1.46s" transform="rotate(19 10 5)"/><rect class="p" x="23" y="-6" width="5" height="6" rx="1" fill="#FF69B4" style="animation-delay:1.05s" transform="rotate(282 23 5)"/><rect class="p" x="39" y="-6" width="4" height="7" rx="1" fill="#8A2BE2" style="animation-delay:2.07s" transform="rotate(322 39 5)"/><rect class="p" x="54" y="-6" width="8" height="10" rx="1" fill="#FFD700" style="animation-delay:2.37s" transform="rotate(203 54 5)"/><rect class="p" x="62" y="-6" width="5" height="8" rx="1" fill="#4169E1" style="animation-delay:0.12s" transform="rotate(214 62 5)"/><rect class="p" x="76" y="-6" width="6" height="10" rx="1" fill="#FFD700" style="animation-delay:0.29s" transform="rotate(349 76 5)"/><rect class="p" x="89" y="-6" width="5" height="8" rx="1" fill="#8A2BE2" style="animation-delay:1.45s" transform="rotate(49 89 5)"/><rect class="p" x="105" y="-6" width="4" height="10" rx="1" fill="#22c55e" style="animation-delay:0.16s" transform="rotate(105 105 5)"/><rect class="p" x="117" y="-6" width="6" height="9" rx="1" fill="#22c55e" style="animation-delay:1.33s" transform="rotate(299 117 5)"/><rect class="p" x="130" y="-6" width="5" height="7" rx="1" fill="#00CED1" style="animation-delay:0.75s" transform="rotate(41 130 5)"/><rect class="p" x="144" y="-6" width="6" height="9" rx="1" fill="#00CED1" style="animation-delay:1.31s" transform="rotate(147 144 5)"/><rect class="p" x="157" y="-6" width="7" height="7" rx="1" fill="#8A2BE2" style="animation-delay:0.3s" transform="rotate(175 157 5)"/><rect class="p" x="167" y="-6" width="4" height="10" rx="1" fill="#FF69B4" style="animation-delay:1.05s" transform="rotate(293 167 5)"/><rect class="p" x="185" y="-6" width="6" height="10" rx="1" fill="#ff5f56" style="animation-delay:0.78s" transform="rotate(254 185 5)"/><rect class="p" x="196" y="-6" width="4" height="8" rx="1" fill="#ff5f56" style="animation-delay:1.14s" transform="rotate(242 196 5)"/><rect class="p" x="210" y="-6" width="6" height="10" rx="1" fill="#22c55e" style="animation-delay:0.16s" transform="rotate(348 210 5)"/><rect class="p" x="224" y="-6" width="7" height="8" rx="1" fill="#FF69B4" style="animation-delay:0.71s" transform="rotate(11 224 5)"/><rect class="p" x="234" y="-6" width="4" height="9" rx="1" fill="#00CED1" style="animation-delay:0.42s" transform="rotate(30 234 5)"/><rect class="p" x="245" y="-6" width="5" height="9" rx="1" fill="#ff5f56" style="animation-delay:0.72s" transform="rotate(200 245 5)"/><rect class="p" x="263" y="-6" width="7" height="9" rx="1" fill="#FF69B4" style="animation-delay:0.2s" transform="rotate(281 263 5)"/><rect class="p" x="272" y="-6" width="8" height="8" rx="1" fill="#4169E1" style="animation-delay:2.05s" transform="rotate(212 272 5)"/><rect class="p" x="285" y="-6" width="5" height="7" rx="1" fill="#22c55e" style="animation-delay:2.21s" transform="rotate(42 285 5)"/><rect class="p" x="297" y="-6" width="5" height="6" rx="1" fill="#4169E1" style="animation-delay:0.58s" transform="rotate(248 297 5)"/><rect class="p" x="315" y="-6" width="6" height="6" rx="1" fill="#FFD700" style="animation-delay:0.46s" transform="rotate(74 315 5)"/><rect class="p" x="325" y="-6" width="8" height="8" rx="1" fill="#FFD700" style="animation-delay:0.92s" transform="rotate(64 325 5)"/><rect class="p" x="340" y="-6" width="8" height="6" rx="1" fill="#ff5f56" style="animation-delay:1.29s" transform="rotate(233 340 5)"/><rect class="p" x="354" y="-6" width="8" height="9" rx="1" fill="#ff5f56" style="animation-delay:2.38s" transform="rotate(203 354 5)"/><rect class="p" x="364" y="-6" width="7" height="6" rx="1" fill="#FF69B4" style="animation-delay:0.26s" transform="rotate(97 364 5)"/><rect class="p" x="374" y="-6" width="4" height="8" rx="1" fill="#4169E1" style="animation-delay:1.1s" transform="rotate(307 374 5)"/><rect class="p" x="387" y="-6" width="5" height="10" rx="1" fill="#8A2BE2" style="animation-delay:0.0s" transform="rotate(51 387 5)"/><rect class="p" x="402" y="-6" width="5" height="10" rx="1" fill="#FFD700" style="animation-delay:0.06s" transform="rotate(192 402 5)"/><rect class="p" x="414" y="-6" width="6" height="10" rx="1" fill="#22c55e" style="animation-delay:0.63s" transform="rotate(186 414 5)"/><rect class="p" x="429" y="-6" width="7" height="9" rx="1" fill="#8A2BE2" style="animation-delay:0.29s" transform="rotate(245 429 5)"/><rect class="p" x="442" y="-6" width="4" height="8" rx="1" fill="#00CED1" style="animation-delay:0.21s" transform="rotate(135 442 5)"/><rect class="p" x="455" y="-6" width="8" height="6" rx="1" fill="#ff5f56" style="animation-delay:1.73s" transform="rotate(105 455 5)"/><rect class="p" x="469" y="-6" width="8" height="6" rx="1" fill="#00CED1" style="animation-delay:0.37s" transform="rotate(270 469 5)"/><rect class="p" x="480" y="-6" width="6" height="10" rx="1" fill="#22c55e" style="animation-delay:2.16s" transform="rotate(187 480 5)"/><rect class="p" x="492" y="-6" width="8" height="10" rx="1" fill="#00CED1" style="animation-delay:1.93s" transform="rotate(257 492 5)"/><rect class="p" x="506" y="-6" width="5" height="7" rx="1" fill="#22c55e" style="animation-delay:0.56s" transform="rotate(205 506 5)"/><rect class="p" x="522" y="-6" width="8" height="9" rx="1" fill="#ff5f56" style="animation-delay:0.57s" transform="rotate(182 522 5)"/><rect class="p" x="535" y="-6" width="6" height="9" rx="1" fill="#8A2BE2" style="animation-delay:2.47s" transform="rotate(132 535 5)"/><rect class="p" x="544" y="-6" width="6" height="9" rx="1" fill="#22c55e" style="animation-delay:1.51s" transform="rotate(178 544 5)"/><rect class="p" x="558" y="-6" width="5" height="9" rx="1" fill="#8A2BE2" style="animation-delay:0.55s" transform="rotate(100 558 5)"/><rect class="p" x="571" y="-6" width="8" height="6" rx="1" fill="#4169E1" style="animation-delay:1.21s" transform="rotate(245 571 5)"/><rect class="p" x="587" y="-6" width="4" height="6" rx="1" fill="#00CED1" style="animation-delay:2.0s" transform="rotate(198 587 5)"/><rect class="p" x="601" y="-6" width="7" height="7" rx="1" fill="#22c55e" style="animation-delay:1.88s" transform="rotate(222 601 5)"/><rect class="p" x="614" y="-6" width="7" height="9" rx="1" fill="#22c55e" style="animation-delay:0.83s" transform="rotate(205 614 5)"/><rect class="p" x="626" y="-6" width="5" height="7" rx="1" fill="#8A2BE2" style="animation-delay:1.81s" transform="rotate(14 626 5)"/><rect class="p" x="635" y="-6" width="5" height="10" rx="1" fill="#FFD700" style="animation-delay:2.26s" transform="rotate(305 635 5)"/><rect class="p" x="650" y="-6" width="5" height="10" rx="1" fill="#22c55e" style="animation-delay:2.34s" transform="rotate(280 650 5)"/><rect class="p" x="661" y="-6" width="4" height="10" rx="1" fill="#8A2BE2" style="animation-delay:0.04s" transform="rotate(71 661 5)"/><rect class="p" x="676" y="-6" width="5" height="6" rx="1" fill="#ff5f56" style="animation-delay:0.49s" transform="rotate(128 676 5)"/><rect class="p" x="687" y="-6" width="8" height="8" rx="1" fill="#00CED1" style="animation-delay:1.25s" transform="rotate(132 687 5)"/><rect class="p" x="703" y="-6" width="4" height="8" rx="1" fill="#FF69B4" style="animation-delay:2.09s" transform="rotate(234 703 5)"/><rect class="p" x="717" y="-6" width="8" height="9" rx="1" fill="#FFD700" style="animation-delay:2.04s" transform="rotate(256 717 5)"/><rect class="p" x="726" y="-6" width="8" height="6" rx="1" fill="#FFD700" style="animation-delay:0.38s" transform="rotate(225 726 5)"/><rect class="p" x="744" y="-6" width="5" height="7" rx="1" fill="#4169E1" style="animation-delay:1.52s" transform="rotate(72 744 5)"/><rect class="p" x="754" y="-6" width="8" height="6" rx="1" fill="#FFD700" style="animation-delay:1.81s" transform="rotate(166 754 5)"/><rect class="p" x="769" y="-6" width="7" height="6" rx="1" fill="#FFD700" style="animation-delay:1.33s" transform="rotate(286 769 5)"/></svg></div>
+
+
+
+<div align="center">
+<svg width="360" height="60" viewBox="0 0 360 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="nGlow"><feGaussianBlur stdDeviation="3" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="360" height="60" rx="10" fill="#0a0014" stroke="#ff00aa" stroke-width="1"/>
+  <text x="180" y="38" text-anchor="middle" font-family="'Fira Code',monospace" font-size="22" font-weight="bold" fill="#ff00aa" filter="url(#nGlow)">
+    OPEN TO WORK / INTERNSHIPS
+    <animate attributeName="opacity" values="1;0.85;0.4;0.9;1;1;0.6;1;1" keyTimes="0;.1;.13;.15;.17;.7;.73;.76;1" dur="4s" repeatCount="indefinite"/>
+  </text>
+</svg>
+</div>
+
 <br>
 <a href="mailto:manashjyotibora122@gmail.com">
   <span style="display:inline-block;animation:shake 2.5s infinite;padding:8px 18px;background:linear-gradient(90deg,#8A2BE2,#4169E1,#00CED1);color:#fff;border-radius:8px;font-weight:800;font-family:monospace;letter-spacing:.5px;box-shadow:0 4px 18px rgba(138,43,226,.45);text-decoration:none">
@@ -142,6 +240,18 @@ Hi, I'm **Manashjyoti Bora** — a Full Stack Developer from Nagaon, Assam. I lo
 
 <br clear="right">
 
+<div align="center" style="margin:10px 0">
+<span style="display:inline-block;font:15px Fira Code,monospace;background:#0b1021;border:1px solid #30363d;padding:8px 14px;border-radius:8px;color:#00CED1">
+  <span style="color:#ff69b4">$</span> cat status.md
+  <span style="display:inline-block;overflow:hidden;white-space:nowrap;vertical-align:bottom;width:340px;animation:ty 8s steps(30,end) infinite;animation-fill-mode:forwards">Shipping clean code from Nagaon, Assam 🇮🇳 🚀</span><span style="display:inline-block;width:9px;height:16px;background:#00CED1;vertical-align:-2px;animation:blink2 1s steps(1) infinite"></span>
+</span>
+<style>
+@keyframes ty{0%{width:0}60%{width:340px}80%{width:340px}95%{width:0}100%{width:0}}
+@keyframes blink2{50%{opacity:0}}
+</style>
+</div>
+
+
 <details>
 <summary>🌐 Multilingual greetings</summary>
 
@@ -173,10 +283,35 @@ Hi, I'm **Manashjyoti Bora** — a Full Stack Developer from Nagaon, Assam. I lo
 
 ---
 
-## 🛠️ Tech Stack <svg width="36" height="36" viewBox="0 0 40 40" style="vertical-align:middle" xmlns="http://www.w3.org/2000/svg">
+## 🛠️ Tech Stack <svg width="36"
+ height="36" viewBox="0 0 40 40" style="vertical-align:middle" xmlns="http://www.w3.org/2000/svg">
   <style>@keyframes spin{to{transform:rotate(360deg)}}.sp{transform-origin:20px 20px;animation:spin 6s linear infinite}@keyframes spin2{to{transform:rotate(-360deg)}}.sp2{transform-origin:20px 20px;animation:spin2 9s linear infinite}</style>
   <g class="sp"><circle cx="20" cy="20" r="3" fill="#61DAFB"/><ellipse cx="20" cy="20" rx="17" ry="7" fill="none" stroke="#61DAFB" stroke-width="1.6"/><ellipse cx="20" cy="20" rx="17" ry="7" fill="none" stroke="#61DAFB" stroke-width="1.6" transform="rotate(60 20 20)"/><ellipse cx="20" cy="20" rx="17" ry="7" fill="none" stroke="#61DAFB" stroke-width="1.6" transform="rotate(120 20 20)"/></g>
 </svg>
+<div align="center">
+<div style="perspective:600px;display:inline-block;width:120px;height:120px;margin:6px 0 14px">
+  <style>
+    @keyframes spin3d{0%{transform:rotateX(-20deg) rotateY(0)}100%{transform:rotateX(-20deg) rotateY(360deg)}}
+    .cube{width:100%;height:100%;position:relative;transform-style:preserve-3d;animation:spin3d 12s linear infinite}
+    .cf{position:absolute;width:120px;height:120px;display:flex;align-items:center;justify-content:center;font:900 22px Fira Code,monospace;color:#fff;border:2px solid #fff4;backdrop-filter:blur(2px)}
+    .c1{background:#8A2BE2cc;transform:translateZ(60px)}
+    .c2{background:#4169E1cc;transform:rotateY(180deg) translateZ(60px)}
+    .c3{background:#00CED1cc;transform:rotateY(90deg) translateZ(60px)}
+    .c4{background:#FF69B4cc;transform:rotateY(-90deg) translateZ(60px)}
+    .c5{background:#22c55ecc;transform:rotateX(90deg) translateZ(60px)}
+    .c6{background:#f59e0bcc;transform:rotateX(-90deg) translateZ(60px)}
+  </style>
+  <div class="cube">
+    <div class="cf c1">JS</div>
+    <div class="cf c2">TS</div>
+    <div class="cf c3">⚛</div>
+    <div class="cf c4">⬢</div>
+    <div class="cf c5">JSX</div>
+    <div class="cf c6">CSS</div>
+  </div>
+</div>
+</div>
+
 
 <div align="center" style="font-size:22px;letter-spacing:18px">
 <span style="display:inline-block;animation:tw 1.6s ease-in-out infinite">✨</span>
@@ -326,6 +461,53 @@ app.listen(3000, () => console.log('🚀 Running on port 3000'));
 
 $$e^{i\pi}+1=0 \quad \text{(Euler's Identity)}$$
 
+<div align="center">
+<table><tr>
+<td><svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="90" cy="90" r="82" fill="#0b1021" stroke="#8A2BE2" stroke-width="3"/>
+  <style>
+    @keyframes hr{to{transform:rotate(360deg)}}
+    @keyframes mn{to{transform:rotate(360deg)}}
+    @keyframes sc{to{transform:rotate(360deg)}}
+    .hh{transform-origin:90px 90px;animation:hr 43200s linear infinite}
+    .mh{transform-origin:90px 90px;animation:mn 3600s linear infinite}
+    .sh{transform-origin:90px 90px;animation:sc 60s steps(60) infinite}
+  </style>
+  <g stroke="#fff" stroke-width="2">
+    <line x1="90" y1="20" x2="90" y2="28"/><line x1="90" y1="152" x2="90" y2="160"/>
+    <line x1="20" y1="90" x2="28" y2="90"/><line x1="152" y1="90" x2="160" y2="90"/>
+  </g>
+  <text x="90" y="36" text-anchor="middle" fill="#fff" font-size="12" font-family="monospace">12</text>
+  <text x="150" y="94" text-anchor="middle" fill="#fff" font-size="12" font-family="monospace">3</text>
+  <text x="90" y="156" text-anchor="middle" fill="#fff" font-size="12" font-family="monospace">6</text>
+  <text x="30" y="94" text-anchor="middle" fill="#fff" font-size="12" font-family="monospace">9</text>
+  <g class="hh"><line x1="90" y1="90" x2="90" y2="50" stroke="#fff" stroke-width="4" stroke-linecap="round"/></g>
+  <g class="mh"><line x1="90" y1="90" x2="90" y2="35" stroke="#00CED1" stroke-width="3" stroke-linecap="round"/></g>
+  <g class="sh"><line x1="90" y1="90" x2="90" y2="28" stroke="#FF69B4" stroke-width="1.5" stroke-linecap="round"/></g>
+  <circle cx="90" cy="90" r="4" fill="#8A2BE2"/>
+  <text x="90" y="174" text-anchor="middle" fill="#8b949e" font-size="10" font-family="monospace">IST (UTC+5:30)</text>
+</svg></td>
+<td><svg width="180" height="180" viewBox="0 0 180 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="rd"><stop offset="0" stop-color="#00CED1" stop-opacity=".7"/><stop offset="1" stop-color="#00CED1" stop-opacity="0"/></radialGradient>
+    <clipPath id="rc"><circle cx="90" cy="90" r="80"/></clipPath>
+  </defs>
+  <circle cx="90" cy="90" r="82" fill="#0b1021" stroke="#00CED1" stroke-width="2"/>
+  <g clip-path="url(#rc)">
+    <rect x="90" y="10" width="80" height="160" fill="url(#rd)">
+      <animateTransform attributeName="transform" type="rotate" from="0 90 90" to="360 90 90" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  <line x1="90" y1="90" x2="90" y2="18" stroke="#00CED1" stroke-width="2">
+    <animateTransform attributeName="transform" type="rotate" from="0 90 90" to="360 90 90" dur="4s" repeatCount="indefinite"/>
+  </line>
+  <circle cx="90" cy="90" r="4" fill="#00CED1"/>
+  <text x="90" y="130" text-anchor="middle" fill="#fff" font-size="11" font-family="monospace">SCANNING...</text>
+  <text x="90" y="174" text-anchor="middle" fill="#8b949e" font-size="10" font-family="monospace">v1.0 · ACTIVE</text>
+</svg></td>
+</tr><tr><td align="center" style="font:11px monospace;color:#8b949e">🕐 Live Clock</td><td align="center" style="font:11px monospace;color:#8b949e">📡 Radar Sweep</td></tr></table>
+</div>
+
 <p align="center">
   <a href="https://manashjyoti-bora.vercel.app"><img src="https://img.shields.io/badge/My-Portfolio-8A2BE2?style=for-the-badge&logo=vercel"></a>
   <a href="https://github.com/Manashjyoti-Bora?tab=repositories"><img src="https://img.shields.io/badge/My-Repositories-blue?style=for-the-badge&logo=github"></a>
@@ -377,6 +559,35 @@ Portfolio    TS         Blog
   <rect width="720" height="8" y="5" rx="4" fill="url(#rb)"/>
 </svg>
 </div>
+
+<div align="center">
+<table>
+<tr><th style="padding:4px 12px;color:#8b949e;font:12px monospace">Skill</th><th style="padding:4px 12px;color:#8b949e;font:12px monospace">Level</th></tr>
+<tr><td style="padding:4px 12px;font:13px monospace;color:#e6edf3">JavaScript</td><td style="padding:4px 12px"><svg width="280" height="20" viewBox="0 0 280 20" xmlns="http://www.w3.org/2000/svg"><rect width="280" height="20" rx="4" fill="#21262d"/><rect width="0" height="20" rx="4" fill="#F7DF1E"><animate attributeName="width" from="0" to="257" dur="1.2s" fill="freeze" begin="0.2s"/></rect><text x="140" y="14" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" fill="#000">92%</text></svg></td></tr>
+<tr><td style="padding:4px 12px;font:13px monospace;color:#e6edf3">TypeScript</td><td style="padding:4px 12px"><svg width="280" height="20" viewBox="0 0 280 20" xmlns="http://www.w3.org/2000/svg"><rect width="280" height="20" rx="4" fill="#21262d"/><rect width="0" height="20" rx="4" fill="#3178C6"><animate attributeName="width" from="0" to="238" dur="1.3499999999999999s" fill="freeze" begin="0.2s"/></rect><text x="140" y="14" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" fill="#000">85%</text></svg></td></tr>
+<tr><td style="padding:4px 12px;font:13px monospace;color:#e6edf3">React</td><td style="padding:4px 12px"><svg width="280" height="20" viewBox="0 0 280 20" xmlns="http://www.w3.org/2000/svg"><rect width="280" height="20" rx="4" fill="#21262d"/><rect width="0" height="20" rx="4" fill="#61DAFB"><animate attributeName="width" from="0" to="252" dur="1.5s" fill="freeze" begin="0.2s"/></rect><text x="140" y="14" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" fill="#000">90%</text></svg></td></tr>
+<tr><td style="padding:4px 12px;font:13px monospace;color:#e6edf3">Next.js</td><td style="padding:4px 12px"><svg width="280" height="20" viewBox="0 0 280 20" xmlns="http://www.w3.org/2000/svg"><rect width="280" height="20" rx="4" fill="#21262d"/><rect width="0" height="20" rx="4" fill="#ffffff"><animate attributeName="width" from="0" to="246" dur="1.65s" fill="freeze" begin="0.2s"/></rect><text x="140" y="14" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" fill="#000">88%</text></svg></td></tr>
+<tr><td style="padding:4px 12px;font:13px monospace;color:#e6edf3">Node.js</td><td style="padding:4px 12px"><svg width="280" height="20" viewBox="0 0 280 20" xmlns="http://www.w3.org/2000/svg"><rect width="280" height="20" rx="4" fill="#21262d"/><rect width="0" height="20" rx="4" fill="#339933"><animate attributeName="width" from="0" to="229" dur="1.7999999999999998s" fill="freeze" begin="0.2s"/></rect><text x="140" y="14" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" fill="#000">82%</text></svg></td></tr>
+<tr><td style="padding:4px 12px;font:13px monospace;color:#e6edf3">Tailwind CSS</td><td style="padding:4px 12px"><svg width="280" height="20" viewBox="0 0 280 20" xmlns="http://www.w3.org/2000/svg"><rect width="280" height="20" rx="4" fill="#21262d"/><rect width="0" height="20" rx="4" fill="#06B6D4"><animate attributeName="width" from="0" to="240" dur="1.95s" fill="freeze" begin="0.2s"/></rect><text x="140" y="14" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" fill="#000">86%</text></svg></td></tr>
+<tr><td style="padding:4px 12px;font:13px monospace;color:#e6edf3">Python</td><td style="padding:4px 12px"><svg width="280" height="20" viewBox="0 0 280 20" xmlns="http://www.w3.org/2000/svg"><rect width="280" height="20" rx="4" fill="#21262d"/><rect width="0" height="20" rx="4" fill="#3776AB"><animate attributeName="width" from="0" to="196" dur="2.0999999999999996s" fill="freeze" begin="0.2s"/></rect><text x="140" y="14" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" fill="#000">70%</text></svg></td></tr>
+<tr><td style="padding:4px 12px;font:13px monospace;color:#e6edf3">Docker</td><td style="padding:4px 12px"><svg width="280" height="20" viewBox="0 0 280 20" xmlns="http://www.w3.org/2000/svg"><rect width="280" height="20" rx="4" fill="#21262d"/><rect width="0" height="20" rx="4" fill="#2496ED"><animate attributeName="width" from="0" to="182" dur="2.25s" fill="freeze" begin="0.2s"/></rect><text x="140" y="14" text-anchor="middle" font-family="monospace" font-size="11" font-weight="bold" fill="#000">65%</text></svg></td></tr>
+</table></div>
+
+
+<div align="center">
+<span style="display:inline-block;animation:bounce 1.4s infinite;font-size:28px">⬇️</span>
+<style>@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(12px)}}</style>
+</div>
+<div align="center">
+<svg width="720" height="18" viewBox="0 0 720 18" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="rb" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#ff0040"><animate attributeName="stop-color" values="#ff0040;#ff8a00;#ffe600;#00c853;#00b0ff;#8A2BE2;#ff0040" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#8A2BE2"><animate attributeName="stop-color" values="#8A2BE2;#ff0040;#ff8a00;#ffe600;#00c853;#00b0ff;#8A2BE2" dur="6s" repeatCount="indefinite"/></stop>
+  </linearGradient></defs>
+  <rect width="720" height="8" y="5" rx="4" fill="url(#rb)"/>
+</svg>
+</div>
+
 
 ## 📊 GitHub Stats
 
@@ -518,9 +729,14 @@ Portfolio    TS         Blog
 ## 🎮 Fun Stuff
 
 <p align="center">
+<img width="200" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="octocat">
+<img width="220" src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" alt="developer">
+<img width="200" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" alt="cat coding">
+</p>
+<p align="center">
   <img width="220" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding setup">
   <img width="220" src="https://media.giphy.com/media/14kqI3Y4urS3rG/giphy.gif" alt="pixel coder">
-  <img width="220" src="https://media.giphy.com/media/L1R1tvI9ivRbTYW4pN/giphy.gif" alt="isometric dev">
+  <img width="220" src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" alt="code">
 </p>
 ```text
   __  __                  _      ____                       _
@@ -539,6 +755,35 @@ Portfolio    TS         Blog
 
 <details>
 <summary>🕹 Play: The GitHub Quest</summary>
+
+<div align="center">
+<svg width="720" height="170" viewBox="0 0 720 170" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="crtBg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#020a02"/><stop offset="1" stop-color="#031103"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="170" rx="10" fill="url(#crtBg)" stroke="#22c55e" stroke-width="1"/>
+  <style>
+    @keyframes scr{0%{opacity:0}5%{opacity:.9}100%{opacity:.9}}
+    @keyframes flick{0%,100%{opacity:.9}50%{opacity:.75}}
+    .crt{font:13px 'Fira Code',monospace;fill:#22c55e;opacity:0;animation:scr .2s forwards,flick 3s infinite 1s}
+    .crtL1{animation-delay:0.2s,1.2s}.crtL2{animation-delay:0.8s,1.2s}.crtL3{animation-delay:1.4s,1.2s}
+    .crtL4{animation-delay:2s,1.2s}.crtL5{animation-delay:2.6s,1.2s}.crtL6{animation-delay:3.2s,1.2s}
+    .crtL7{animation-delay:3.8s,1.2s}.crtL8{animation-delay:4.4s,1.2s}
+  </style>
+  <text x="20" y="28" class="crt crtL1">$ booting ManashOS v3.0 ...</text>
+  <text x="20" y="48" class="crt crtL2">[ OK ] Loading React ................ 92%</text>
+  <text x="20" y="68" class="crt crtL3">[ OK ] Mounting Next.js App Router ... 88%</text>
+  <text x="20" y="88" class="crt crtL4">[ OK ] Brewing Assamese masala chai ☕</text>
+  <text x="20" y="108" class="crt crtL5">[ OK ] Connecting to Cloud (Vercel) ...</text>
+  <text x="20" y="128" class="crt crtL6">[ OK ] Type checking with TypeScript ...</text>
+  <text x="20" y="148" class="crt crtL7">Welcome, traveller. Press any key to continue_</text>
+  <text x="20" y="148" class="crt crtL7" style="animation:blink2 1s steps(1) infinite 5s;animation-delay:5s">_</text>
+</svg>
+<style>@keyframes blink2{{50%{{opacity:0}}}}</style>
+</div>
+
 
 You're in a dark repo. A **terminal**, a **README.md**, and a **.env** file sit before you.
 
@@ -598,6 +843,27 @@ Found a vulnerability? **Don't** open a public issue. Email **[manashjyotibora12
 ---
 
 ## 📫 Connect
+
+<div align="center" style="margin:14px 0">
+<svg width="320" height="80" viewBox="0 0 320 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="locBg" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#8A2BE2"/><stop offset="1" stop-color="#00CED1"/>
+    </linearGradient>
+  </defs>
+  <rect width="320" height="80" rx="12" fill="#0b1021" stroke="url(#locBg)" stroke-width="2"/>
+  <style>
+    @keyframes pinbob{0%,100%{transform:translateY(0)}50%{transform:translateY(-4px)}}
+    @keyframes pinwave{0%{r:6;opacity:.8}100%{r:24;opacity:0}}
+    .pin{transform-origin:40px 32px;animation:pinbob 1.6s ease-in-out infinite}
+    .pw{transform-origin:40px 48px;animation:pinwave 1.6s ease-out infinite}
+  </style>
+  <g class="pin"><text x="20" y="50" font-size="36">📍</text></g>
+  <circle class="pw" cx="40" cy="48" r="6" fill="#00CED1" opacity=".6"/>
+  <text x="80" y="34" font-family="Fira Code,monospace" font-size="16" font-weight="bold" fill="#fff">Nagaon, Assam, India</text>
+  <text x="80" y="54" font-family="monospace" font-size="12" fill="#8b949e">🇮🇳 26.35°N, 92.69°E · IST · Chai Country ☕</text>
+</svg>
+</div>
 
 <div align="center">
 <a href="https://github.com/Manashjyoti-Bora"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -696,6 +962,28 @@ Distributed under the **MIT License**.
 <td align="center" bgcolor="#FF69B4" width="90" height="60"><font color="white"><b>#FF69B4</b><br>Pink</font></td>
 <td align="center" bgcolor="#0F172A" width="90" height="60"><font color="white"><b>#0F172A</b><br>Dark</font></td></tr>
 </table>
+</div>
+
+<div align="center">
+<svg width="780" height="90" viewBox="0 0 780 90" xmlns="http://www.w3.org/2000/svg" style="max-width:100%">
+  <defs>
+    <linearGradient id="cometG" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="1" stop-color="#fff"/>
+    </linearGradient>
+  </defs>
+  <rect width="780" height="90" fill="#060913"/>
+  <style>
+    @keyframes tw2{0%,100%{opacity:.2}50%{opacity:1}}
+    @keyframes shoot{0%{transform:translate(-120px,-60px)}100%{transform:translate(900px,120px)}}
+    .star{fill:#fff}.sA{animation:tw2 2s infinite}.sB{animation:tw2 3s infinite .4s}.sC{animation:tw2 2.6s infinite .9s}
+    .comet{animation:shoot 5s linear infinite}
+  </style><circle class="star sC" cx="413" cy="48" r="1" style="animation-delay:0.54s"/><circle class="star sB" cx="254" cy="17" r="1" style="animation-delay:2.19s"/><circle class="star sA" cx="543" cy="87" r="2" style="animation-delay:2.82s"/><circle class="star sC" cx="501" cy="25" r="1.5" style="animation-delay:1.84s"/><circle class="star sC" cx="221" cy="47" r="1.5" style="animation-delay:0.64s"/><circle class="star sC" cx="472" cy="84" r="1" style="animation-delay:1.02s"/><circle class="star sB" cx="733" cy="67" r="1" style="animation-delay:0.95s"/><circle class="star sA" cx="43" cy="34" r="2" style="animation-delay:1.28s"/><circle class="star sB" cx="371" cy="68" r="1" style="animation-delay:1.56s"/><circle class="star sA" cx="202" cy="77" r="1.5" style="animation-delay:1.07s"/><circle class="star sC" cx="221" cy="20" r="1.5" style="animation-delay:2.77s"/><circle class="star sA" cx="181" cy="64" r="1" style="animation-delay:0.33s"/><circle class="star sA" cx="175" cy="60" r="1.5" style="animation-delay:2.81s"/><circle class="star sB" cx="647" cy="11" r="1" style="animation-delay:1.85s"/><circle class="star sC" cx="390" cy="42" r="1" style="animation-delay:1.22s"/><circle class="star sB" cx="56" cy="81" r="1" style="animation-delay:0.77s"/><circle class="star sC" cx="413" cy="16" r="1.2" style="animation-delay:1.43s"/><circle class="star sC" cx="57" cy="16" r="2" style="animation-delay:0.45s"/><circle class="star sA" cx="418" cy="15" r="1" style="animation-delay:0.43s"/><circle class="star sA" cx="178" cy="22" r="1.5" style="animation-delay:2.77s"/><circle class="star sA" cx="574" cy="40" r="1.5" style="animation-delay:2.54s"/><circle class="star sC" cx="120" cy="46" r="1" style="animation-delay:0.22s"/><circle class="star sA" cx="294" cy="1" r="2" style="animation-delay:1.01s"/><circle class="star sB" cx="386" cy="51" r="1.2" style="animation-delay:1.16s"/><circle class="star sA" cx="379" cy="68" r="1" style="animation-delay:2.64s"/><circle class="star sA" cx="381" cy="51" r="1.5" style="animation-delay:0.93s"/><circle class="star sA" cx="670" cy="28" r="1.2" style="animation-delay:2.62s"/><circle class="star sC" cx="738" cy="40" r="1" style="animation-delay:2.02s"/><circle class="star sB" cx="255" cy="49" r="1.2" style="animation-delay:2.25s"/><circle class="star sB" cx="82" cy="56" r="1.5" style="animation-delay:0.21s"/><circle class="star sB" cx="300" cy="87" r="1.2" style="animation-delay:1.6s"/><circle class="star sB" cx="262" cy="55" r="1.2" style="animation-delay:2.9s"/><circle class="star sB" cx="625" cy="20" r="1.2" style="animation-delay:2.03s"/><circle class="star sA" cx="618" cy="79" r="1.5" style="animation-delay:1.14s"/><circle class="star sC" cx="202" cy="44" r="1" style="animation-delay:1.07s"/><circle class="star sC" cx="302" cy="24" r="1" style="animation-delay:0.78s"/><circle class="star sB" cx="426" cy="90" r="1" style="animation-delay:2.58s"/><circle class="star sA" cx="353" cy="84" r="1.5" style="animation-delay:0.34s"/><circle class="star sC" cx="544" cy="25" r="1" style="animation-delay:0.93s"/><circle class="star sB" cx="688" cy="21" r="2" style="animation-delay:2.8s"/><circle class="star sC" cx="270" cy="53" r="1.5" style="animation-delay:1.59s"/><circle class="star sB" cx="634" cy="80" r="2" style="animation-delay:0.6s"/><circle class="star sA" cx="21" cy="13" r="1.2" style="animation-delay:1.74s"/><circle class="star sB" cx="59" cy="53" r="1.2" style="animation-delay:2.91s"/><circle class="star sC" cx="641" cy="90" r="2" style="animation-delay:0.89s"/><circle class="star sB" cx="774" cy="12" r="1.5" style="animation-delay:2.37s"/><circle class="star sA" cx="271" cy="58" r="1.2" style="animation-delay:2.63s"/><circle class="star sB" cx="457" cy="88" r="1.5" style="animation-delay:1.69s"/><circle class="star sB" cx="732" cy="22" r="1.2" style="animation-delay:0.62s"/><circle class="star sA" cx="474" cy="73" r="1.5" style="animation-delay:2.48s"/><circle class="star sC" cx="490" cy="73" r="1.5" style="animation-delay:0.51s"/><circle class="star sB" cx="76" cy="68" r="1" style="animation-delay:1.57s"/><circle class="star sA" cx="117" cy="42" r="1.5" style="animation-delay:1.01s"/><circle class="star sC" cx="751" cy="0" r="2" style="animation-delay:1.6s"/><circle class="star sB" cx="648" cy="1" r="2" style="animation-delay:1.24s"/><circle class="star sA" cx="169" cy="17" r="2" style="animation-delay:1.19s"/><circle class="star sA" cx="48" cy="43" r="2" style="animation-delay:1.67s"/><circle class="star sA" cx="299" cy="20" r="1.5" style="animation-delay:2.09s"/><circle class="star sA" cx="427" cy="29" r="1" style="animation-delay:1.45s"/><circle class="star sA" cx="279" cy="35" r="1.2" style="animation-delay:1.68s"/><circle class="star sC" cx="202" cy="71" r="1" style="animation-delay:1.06s"/><circle class="star sC" cx="547" cy="10" r="1" style="animation-delay:0.38s"/><circle class="star sA" cx="140" cy="19" r="2" style="animation-delay:0.1s"/><circle class="star sA" cx="525" cy="82" r="1.5" style="animation-delay:1.06s"/><circle class="star sC" cx="734" cy="29" r="2" style="animation-delay:2.28s"/><circle class="star sA" cx="625" cy="20" r="1.2" style="animation-delay:2.68s"/><circle class="star sB" cx="640" cy="55" r="1" style="animation-delay:0.54s"/><circle class="star sC" cx="113" cy="18" r="1.5" style="animation-delay:2.9s"/><circle class="star sB" cx="748" cy="1" r="1" style="animation-delay:2.75s"/><circle class="star sB" cx="99" cy="30" r="2" style="animation-delay:2.2s"/>
+  <g class="comet">
+    <circle cx="0" cy="0" r="3" fill="#fff"/>
+    <rect x="-80" y="-1" width="80" height="2" fill="url(#cometG)"/>
+  </g>
+</svg>
 </div>
 
 <div align="center">
