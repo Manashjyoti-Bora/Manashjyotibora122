@@ -1,458 +1,1112 @@
-<div align="center">
+# ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+# ┃                                                                        ┃
+# ┃   ███████╗███████╗ ██████╗ █████╗ ██████╗ ███████╗                     ┃
+# ┃   ██╔════╝██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝                     ┃
+# ┃   █████╗  ███████╗██║     ███████║██████╔╝█████╗                       ┃
+# ┃   ██╔══╝  ╚════██║██║     ██╔══██║██╔═══╝ ██╔══╝                       ┃
+# ┃   ███████╗███████║╚██████╗██║  ██║██║     ███████╗                     ┃
+# ┃   ╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚══════╝                     ┃
+# ┃                                                                        ┃
+# ┃   ██████╗ ██╗   ██╗██╗██╗     ██████╗ ███████╗ █████╗  ██████╗████████║ ┃
+# ┃   ██╔══██╗██║   ██║██║██║     ██╔══██╗██╔════╝██╔══██╗██╔════╝╚══██╔══╝ ┃
+# ┃   ██████╔╝██║   ██║██║██║     ██║  ██║█████╗  ███████║██║        ██║    ┃
+# ┃   ██╔══██╗╚██╗ ██╔╝██║██║     ██║  ██║██╔══╝  ██╔══██║██║        ██║    ┃
+# ┃   ██████╔╝ ╚████╔╝ ██║███████╗██████╔╝███████╗██║  ██║╚██████╗   ██║    ┃
+# ┃   ╚═════╝   ╚═══╝  ╚═╝╚══════╝╚═════╝ ╚══════╝╚═╝  ╚═╝ ╚═════╝   ╚═╝    ┃
+# ┃                                                                        ┃
+# ┃   ███╗   ███╗ █████╗ ███╗   ██╗ ██████╗ ██████╗                         ┃
+# ┃   ████╗ ████║██╔══██╗████╗  ██║██╔═══██╗██╔══██╗                        ┃
+# ┃   ██╔████╔██║███████║██╔██╗ ██║██║   ██║██████╔╝                        ┃
+# ┃   ██║╚██╔╝██║██╔══██║██║╚██╗██║██║   ██║██╔══██╗                        ┃
+# ┃   ██║ ╚═╝ ██║██║  ██║██║ ╚████║╚██████╔╝██║  ██║                        ┃
+# ┃   ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═╝  ╚═╝                        ┃
+# ┃                                                                        ┃
+# ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--   READY TO HIRE · Ω PRO EDITION · THE RECRUITER-MAGNET README       -->
-<!--   Professional structure × world-rarest features × 100% verified    -->
-<!--   Built entirely on an Android phone. Every claim is clickable.     -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
-
-![Header](https://capsule-render.vercel.app/api?type=waving&height=250&text=MANASHJYOTI%20BORA&fontSize=52&color=0:0f172a,50:0369a1,100:34d399&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%94%20READY%20TO%20HIRE&descSize=20&descAlignY=75)
-
-![Status](https://svg-banners.vercel.app/api?type=glitch&text1=%F0%9F%92%BC%20STATUS%3A%20READY%20TO%20HIRE&width=830&height=120)
-
-![Verified](https://svg-banners.vercel.app/api?type=luminance&text1=CANDIDATE%20FILE%20%E2%80%94%20VERIFIED%20%E2%9C%94&width=830&height=110)
-
-<!-- 🪄 THEME-AWARE BANNER — adapts to recruiter's GitHub theme (ultra-rare trick) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=80&text=OPEN%20TO%20SDE%20INTERNSHIP%20%E2%80%A2%20IMMEDIATE%20JOINING&fontSize=24&fontColor=34d399&animation=twinkling">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=80&text=OPEN%20TO%20SDE%20INTERNSHIP%20%E2%80%A2%20IMMEDIATE%20JOINING&fontSize=24&fontColor=0369a1&animation=twinkling">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=OPEN%20TO%20SDE%20INTERNSHIP%20%E2%80%A2%20IMMEDIATE%20JOINING&fontSize=24&fontColor=34d399&animation=twinkling" alt="open to work" />
-</picture>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&duration=1800&pause=350&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=150&lines=%3E+CANDIDATE+SCAN+..........+VERIFIED+%E2%9C%94;%3E+ROLE+SOUGHT+.............+SDE+INTERN+%2F+FULL+STACK;%3E+SHIPPED+.................+2+PRODUCTS+IN+PRODUCTION;%3E+STACK+...................+NEXT.JS+%C2%B7+TS+%C2%B7+MONGODB;%3E+NOTICE+PERIOD+...........+ZERO.+CAN+START+TODAY;%3E+SUPERPOWER+..............+SHIPS+FROM+A+PHONE+%F0%9F%93%B1;%3E+RECOMMENDATION+..........+INTERVIEW+IMMEDIATELY" alt="typing" />
-
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2_STATUS-OPEN_TO_WORK-34d399?style=for-the-badge&labelColor=0f172a" alt="open" />&nbsp;
-<img src="https://img.shields.io/badge/%E2%8F%B0_NOTICE_PERIOD-0_DAYS-fbbf24?style=for-the-badge&labelColor=0f172a" alt="notice" />&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%93%8D_LOCATION-Assam%2C_IN_%C2%B7_IST-38bdf8?style=for-the-badge&labelColor=0f172a" alt="location" />
-
-<img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE+VISITS&color=34d399&style=for-the-badge" alt="views" />&nbsp;
-<a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=38bdf8&labelColor=0f172a" alt="followers" /></a>
-
-[![Portfolio](https://img.shields.io/badge/%E2%9A%A1_PORTFOLIO-manashjyoti--bora.vercel.app-38bdf8?style=for-the-badge&labelColor=0f172a)](https://manashjyoti-bora.vercel.app)&nbsp;
-[![Resume](https://img.shields.io/badge/%F0%9F%93%84_RESUME-Download_PDF-fbbf24?style=for-the-badge&labelColor=0f172a)](https://manashjyoti-bora.vercel.app/resume.pdf)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=0f172a&logo=linkedin)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)&nbsp;
-[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_EMAIL-24h_reply-D14836?style=for-the-badge&labelColor=0f172a&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com)
-
-</div>
-
-> [!IMPORTANT]
-> **📌 EXECUTIVE SUMMARY (30-second read for busy recruiters):** 1st-year B.Voc IT student who has already shipped **2 production applications** — solo, end-to-end, **entirely from an Android phone**[^1]. Full stack: Next.js 14 · TypeScript · MongoDB · JWT auth · CI/CD. Zero fake claims below — **every metric is a live widget, every project is a clickable deploy.** Seeking: SDE internship. Available: immediately.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=00FF88&center=true&vCenter=true&width=800&lines=console.log(%22Hello%2C%20World!%22);I%27m+Manashjyoti+Bora!;A+Full+Stack+Developer+%26+Creative+Coder" alt="Typing Animation" />
+</p>
 
 <div align="center">
-
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38bdf8,50:34d399,100:fbbf24)
-
-## 🗂️ CANDIDATE FILE — NAVIGATION
-
-| 📌 Section | 📌 Section | 📌 Section |
-|:---:|:---:|:---:|
-| [01 · KPI Dashboard](#-01--kpi-dashboard) | [02 · Hiring Pipeline](#-02--the-hiring-pipeline) | [03 · Case Studies](#-03--case-studies) |
-| [04 · Tech Stack](#-04--tech-stack) | [05 · Live Engineering Metrics](#-05--live-engineering-metrics) | [06 · The 3D Proof-of-Work City](#-06--the-3d-proof-of-work-city) |
-| [07 · Journey & Git History](#-07--journey--git-history) | [08 · Why Hire Me](#-08--why-hire-me) | [09 · Availability](#-09--availability--logistics) |
-| [10 · References & Proof](#-10--references--proof) | [11 · Contact](#-11--start-the-conversation) | [🔓 Bonus: Classified](#-08--why-hire-me) |
-
+  
+![Profile Views](https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+![Visitor Counter](https://profile-views.gateway.jagx.workers.dev/views-count/Manashjyoti-Bora?style=for-the-badge&color=FF6B6B)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=Manashjyoti-Bora&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=HITS&edge_flat=false)
+  
 </div>
 
-<br/>
+---
 
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38bdf8,50:34d399,100:fbbf24)
-
-# 📊 01 · KPI DASHBOARD
+# 🚀 1. HERO SECTION
 
 <div align="center">
-
-**Numbers first. Talk later.**
-
-| 📈 KPI | 📊 VALUE | ✅ VERIFICATION |
-|:---|:---:|:---|
-| Products in production | **2** | [Portfolio](https://manashjyoti-bora.vercel.app) · [NexusMart](https://nexusmart-dusky.vercel.app) — click & use them |
-| End-to-end ownership | **100%** | Design → code → auth → DB → deploy, all solo |
-| Public repositories | **5** | [github.com/Manashjyoti-Bora](https://github.com/Manashjyoti-Bora?tab=repositories) |
-| CI/CD pipelines running | **3** | GitHub Actions: snake · 3D city · profile automation |
-| Hardware budget used | **1 phone** | The rarest engineering constraint you'll see today |
-| Excuses shipped | **0** | Production log is clean |
-
-<img src="https://img.shields.io/github/last-commit/Manashjyoti-Bora/portfolio-website?style=for-the-badge&color=38bdf8&label=LAST%20SHIPPED&labelColor=0f172a" alt="last commit" />&nbsp;
-<img src="https://img.shields.io/github/commit-activity/m/Manashjyoti-Bora/portfolio-website?style=for-the-badge&color=34d399&label=COMMITS%2FMONTH&labelColor=0f172a" alt="commit activity" />
-
-</div>
-
-> [!NOTE]
-> **The hiring equation** — real LaTeX, rendered natively by GitHub:
->
-> $$\text{Candidate Value} = \frac{\text{2 shipped products} \times \text{100\% ownership}}{\text{1 Android phone}} \implies \text{ROI} \to \infty \text{ with real hardware}$$
-
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38bdf8,50:34d399,100:fbbf24)
-
-# 🔄 02 · THE HIRING PIPELINE
-
-**You are currently at step 1. The rest is automated.** 😄
-
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0369a1','primaryTextColor':'#fff','lineColor':'#34d399'}}}%%
-flowchart LR
-    A["👀 You read<br/>this README"] --> B["🖱️ You click<br/>a live demo"]
-    B --> C["🤯 It actually<br/>works"]
-    C --> D["📄 You open<br/>the resume"]
-    D --> E["✉️ You email<br/>me"]
-    E --> F["🤝 Interview"]
-    F --> G{"🏆 HIRED"}
-    style A fill:#0f172a,stroke:#38bdf8,color:#38bdf8
-    style G fill:#052e16,stroke:#34d399,color:#34d399
+  
+```
+    ╔═══════════════════════════════════════════════════════════════════════════╗
+    ║                                                                           ║
+    ║     █████╗     ██████╗    ██████╗     ██╗   ██╗    ██████╗     ███████╗   ║
+    ║    ██╔══██╗   ██╔═══██╗   ██╔══██╗    ██║   ██║    ██╔══██╗    ██╔════╝   ║
+    ║    ███████║   ██║   ██║   ██████╔╝    ██║   ██║    ██████╔╝    █████╗     ║
+    ║    ██╔══██║   ██║   ██║   ██╔═══╝     ╚██╗ ██╔╝    ██╔══██╗    ██╔══╝     ║
+    ║    ██║  ██║   ╚██████╔╝   ██║          ╚████╔╝     ██║  ██║    ███████╗   ║
+    ║    ╚═╝  ╚═╝    ╚═════╝    ╚═╝           ╚═══╝      ╚═╝  ╚═╝    ╚══════╝   ║
+    ║                                                                           ║
+    ║                  ✦ C R A F T I N G   D I G I T A L   M A G I C ✦         ║
+    ║                                                                           ║
+    ╚═══════════════════════════════════════════════════════════════════════════╝
 ```
 
-> [!TIP]
-> **Fastest route:** skip to step E right now → [manashjyotibora122@gmail.com](mailto:manashjyotibora122@gmail.com). Average reply time: **under 24 hours** (IST).
-
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38bdf8,50:34d399,100:fbbf24)
-
-# 📁 03 · CASE STUDIES
-
-![Case](https://capsule-render.vercel.app/api?type=cylinder&height=110&text=%F0%9F%93%81%20CASE%20STUDIES&fontSize=36&color=0:0f172a,50:0369a1,100:34d399&fontColor=ffffff&animation=fadeIn)
-
-## ⚡ CASE STUDY 01 — AUREA · Interactive Portfolio Platform
-
-```text
-┌─ PROBLEM ───────────────────────────────────────────────────┐
-│  Portfolios are static and forgettable. Recruiters close    │
-│  the tab in 10 seconds.                                     │
-├─ SOLUTION ──────────────────────────────────────────────────┤
-│  🌌 3D particle hero ....... Three.js + React Three Fiber   │
-│  🤖 AI chatbot ............. intent-matching Q&A about me   │
-│  ⌨️ Command palette ........ Ctrl+K, like a real dev tool   │
-│  🕹️ Hidden terminal ........ Ctrl+/ → try `sudo hire-me`    │
-│  📊 Live GitHub dashboard .. real API data, zero fakes      │
-│  🔒 Hardened ............... CSP/HSTS headers, Zod, rate    │
-│                              limiting, honeypot contact API │
-├─ RESULT ────────────────────────────────────────────────────┤
-│  A portfolio recruiters PLAY with instead of skim.          │
-└─────────────────────────────────────────────────────────────┘
-```
-
-<div align="center">
-
-[![Live](https://img.shields.io/badge/%F0%9F%94%B4_LIVE_DEMO-manashjyoti--bora.vercel.app-38bdf8?style=for-the-badge&labelColor=0f172a)](https://manashjyoti-bora.vercel.app)&nbsp;
-[![Source](https://img.shields.io/badge/%F0%9F%93%82_SOURCE_CODE-GitHub-64748b?style=for-the-badge&labelColor=0f172a)](https://github.com/Manashjyoti-Bora/portfolio-website)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,26&height=200&section=header&fontSize=70&fontColor=fff&animation=twinkling" />
 
 </div>
 
-## 🛒 CASE STUDY 02 — NexusMart · Full-Stack E-Commerce
-
-```text
-┌─ PROBLEM ───────────────────────────────────────────────────┐
-│  "Student projects" are usually UI mockups with no real     │
-│  backend, no auth, no database.                             │
-├─ SOLUTION ──────────────────────────────────────────────────┤
-│  🔐 Auth ........ JWT in HTTP-only cookies + bcrypt (12r)   │
-│  🗄️ Database .... MongoDB Atlas + Mongoose models           │
-│  🛡️ Validation .. Zod schema on every API route             │
-│  👑 RBAC ........ admin dashboard, role-gated (403 walls)   │
-│  🛍️ Commerce .... products → cart → checkout → orders       │
-├─ RESULT ────────────────────────────────────────────────────┤
-│  A real store. Sign up, order, watch it persist. Live.      │
-└─────────────────────────────────────────────────────────────┘
-```
+### 👋 Hello, World! I'm...
 
 <div align="center">
+  
+```
+   ██╗   ██╗ ██████╗ ██╗██████╗     ███████╗███╗   ██╗██████╗ 
+   ██║   ██║██╔═══██╗██║██╔══██╗    ██╔════╝████╗  ██║██╔══██╗
+   ██║   ██║██║   ██║██║██║  ██║    █████╗  ██╔██╗ ██║██║  ██║
+   ╚██╗ ██╔╝██║   ██║██║██║  ██║    ██╔══╝  ██║╚██╗██║██║  ██║
+    ╚████╔╝ ╚██████╔╝██║██████╔╝    ███████╗██║ ╚████║██████╔╝
+     ╚═══╝   ╚═════╝ ╚═╝╚═════╝     ╚══════╝╚═╝  ╚═══╝╚═════╝ 
+```
 
-[![Live](https://img.shields.io/badge/%F0%9F%94%B4_LIVE_DEMO-nexusmart--dusky.vercel.app-34d399?style=for-the-badge&labelColor=0f172a)](https://nexusmart-dusky.vercel.app)&nbsp;
-[![Source](https://img.shields.io/badge/%F0%9F%93%82_SOURCE_CODE-GitHub-64748b?style=for-the-badge&labelColor=0f172a)](https://github.com/Manashjyoti-Bora/nexusmart)
-
-**More in the vault:** [devhire-pro-ats](https://github.com/Manashjyoti-Bora/devhire-pro-ats) · [taskflow-enterprise](https://github.com/Manashjyoti-Bora/taskflow-enterprise)
+  <h1>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-909a-72a5a259dc36.gif" width="40" height="40"/>
+    <font size="7" face="monospace" color="#FF6B6B">Manashjyoti Bora</font>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-909a-72a5a259dc36.gif" width="40" height="40"/>
+  </h1>
 
 </div>
 
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38bdf8,50:34d399,100:fbbf24)
+### 💼 Professional Title
 
-# 🧰 04 · TECH STACK
+| 🎭 Role | 📝 Description |
+|--------|----------------|
+| **Full Stack Developer** | Building end-to-end digital experiences |
+| **React & Next.js Specialist** | Crafting modern, performant web applications |
+| **TypeScript Enthusiast** | Writing type-safe, maintainable code |
+| **Problem Solver** | Turning complex challenges into elegant solutions |
+| **Android to Cloud** | Building production-style apps across platforms |
+
+### 🎯 Tagline
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   "Building secure, production-style web applications from Android to Cloud"  ║
+║                                                                               ║
+║            ✦ Transforming ideas into reality, one commit at a time ✦           ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+### ⌨️ Typing Animation
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=800&color=00D9FF&background=000000&center=true&vCenter=true&width=900&lines=const+developer+=+{+name:+%22Manashjyoti+Bora%22,+passion:+%22Creating+Digital+Masterpieces%22,+philosophy:+%22Clean+Code+is+Clean+Art%22,+currentlyBuilding:+%22Production-Style+Web+Apps%22,+techStack:+%22React%2C+Next.js%2C+TypeScript%22,+openTo:+%22Internships+%26+Opportunities%22,+};console.log(developer);" alt="Developer Typing" />
+</p>
+
+### 🎖️ Open for Internship Badge
 
 <div align="center">
 
-### Core (animated — watch them move)
+```ascii
+    ╭───────────────────────────────────────╮
+    │                                       │
+    │    ⚡ OPEN TO WORK ⚡                 │
+    │    ────────────────────────           │
+    │    💼 Internships & Full-time        │
+    │    🌐 Remote & Hybrid Ready          │
+    │    📍 Available Immediately          │
+    │    ⏰ Flexible Hours                  │
+    │                                       │
+    ╰───────────────────────────────────────╯
+```
 
-<img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" alt="react" />&nbsp;
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" alt="typescript" />&nbsp;
-<img src="https://techstack-generator.vercel.app/js-icon.svg" width="65" alt="javascript" />&nbsp;
-<img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" alt="rest api" />&nbsp;
-<img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" alt="github" />
-
-### Full toolbox
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,redux,nodejs,express,mongodb,firebase,supabase&theme=dark" alt="stack" />
-<br/>
-<img src="https://skillicons.dev/icons?i=vercel,netlify,git,github,githubactions,linux,vscode,vite,npm,postman,figma&theme=dark" alt="tools" />
-
-### Where my engineering time goes (live Mermaid pie)
+  ![Open to Work](https://img.shields.io/badge/Open%20To-Work-57D9A3?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiM1N0Q5QTMiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTIgMkMxNC40MSAyIDIgNS40MSA3IDcuNUw0IDE1bDMtM0wyIDE1bDMtMyA3IDMuNUwyMS41IDE1bC0zLTMtNS41IDcuNUMxMi4xOSAyMSAxMS44MSA3IDI0IDE1LjU5Ij48L3BhdGg+PC9zdmc+)
+  ![Hiring](https://img.shields.io/badge/Hiring-Now-FF6B6B?style=for-the-badge&logo=handshake&logoColor=white)
+  ![Internship Ready](https://img.shields.io/badge/Internship-Ready-FFD93D?style=for-the-badge&logo=rocket&logoColor=black)
 
 </div>
 
-```mermaid
-%%{init: {'theme':'dark','themeVariables':{'pieTitleTextColor':'#38bdf8','pieSectionTextColor':'#ffffff','pieOuterStrokeColor':'#0369a1'}}}%%
-pie showData title ENGINEERING TIME ALLOCATION
-    "Frontend (React/Next)" : 35
-    "Backend (Node/API)" : 25
-    "Database (MongoDB)" : 15
-    "DevOps (Vercel/Actions)" : 15
-    "Docs & polish" : 10
-```
-
-### Skill proficiency (honest self-assessment)
-
-```text
-FRONTEND    ██████████████████░░░░░░░  Advanced beginner→intermediate
-BACKEND     ████████████████░░░░░░░░░  Shipped real auth + APIs
-DATABASE    ██████████████░░░░░░░░░░░  Modeling, indexing, Atlas ops
-TYPESCRIPT  ████████████████░░░░░░░░░  Strict mode, zero `any` policy
-DEVOPS      ████████████░░░░░░░░░░░░░  CI/CD pipelines, env security
-LEARNING    █████████████████████████  MAX — permanent state
-```
-
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38bdf8,50:34d399,100:fbbf24)
-
-# 📈 05 · LIVE ENGINEERING METRICS
+### 🧮 Visitor Counter & Analytics
 
 <div align="center">
 
-**These widgets pull real data on every page load. No screenshots. No cherry-picking.**
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manashjyoti-Bora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=34d399&text_color=e2e8f0&ring_color=fbbf24" alt="stats" />
-
-<img src="https://streak-stats.vercel.app/?user=Manashjyoti-Bora&theme=tokyonight&hide_border=true&background=0f172a&ring=34d399&fire=fbbf24&currStreakLabel=34d399&stroke=38bdf8&sideLabels=e2e8f0" alt="streak" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Manashjyoti-Bora&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&text_color=e2e8f0" alt="top langs" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Manashjyoti-Bora&theme=react-dark&bg_color=0f172a&color=38bdf8&line=34d399&point=fbbf24&hide_border=true&area=true" width="100%" alt="activity" />
-
-**Contribution heatmap — recolored emerald, because this profile ships green:**
-
-<img src="https://ghchart.rshah.org/34d399/Manashjyoti-Bora" width="100%" alt="contributions" />
-
-**Work rhythm (IST · UTC+5:30):**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manashjyoti-Bora&theme=tokyonight&utcOffset=5.5" width="49%" alt="productive time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manashjyoti-Bora&theme=tokyonight" width="49%" alt="commit language" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manashjyoti-Bora&theme=tokyonight" width="100%" alt="profile details" />
+![Visitor Count](https://profile-views.gateway.jagx.workers.dev/views-count/Manashjyoti-Bora?style=for-the-badge&color=FF6B6B&label=Total+Views)
+![Hit Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=Manashjyoti-Bora&count_bg=%2379C83D&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=Total+Hits&edge_flat=false)
+![Visitors](https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=Profile+Views&color=0e75b6&style=for-the-badge)
 
 </div>
 
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38bdf8,50:34d399,100:fbbf24)
-
-# 🌆 06 · THE 3D PROOF-OF-WORK CITY
+### 📊 Profile Stats
 
 <div align="center">
 
-**Every commit becomes a building. This city is my timesheet — rendered in 3D, rebuilt nightly by CI/CD.**
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                         📈 GITHUB PROFILE STATS 📈                           │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
 
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city" />
-
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D seasons animated" />
-
-**And every night, an automated snake audits the graph:**
-
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manashjyoti-Bora&theme=algolia&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=00FF88&text_color=FFFFFF&title_color=00D9FF&ring_color=FF6B6B&count_private=true&include_all_commits=true)
 
 </div>
 
-> [!NOTE]
-> All three animations above are generated by **my own GitHub Actions pipelines** — the same automation skill I'd bring to your team's CI/CD.
-
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38bdf8,50:34d399,100:fbbf24)
-
-# 🧭 07 · JOURNEY & GIT HISTORY
-
-### 🕰️ Career timeline (Mermaid — rendered natively)
-
-```mermaid
-%%{init: {'theme':'dark'}}%%
-timeline
-    title FROM PHONE TO PRODUCTION — VERIFIED LOG
-    2025 : Started coding on an Android phone
-         : Git + Termux + Node.js self-taught
-    2026 Q1 : B.Voc IT — Dr. B.K.B. College
-            : AUREA portfolio LIVE on Vercel
-            : NexusMart LIVE — auth + DB + admin
-    2026 Q2+ : Open-source contributions
-             : First npm package
-             : TARGET — SDE Internship
-```
-
-### 🌳 The journey as a git graph (almost nobody has this)
-
-```mermaid
-%%{init: {'theme':'dark','gitGraph':{'showCommitLabel':true}}}%%
-gitGraph
-    commit id: "spawn: hello-world"
-    commit id: "learn: Termux + Git"
-    branch portfolio
-    commit id: "AUREA: 3D hero"
-    commit id: "AI chatbot + ⌘K"
-    checkout main
-    merge portfolio id: "PORTFOLIO LIVE ⚡"
-    branch nexusmart
-    commit id: "JWT + bcrypt auth"
-    commit id: "MongoDB Atlas"
-    checkout main
-    merge nexusmart id: "NEXUSMART LIVE 🛒"
-    commit id: "next: npm package 📦"
-    commit id: "target: internship 🏆"
-```
-
-### 🧠 Full skill map (Mermaid mindmap — rarest diagram type)
-
-```mermaid
-mindmap
-  root((MANASHJYOTI))
-    Frontend
-      React
-      Next.js 14
-      TypeScript
-      Tailwind
-    Backend
-      Node.js
-      REST APIs
-      JWT Auth
-      Zod
-    Database
-      MongoDB Atlas
-      Mongoose
-    Ops
-      Vercel
-      GitHub Actions
-    Edge
-      Ships from a phone 📱
-    Mission
-      SDE Internship 🏆
-```
-
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38bdf8,50:34d399,100:fbbf24)
-
-# 🎯 08 · WHY HIRE ME
-
-```ansi
-[38;5;51m╔══════════════════════════════════════════════════════════╗[0m
-[38;5;51m║[0m  [38;5;220mTHE HONEST PITCH[0m                                        [38;5;51m║[0m
-[38;5;51m╠══════════════════════════════════════════════════════════╣[0m
-[38;5;51m║[0m  Most candidates show you what they COULD build.         [38;5;51m║[0m
-[38;5;51m║[0m  [38;5;46mI show you what I ALREADY built — live, in production.[0m [38;5;51m║[0m
-[38;5;51m║[0m                                                          [38;5;51m║[0m
-[38;5;51m║[0m  Most candidates need perfect conditions.                [38;5;51m║[0m
-[38;5;51m║[0m  [38;5;46mI shipped everything below from a 6-inch screen.[0m       [38;5;51m║[0m
-[38;5;51m║[0m                                                          [38;5;51m║[0m
-[38;5;51m║[0m  Imagine the output when you give me [38;5;220mreal hardware[0m      [38;5;51m║[0m
-[38;5;51m║[0m  and a [38;5;220mreal team[0m.                                        [38;5;51m║[0m
-[38;5;51m╚══════════════════════════════════════════════════════════╝[0m
-```
-
-| ✅ WHAT YOU GET | 📄 EVIDENCE |
-|:---|:---|
-| **Bias to ship** | 2 products live, not "in progress" |
-| **Full-stack range** | UI → API → auth → DB → deploy, solo |
-| **Security awareness** | JWT HTTP-only, bcrypt, Zod, rate limits, CSP |
-| **Automation instinct** | 3 GitHub Actions pipelines maintaining this profile |
-| **Extreme resourcefulness** | Entire career bootstrapped on one phone |
-| **Honesty** | This README contains zero inflated claims[^2] |
-
-<details>
-<summary><b>🔓 CLASSIFIED — the details recruiters usually never get (tap to open)</b></summary>
-<br/>
-
-| 🗂️ FIELD | 📄 STRAIGHT ANSWER |
-|:---|:---|
-| Debugging style | Reproduce → isolate → fix → write it down |
-| Code review attitude | I *want* my code criticized — fastest way to level up |
-| Communication | Clear written updates, no ghosting, IST timezone |
-| What I'm weakest at | Testing depth — actively learning Jest/Playwright now |
-| Salary expectation | Fair intern rate; learning opportunity weighs more |
-| Relocation | Open to remote-first; relocation negotiable |
-
-</details>
-
-> [!WARNING]
-> **Known side effect:** candidates who ship from phones tend to over-deliver when given actual workstations. Budget for extra output.
-
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38bdf8,50:34d399,100:fbbf24)
-
-# 📅 09 · AVAILABILITY & LOGISTICS
+### 🔗 Social Links
 
 <div align="center">
 
-| 📋 ITEM | ✅ DETAIL |
-|:---|:---|
-| 🎯 Role sought | SDE Intern · Full Stack / Frontend / Backend |
-| 🏢 Mode | Remote (preferred) · Hybrid · Open to discuss |
-| ⏰ Notice period | **0 days — can start immediately** |
-| 🌏 Timezone | IST (UTC+5:30) · flexible overlap hours |
-| 🎓 Education | B.Voc IT · Dr. B.K.B. College · 2026–2030 |
-| 🗣️ Languages | English (professional) · Assamese (native) · Hindi |
-| 📄 Resume | [manashjyoti-bora.vercel.app/resume.pdf](https://manashjyoti-bora.vercel.app/resume.pdf) |
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manashjyoti-Bora)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manashjyoti-bora)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ManashjyotiBora)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manashjyoti-bora.vercel.app)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/manashjyoti-bora)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://codechef.com/users/manashjyoti-bora)
 
 </div>
 
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38bdf8,50:34d399,100:fbbf24)
+---
 
-# 🔍 10 · REFERENCES & PROOF
+# 👋 2. INTRODUCTION
 
-**Don't trust this README. Verify it. Everything is public:**
+## 🎯 Professional Introduction
 
-- ⚡ **Live product 1:** [manashjyoti-bora.vercel.app](https://manashjyoti-bora.vercel.app) — press <kbd>Ctrl</kbd>+<kbd>/</kbd> and type `sudo hire-me`
-- 🛒 **Live product 2:** [nexusmart-dusky.vercel.app](https://nexusmart-dusky.vercel.app) — create an account, place an order, it persists
-- 📂 **All source code:** [github.com/Manashjyoti-Bora](https://github.com/Manashjyoti-Bora?tab=repositories) — read every commit
-- 📄 **Resume PDF:** [/resume.pdf](https://manashjyoti-bora.vercel.app/resume.pdf) — matches this page exactly
-- 💼 **LinkedIn:** [linkedin.com/in/manashjyoti-bora-323b97405](https://www.linkedin.com/in/manashjyoti-bora-323b97405) — same story, same facts
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="quote" />
-
-</div>
-
-![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:38bdf8,50:34d399,100:fbbf24)
-
-# 📞 11 · START THE CONVERSATION
-
-![CTA](https://capsule-render.vercel.app/api?type=rounded&height=110&text=%F0%9F%93%9E%20START%20THE%20CONVERSATION&fontSize=30&color=0:0369a1,100:34d399&fontColor=ffffff&animation=fadeIn)
-
-<div align="center">
-
-![Hire](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hire%20the%20developer%20who%20ships%20without%20excuses.&width=830&height=100)
-
-### One email. 24-hour reply. Zero risk — the proof is already live.
-
-[![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_EMAIL_NOW-manashjyotibora122%40gmail.com-D14836?style=for-the-badge&labelColor=0f172a&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com?subject=Interview%20Invitation)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Send_InMail-0077B5?style=for-the-badge&labelColor=0f172a&logo=linkedin)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)
-
-[![Portfolio](https://img.shields.io/badge/%E2%9A%A1_OR_TEST_ME_FIRST-manashjyoti--bora.vercel.app-38bdf8?style=for-the-badge&labelColor=0f172a)](https://manashjyoti-bora.vercel.app)
-
-<br/>
-
-<details>
-<summary>🥚 <b>P.S. — for the recruiter who reads everything (tap)</b></summary>
-<br/>
-
-```ansi
-[38;5;51m╔════════════════════════════════════════════════╗[0m
-[38;5;51m║[0m   [38;5;220mYOU READ THE ENTIRE CANDIDATE FILE. 🏆[0m       [38;5;51m║[0m
-[38;5;51m║[0m                                                [38;5;51m║[0m
-[38;5;51m║[0m   That level of thoroughness is exactly        [38;5;51m║[0m
-[38;5;51m║[0m   what I bring to every pull request.          [38;5;51m║[0m
-[38;5;51m║[0m                                                [38;5;51m║[0m
-[38;5;51m║[0m   [38;5;46mEmail me the word "PIPELINE"[0m and skip        [38;5;51m║[0m
-[38;5;51m║[0m   straight to the technical round. ☕           [38;5;51m║[0m
-[38;5;51m╚════════════════════════════════════════════════╝[0m
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   ╭─────────────────────────────────────────────────────────────────────────╮  ║
+║   │                                                                         │  ║
+║   │  Namaste! 🙏                                                           │  ║
+║   │                                                                         │  ║
+║   │  I'm Manashjyoti Bora, a passionate Full Stack Developer with           │  ║
+║   │  expertise in building secure, production-style web applications.        │  ║
+║   │                                                                         │  ║
+║   │  My tech stack includes React, Next.js, TypeScript, and Node.js,         │  ║
+║   │  allowing me to craft modern, performant, and scalable solutions.        │  ║
+║   │                                                                         │  ║
+║   │  What sets me apart is my unique journey - I've built and deployed       │  ║
+║   │  impressive applications right from my Android phone, proving that      │  ║
+║   │  passion and dedication trump hardware limitations.                        │  ║
+║   │                                                                         │  ║
+║   │  My philosophy: "Every line of code is an opportunity to create         │  ║
+║   │                  something extraordinary."                              │  ║
+║   │                                                                         │  ║
+║   ╰─────────────────────────────────────────────────────────────────────────╯  ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-</details>
+## 🔨 What I Build
 
-<br/>
+<div align="center">
 
-<samp>candidate.file → rendered successfully · 0 errors · status: READY TO HIRE</samp>
-
-<sub>Ω PRO edition · one of one · handmade in Nagaon, Assam 🇮🇳</sub> <sup>v1.0.0</sup>
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:0369a1,100:34d399&height=150&section=footer&text=LET%27S%20BUILD%20TOGETHER&fontSize=28&fontColor=ffffff&animation=fadeIn)
+| Category | Description | Tech Focus |
+|----------|-------------|------------|
+| 🌐 **Web Applications** | Full-stack solutions from concept to deployment | React, Next.js, TypeScript |
+| 📱 **Responsive Interfaces** | Beautiful, mobile-first designs | Tailwind CSS, Framer Motion |
+| ⚙️ **Backend Systems** | Robust APIs and authentication | Node.js, Express, MongoDB |
+| 🎮 **Interactive Experiences** | Engaging user interactions | GSAP, Three.js |
+| 🔐 **Secure Applications** | Production-grade security | JWT, bcrypt, Zod |
+| ☁️ **Cloud Deployments** | Vercel & modern hosting | Vercel, MongoDB Atlas |
 
 </div>
 
-[^1]: Development environment: Termux + GitHub web + Vercel cloud builds. No laptop was available — or needed.
-[^2]: Footnotes in a profile README are also rare. Consistency is the brand. ✅
+## 🎯 Current Focus
+
+```
+┌────────────────────────────────────────────────────────────────────────────────┐
+│                           🎯 CURRENT FOCUS AREAS 🎯                           │
+├────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                │
+│   🚀 FULL STACK MASTERY       │   Building enterprise-grade applications       │
+│   ⚛️ ADVANCED REACT          │   React 19, Next.js 14, App Router            │
+│   🔷 TYPE SCRIPT MASTERY     │   Type-safe code for production apps          │
+│   🎨 UI/UX DESIGN            │   Creating delightful user experiences        │
+│   🔐 SECURITY FIRST           │   Secure authentication & data protection       │
+│   🎬 ANIMATIONS               │   GSAP, Framer Motion, Three.js               │
+│   ☁️ CLOUD DEPLOYMENT        │   Vercel, performance optimization             │
+│   📱 ANDROID CODING          │   Mobile-first development approach           │
+│                                                                                │
+└────────────────────────────────────────────────────────────────────────────────┘
+```
+
+## 🎓 Career Goal
+
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                ║
+║                        ╔═══════════════════════════════════════╗               ║
+║                        ║                                       ║               ║
+║                        ║   🎯 LONG-TERM CAREER VISION 🎯       ║               ║
+║                        ║                                       ║               ║
+║                        ║   To become a Senior Full Stack        ║               ║
+║                        ║   Developer who builds impactful        ║               ║
+║                        ║   applications and mentors the          ║               ║
+║                        ║   next generation of developers,       ║               ║
+║                        ║   while contributing to open-source   ║               ║
+║                        ║   and the tech community               ║               ║
+║                        ║                                       ║               ║
+║                        ╚═══════════════════════════════════════╝               ║
+║                                                                                ║
+║   📍 Milestones:                                                               ║
+║   ├── ✅ Full Stack Developer                                                 ║
+║   ├── 🔄 Building Production Apps (Current)                                   ║
+║   ├── ⬜ Enterprise Experience                                                ║
+║   ├── ⬜ Senior Developer Position                                            ║
+║   └── ⬜ Tech Lead & Mentor                                                   ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 🎉 Fun Facts
+
+```
+╔════════════════════════════════════════════════════════════════════════════════╗
+║                           🎲 RANDOM FUN FACTS 🎲                               ║
+╠════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                ║
+║   💡 I built and deployed my premium portfolio website (with Three.js,          ║
+║      GSAP, and Framer Motion) entirely from my Android phone!                  ║
+║                                                                                ║
+║   ☕ I believe debugging is just solving puzzles with worse error messages      ║
+║                                                                                ║
+║   🎮 I'm a firm believer that "works on my machine" is not a bug -              ║
+║      it's a feature... said no developer ever!                                  ║
+║                                                                                ║
+║   📱 Proof that you don't need a MacBook to build impressive things!           ║
+║                                                                                ║
+║   🎵 My coding playlist: Lo-fi beats for features, Metal for debugging,        ║
+║      and silence for code reviews... just kidding, always music!               ║
+║                                                                                ║
+╚════════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 👨‍💻 3. ABOUT ME
+
+## 📍 Location & Availability
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              📍 LOCATION & AVAILABILITY                        ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   ╭──────────────────────────────────────────────────────────────────────────╮ ║
+║   │                                                                          │ ║
+║   │   🌍 CURRENT LOCATION                                                   │ ║
+║   │   ═══════════════════                                                   │ ║
+║   │   📍 City    : Nagaon                                                   │ ║
+║   │   🏔️ State   : Assam                                                    │ ║
+║   │   🇮🇳 Country: India                                                    │ ║
+║   │   🌐 Zone   : Asia/Kolkata (IST, UTC+5:30)                              │ ║
+║   │                                                                          │ ║
+║   ╰──────────────────────────────────────────────────────────────────────────╯ ║
+║                                                                               ║
+║   ⏰ AVAILABILITY STATUS                                                      ║
+║   ═════════════════════                                                      ║
+║                                                                               ║
+║   ┌──────────────┬──────────────────────────────────────────────────────┐   ║
+║   │  Status      │  Details                                              │   ║
+║   ├──────────────┼──────────────────────────────────────────────────────┤   ║
+║   │ 🟢 Open      │  Internship Positions (Full-time & Part-time)          │   ║
+║   │ 🟡 Flexible  │  Freelance Projects                                   │   ║
+║   │ 🔵 Remote    │  Fully Remote Work Ready                              │   ║
+║   │ 🟡 Hybrid    │  Flexible to Hybrid Work                              │   ║
+║   │ 🔵 Timezone  │  IST (UTC+5:30), Open to async meetings               │   ║
+║   └──────────────┴──────────────────────────────────────────────────────┘   ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 🗣️ Languages
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                  🗣️ LANGUAGES                                  ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   Programming Languages:                                                      ║
+║   ═══════════════════════                                                     ║
+║                                                                               ║
+║   🟨 JavaScript/TypeScript    ████████████████████░░░░  92%                   ║
+║   🔵 Python                   ████████████████░░░░░░░░  75%                   ║
+║   ⚙️ Java                     ████████████░░░░░░░░░░░░  70%                   ║
+║   🟠 C/C++                    ███████████░░░░░░░░░░░░░  65%                   ║
+║   🟣 PHP                      ██████████░░░░░░░░░░░░░░  60%                   ║
+║                                                                               ║
+║   Natural Languages:                                                          ║
+║   ═══════════════════                                                         ║
+║                                                                               ║
+║   🇮🇳 English (Fluent)          ████████████████████░░░░  95%                   ║
+║   🇮🇳 Hindi (Fluent)            ███████████████████░░░░  90%                   ║
+║   🇮🇳 Assamese (Native)         ████████████████████░░░░  98%                   ║
+║   🇮🇳 Bengali (Working)        ████████████░░░░░░░░░░░░  70%                   ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 💡 Interests & Strengths
+
+```
+┌────────────────────────────────────────────────────────────────────────────────┐
+│                               💡 INTERESTS & STRENGTHS                         │
+├────────────────────────────────────────────────────────────────────────────────┤
+│                                                                                │
+│  🚀 INTEREST AREAS:                                                           │
+│  ════════════════                                                              │
+│                                                                                │
+│  ├── 🤖 AI/ML Integration                                                     │
+│  ├── 🌐 Full Stack Web Development                                             │
+│  ├── 📱 Mobile-First Development                                              │
+│  ├── 🎨 UI/UX Design & Animations                                             │
+│  ├── 🔐 Web Security & Authentication                                          │
+│  ├── ☁️ Cloud Computing & DevOps                                               │
+│  ├── 🎮 Interactive Web Experiences (Three.js, GSAP)                          │
+│  └── 📝 Technical Writing                                                     │
+│                                                                                │
+│  💪 KEY STRENGTHS:                                                            │
+│  ═══════════════                                                              │
+│                                                                                │
+│  ├── 🎯 Problem Solving - Breaking complex problems into simple solutions      │
+│  ├── 🤝 Team Collaboration - Effective communication and teamwork               │
+│  ├── 📚 Quick Learning - Rapid adaptation to new technologies                   │
+│  ├── 💻 Clean Code - Writing maintainable, type-safe code                      │
+│  ├── 🧪 Debugging - Patient and thorough bug investigation                      │
+│  ├── ⏰ Time Management - Meeting deadlines efficiently                         │
+│  ├── 🔄 Adaptability - Flexible in dynamic environments                         │
+│  └── 🎨 Innovation - Creative approaches to challenges                          │
+│                                                                                │
+└────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+# 🛠️ 4. TECH STACK
+
+<div align="center">
+
+```
+██████╗ ██╗██╗  ██╗ █████╗ ██████╗ ███████╗██████╗ ██╗    ██╗███╗   ██╗███████╗
+██╔══██╗██║██║ ██╔╝██╔══██╗██╔══██╗██╔════╝██╔══██╗██║    ██║████╗  ██║██╔════╝
+██████╔╝██║█████╔╝ ███████║██████╔╝█████╗  ██║  ██║██║ █╗ ██║██╔████╗ ███████╗
+██╔══██╗██║██╔═██╗ ██╔══██║██╔══██╗██╔══╝  ██║  ██║██║███╗██║██║╚██╗██║╚════██║
+██████╔╝██║██║  ██╗██║  ██║██║  ██║███████╗██████╔╝╚███╔███╔╝██║ ╚████║███████║
+╚═════╝ ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═══╝╚══════╝
+```
+
+</div>
+
+## 🎨 Frontend Development
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              🎨 FRONTEND DEVELOPMENT                            ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   ⚛️ REACT & ECOSYSTEM                                                        ║
+║   ├── ⚛️ React.js           ████████████████████░░░░  95%                   ║
+║   ├── ⚛️ Next.js 14         ████████████████████░░░░  95%                   ║
+║   ├── ⚛️ React Native       ███████████████░░░░░░░░░░░  65%                   ║
+║   ├── ⚛️ Next.js App Router ███████████████████░░░░░░  90%                   ║
+║   └── ⚛️ React Query        ████████████████░░░░░░░░  85%                   ║
+║                                                                               ║
+║   📜 CORE TECHNOLOGIES                                                        ║
+║   ├── 📜 HTML5             ████████████████████░░░░  98%                   ║
+║   ├── 📜 CSS3              ████████████████████░░░░  95%                   ║
+║   ├── 📜 JavaScript        ████████████████████░░░░  95%                   ║
+║   └── 📜 TypeScript        ████████████████████░░░░  92%                   ║
+║                                                                               ║
+║   BADGES:                                                                     ║
+║   ══════                                                                     ║
+║   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+║   ![Next JS](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+║   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+║   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black)
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## ⚙️ Backend Development
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                               ⚙️ BACKEND DEVELOPMENT                            ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   🟢 NODE.JS & EXPRESS                                                        ║
+║   ├── 🟢 Node.js            ████████████████████░░░░  90%                   ║
+║   ├── 🚂 Express.js         ███████████████████░░░░  88%                   ║
+║   └── ⚡ Fastify            ███████████████░░░░░░░░░  72%                   ║
+║                                                                               ║
+║   🐍 PYTHON                                                                   ║
+║   ├── 🐍 Django              ███████████████░░░░░░░░░░  75%                   ║
+║   └── 🐍 FastAPI            ██████████████░░░░░░░░░░░  78%                   ║
+║                                                                               ║
+║   OTHER BACKEND                                                               ║
+║   ├── 🟣 PHP                ████████████░░░░░░░░░░░░░  65%                   ║
+║   └── 🔶 Laravel            ███████████░░░░░░░░░░░░░░  60%                   ║
+║                                                                               ║
+║   BADGES:                                                                     ║
+║   ══════                                                                     ║
+║   ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+║   ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+║   ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=3776AB)
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 🗄️ Database & Storage
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                               🗄️ DATABASE & STORAGE                             ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   📊 SQL DATABASES                                                            ║
+║   ├── 🐘 PostgreSQL        ████████████████░░░░░░░░░  78%                   ║
+║   ├── 🐬 MySQL             ███████████████░░░░░░░░░░  75%                   ║
+║   └── 🏛️ SQLite            ██████████████░░░░░░░░░░░  80%                   ║
+║                                                                               ║
+║   📦 NO-SQL DATABASES                                                         ║
+║   ├── 🍃 MongoDB           ████████████████████░░░░░  90%                   ║
+║   ├── 🔥 Firebase          ███████████████████░░░░░  85%                   ║
+║   └── 💎 Redis             ███████████████░░░░░░░░░░  72%                   ║
+║                                                                               ║
+║   BADGES:                                                                     ║
+║   ══════                                                                     ║
+║   ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+║   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+║   ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 🎨 Styling & UI
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                               🎨 STYLING & UI FRAMEWORKS                       ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   🚀 CSS FRAMEWORKS                                                           ║
+║   ├── 🎨 Tailwind CSS      ████████████████████░░░░  98%                   ║
+║   ├── 📦 Bootstrap         ████████████████░░░░░░░░  80%                   ║
+║   ├── 💎 Chakra UI         ███████████████░░░░░░░░░  78%                   ║
+║   └── 🔵 Material UI       ███████████████░░░░░░░░░  75%                   ║
+║                                                                               ║
+║   🎭 UI COMPONENT LIBRARIES                                                   ║
+║   ├── 🎭 Framer Motion     ███████████████████░░░░  90%                   ║
+║   ├── 🎬 GSAP              ███████████████████░░░░  88%                   ║
+║   ├── ✨ Lottie            ███████████████░░░░░░░░░░  75%                   ║
+║   └── 🎪 Swiper.js         ████████████████░░░░░░░░  82%                   ║
+║                                                                               ║
+║   BADGES:                                                                     ║
+║   ══════                                                                     ║
+║   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+║   ![Framer Motion](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+║   ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 🔐 Authentication & Security
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              🔐 AUTHENTICATION & SECURITY                      ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   🔑 AUTHENTICATION                                                           ║
+║   ├── 🔐 Firebase Auth      ████████████████████░░░░  92%                   ║
+║   ├── 🔐 NextAuth.js        ███████████████████░░░░  88%                   ║
+║   ├── 🔐 JWT                ████████████████████░░░░  95%                   ║
+║   ├── 🔐 OAuth 2.0          ███████████████████░░░░  88%                   ║
+║   ├── 🔐 bcrypt            ████████████████████░░░░  92%                   ║
+║   └── 🔐 HTTP-only Cookies ████████████████████░░░░  90%                   ║
+║                                                                               ║
+║   🛡️ SECURITY PRACTICES                                                       ║
+║   ├── 🛡️ HTTPS/SSL         ████████████████████░░░░  95%                   ║
+║   ├── 🛡️ Input Validation   ████████████████████░░░░  92%                   ║
+║   ├── 🛡️ Zod Validation    ███████████████████░░░░  90%                   ║
+║   ├── 🛡️ Helmet.js         ████████████████░░░░░░░░  85%                   ║
+║   └── 🛡️ Rate Limiting     ████████████████░░░░░░░░  85%                   ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 🛠️ DevOps & Deployment
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                               🛠️ DEVOPS & DEPLOYMENT                           ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   🐳 CONTAINERS & ORCHESTRATION                                                ║
+║   ├── 🐳 Docker             ████████████████░░░░░░░░  78%                   ║
+║   └── 🐋 Docker Compose     ███████████████░░░░░░░░░  75%                   ║
+║                                                                               ║
+║   🔄 CI/CD                                                                   ║
+║   ├── ⚡ GitHub Actions     ███████████████████░░░░  90%                   ║
+║   └── 🟢 GitLab CI         ███████████████░░░░░░░░░░  72%                   ║
+║                                                                               ║
+║   🚀 DEPLOYMENT PLATFORMS                                                      ║
+║   ├── ▲ Vercel             ████████████████████░░░░  98%                   ║
+║   ├── ▲▲ Netlify           ████████████████████░░░░  90%                   ║
+║   ├── 🟢 Railway           ████████████████░░░░░░░░  85%                   ║
+║   ├── 🔷 Render            ████████████████░░░░░░░░  82%                   ║
+║   └── ☁️ Heroku            ███████████████░░░░░░░░░░  78%                   ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## ☁️ Cloud Services
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                               ☁️ CLOUD SERVICES                                ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   🌩️ AWS (Amazon Web Services)                                                ║
+║   ├── 🌩️ EC2               ███████████████░░░░░░░░░░  72%                   ║
+║   ├── 🪣 S3                ████████████████░░░░░░░░  80%                   ║
+║   └── ⚡ Lambda            ███████████████░░░░░░░░░░  75%                   ║
+║                                                                               ║
+║   🔥 GOOGLE CLOUD PLATFORM                                                    ║
+║   ├── 🔥 GCP Compute       ███████████████░░░░░░░░░░  75%                   ║
+║   └── 🔥 Firebase          ███████████████████░░░░░  88%                   ║
+║                                                                               ║
+║   ⚡ SERVERLESS                                                              ║
+║   ├── ⚡ Vercel Functions   ████████████████████░░░░  95%                   ║
+║   └── ⚡ Netlify Functions  ███████████████████░░░░  88%                   ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 📦 Version Control
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                               📦 VERSION CONTROL                               ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   🐙 GIT PLATFORMS                                                            ║
+║   ├── 🐙 GitHub            ████████████████████░░░░  98%                   ║
+║   ├── 🦊 GitLab            ████████████████░░░░░░░░  82%                   ║
+║   └── 💻 GitKraken         ███████████████░░░░░░░░░  80%                   ║
+║                                                                               ║
+║   BADGES:                                                                     ║
+║   ══════                                                                     ║
+║   ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+║   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 🧪 Testing
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                  🧪 TESTING                                    ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   ⚛️ REACT TESTING                                                            ║
+║   ├── 🧪 Jest                ████████████████████░░░░  88%                   ║
+║   ├── 🎭 React Testing Lib  ███████████████░░░░░░░░░░  85%                   ║
+║   ├── 🎭 Storybook           ███████████████░░░░░░░░░  78%                   ║
+║   └── 🔮 Cypress           ███████████████░░░░░░░░░░  72%                   ║
+║                                                                               ║
+║   BADGES:                                                                     ║
+║   ══════                                                                     ║
+║   ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+║   ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 🎨 Design Tools
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                  🎨 DESIGN TOOLS                                ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   🎨 UI/UX DESIGN                                                             ║
+║   ├── 🎨 Figma             ███████████████████░░░░░  88%                   ║
+║   ├── 🎨 Adobe XD          ███████████████░░░░░░░░░░  78%                   ║
+║   └── 🎨 Canva             ████████████████░░░░░░░░  85%                   ║
+║                                                                               ║
+║   BADGES:                                                                     ║
+║   ══════                                                                     ║
+║   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+## 📦 Package Managers
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                               📦 PACKAGE MANAGERS                              ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   📦 NODE PACKAGE MANAGERS                                                    ║
+║   ├── 📦 npm               ████████████████████░░░░  95%                   ║
+║   ├── 📦 yarn              ███████████████████░░░░  90%                   ║
+║   ├── 📦 pnpm              ████████████████░░░░░░░░  85%                   ║
+║   └── 📦 bun               ███████████████░░░░░░░░░  78%                   ║
+║                                                                               ║
+║   BADGES:                                                                     ║
+║   ══════                                                                     ║
+║   ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+║   ![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 📊 5. GITHUB ANALYTICS
+
+<div align="center">
+
+```
+███████╗███████╗ ██████╗ █████╗ ██████╗ ███████╗
+██╔════╝██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝
+█████╗  ███████╗██║     ███████║██████╔╝█████╗  
+██╔══╝  ╚════██║██║     ██╔══██║██╔═══╝ ██╔══╝  
+███████╗███████║╚██████╗██║  ██║██║     ███████╗
+╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚══════╝
+                                          
+██████╗  ██████╗ ███████╗███████╗██████╗  ██████╗ ███████╗
+██╔══██╗██╔═══██╗██╔════╝██╔════╝██╔══██╗██╔═══██╗██╔════╝
+██║  ██║██║   ██║█████╗  █████╗  ██║  ██║██║   ██║███████╗
+██║  ██║██║   ██║██╔══╝  ██╔══╝  ██║  ██║██║   ██║╚════██║
+██████╔╝╚██████╔╝███████╗███████╗██████╔╝╚██████╔╝███████║
+╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═════╝  ╚═════╝ ╚══════╝
+```
+
+</div>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────────────────────────┐
+│                           📈 GITHUB STATISTICS 📈                             │
+└────────────────────────────────────────────────────────────────────────────────┘
+```
+
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Manashjyoti-Bora&theme=algolia&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=00FF88&text_color=FFFFFF&title_color=00D9FF&ring_color=FF6B6B&count_private=true&include_all_commits=true&line_height=24)
+
+</div>
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────────────────────────┐
+│                           🔥 GITHUB STREAK 🔥                                  │
+└────────────────────────────────────────────────────────────────────────────────┘
+```
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=Manashjyoti-Bora&theme=algolia&hide_border=true&background=0D1117&stroke=00FF88&ring=00D9FF&fire=FF6B6B&currStreakNum=00FF88&sideNums=00FF88&currStreakLabel=00D9FF&sideLabels=00D9FF&dates=00FF88&type=svg&excludeDaysInTotal=true)
+
+</div>
+
+## 🌍 Top Languages
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────────────────────────<br>
+│                           🌍 TOP LANGUAGES 🌍                                  │
+└────────────────────────────────────────────────────────────────────────────────<br>
+```
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manashjyoti-Bora&theme=algolia&show_icons=true&hide_border=true&bg_color=0D1117&icon_color=00FF88&text_color=FFFFFF&title_color=00D9FF&ring_color=FF6B6B&layout=compact&langs_count=10&card_width=500)
+
+</div>
+
+## 📊 Language Stats Card
+
+<div align="center">
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Manashjyoti-Bora&theme=algolia&layout=donut&hide_border=true&bg_color=0D1117&hide=HTML,CSS&ring_color=00D9FF)
+
+</div>
+
+## 📈 Activity Graph
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────────────────────────<br>
+│                         📊 CONTRIBUTION GRAPH 📊                              │
+└────────────────────────────────────────────────────────────────────────────────<br>
+```
+
+  ![Activity Graph](https://github-readme-activity-graph.algolia.app/graph?username=Manashjyoti-Bora&theme=algolia&bg_color=0D1117&hide_border=true&color=00FF88&line=00D9FF&point=FF6B6B&area_color=00D9FF&area=true&hide_title=false&custom_title=Contribution%20Activity)
+
+</div>
+
+---
+
+# 📂 6. FEATURED PROJECTS
+
+<div align="center">
+
+```
+███████╗███████╗ ██████╗ █████╗ ██████╗ ███████╗
+██╔════╝██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝
+█████╗  ███████╗██║     ███████║██████╔╝█████╗  
+██╔══╝  ╚════██║██║     ██╔══██║██╔═══╝ ██╔══╝  
+███████╗███████║╚██████╗██║  ██║██║     ███████╗
+╚══════╝╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚══════╝
+```
+
+</div>
+
+## 🏆 Featured Project 1: Portfolio Website
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              🏆 PROJECT SHOWCASE                                ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   ╭─────────────────────────────────────────────────────────────────────────╮ ║
+║   │                                                                         │ ║
+║   │   📁 PROJECT NAME: Premium Portfolio Website                            │ ║
+║   │   ──────────────────────────────────────────────────────────────────── │ ║
+║   │                                                                         │ ║
+║   │   🎯 SHORT DESCRIPTION:                                                 │ ║
+║   │   ══════════════════════                                                │ ║
+║   │   Premium developer portfolio built with Next.js 14, featuring          │ ║
+║   │   3D hero section, GSAP animations, Framer Motion, and Three.js.        │ ║
+║   │   Built & deployed entirely from an Android phone!                      │ ║
+║   │                                                                         │ ║
+║   │   ✨ KEY FEATURES:                                                      │ ║
+║   │   ├── ✅ 3D Hero Section with Three.js                                  │ ║
+║   │   ├── ✅ GSAP Scroll Animations                                         │ ║
+║   │   ├── ✅ Framer Motion Interactions                                      │ ║
+║   │   ├── ✅ Command Palette                                                 │ ║
+║   │   ├── ✅ AI Chatbot Integration                                         │ ║
+║   │   └── ✅ Live GitHub Dashboard                                          │ ║
+║   │                                                                         │ ║
+║   │   🛠️ TECH STACK:                                                        │ ║
+║   │   ⚛️ Next.js 14  │  🔷 TypeScript  │  🎨 Tailwind CSS                  │ ║
+║   │   🎭 Framer Motion  │  🎬 GSAP  │  🌐 Three.js                         │ ║
+║   │                                                                         │ ║
+║   │   📊 PROJECT STATS:                                                     │ ║
+║   │   ├── ⭐ Stars: 2                                                       │ ║
+║   │   ├── 🍴 Forks: [COUNT]                                                 │ ║
+║   │   └── 📅 Last Updated: July 7, 2026                                     │ ║
+║   │                                                                         │ ║
+║   ╰─────────────────────────────────────────────────────────────────────────╯ ║
+║                                                                               ║
+║   🔗 LINKS:                                                                  ║
+║   ├── 🌐 Live Demo:   [https://manashjyoti-bora.vercel.app](https://manashjyoti-bora.vercel.app)  │ ║
+║   └── 💻 GitHub:     [github.com/Manashjyoti-Bora/portfolio-website](https://github.com/Manashjyoti-Bora/portfolio-website)  │ ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🏆 Featured Project 2: NexusMart
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              🏆 PROJECT SHOWCASE                                ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   ╭─────────────────────────────────────────────────────────────────────────╮ ║
+║   │                                                                         │ ║
+║   │   📁 PROJECT NAME: NexusMart - Full Stack E-Commerce                   │ ║
+║   │   ──────────────────────────────────────────────────────────────────── │ ║
+║   │                                                                         │ ║
+║   │   🎯 SHORT DESCRIPTION:                                                 │ ║
+║   │   ══════════════════════                                                │ ║
+║   │   Complete e-commerce solution with Next.js App Router, MongoDB Atlas,  │ ║
+║   │   JWT authentication with bcrypt & HTTP-only cookies, cart & checkout,  │ ║
+║   │   role-gated admin panel, and Zod validation on every mutation.         │ ║
+║   │                                                                         │ ║
+║   │   ✨ KEY FEATURES:                                                      │ ║
+║   │   ├── ✅ Next.js App Router Architecture                                 │ ║
+║   │   ├── ✅ MongoDB Atlas Database                                          │ ║
+║   │   ├── ✅ JWT Auth with bcrypt + HTTP-only cookies                       │ ║
+║   │   ├── ✅ Cart & Checkout System                                         │ ║
+║   │   ├── ✅ Role-gated Admin Panel                                         │ ║
+║   │   └── ✅ Zod Validation                                                 │ ║
+║   │                                                                         │ ║
+║   │   🛠️ TECH STACK:                                                        │ ║
+║   │   ⚛️ Next.js  │  🔷 TypeScript  │  🍃 MongoDB Atlas                   │ ║
+║   │   🟢 Node.js  │  🔐 JWT  │  🛡️ Zod                                    │ ║
+║   │                                                                         │ ║
+║   │   📊 PROJECT STATS:                                                     │ ║
+║   │   ├── ⭐ Stars: 1                                                       │ ║
+║   │   ├── 🍴 Forks: [COUNT]                                                 │ ║
+║   │   └── 📅 Last Updated: July 7, 2026                                     │ ║
+║   │                                                                         │ ║
+║   ╰─────────────────────────────────────────────────────────────────────────╯ ║
+║                                                                               ║
+║   🔗 LINKS:                                                                  ║
+║   ├── 🌐 Live Demo:   [Live Demo Link]                                        │ ║
+║   └── 💻 GitHub:     [github.com/Manashjyoti-Bora/nexusmart](https://github.com/Manashjyoti-Bora/nexusmart)  │ ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🏆 Featured Project 3: DevHire Pro ATS
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              🏆 PROJECT SHOWCASE                                ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   ╭─────────────────────────────────────────────────────────────────────────╮ ║
+║   │                                                                         │ ║
+║   │   📁 PROJECT NAME: DevHire Pro - ATS                                    │ ║
+║   │   ──────────────────────────────────────────────────────────────────── │ ║
+║   │                                                                         │ ║
+║   │   🎯 SHORT DESCRIPTION:                                                 │ ║
+║   │   ══════════════════════                                                │ ║
+║   │   Enterprise-grade Job Portal & Applicant Tracking System with          │ ║
+║   │   real-time multi-attribute filtering, glassmorphic light/dark themes,  │ ║
+║   │   and application pipeline tracker. Built with React 19 + Vite.          │ ║
+║   │                                                                         │ ║
+║   │   ✨ KEY FEATURES:                                                      │ ║
+║   │   ├── ✅ Real-time Multi-Attribute Filtering                             │ ║
+║   │   ├── ✅ Glassmorphic Light/Dark Themes                                 │ ║
+║   │   ├── ✅ Application Pipeline Tracker                                   │ ║
+║   │   ├── ✅ React 19 + Vite                                                │ ║
+║   │   └── ✅ Enterprise-grade Architecture                                   │ ║
+║   │                                                                         │ ║
+║   │   🛠️ TECH STACK:                                                        │ ║
+║   │   ⚛️ React 19  │  ⚡ Vite  │  🎨 Tailwind CSS                          │ ║
+║   │   🔷 TypeScript  │  🎭 Framer Motion                                     │ ║
+║   │                                                                         │ ║
+║   │   📊 PROJECT STATS:                                                     │ ║
+║   │   ├── ⭐ Stars: 1                                                       │ ║
+║   │   ├── 🍴 Forks: [COUNT]                                                 │ ║
+║   │   └── 📅 Last Updated: July 7, 2026                                     │ ║
+║   │                                                                         │ ║
+║   ╰─────────────────────────────────────────────────────────────────────────╯ ║
+║                                                                               ║
+║   🔗 LINKS:                                                                  ║
+║   └── 💻 GitHub:     [github.com/Manashjyoti-Bora/devhire-pro-ats](https://github.com/Manashjyoti-Bora/devhire-pro-ats)  │ ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🏆 Featured Project 4: TaskFlow Enterprise
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              🏆 PROJECT SHOWCASE                                ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   ╭─────────────────────────────────────────────────────────────────────────╮ ║
+║   │                                                                         │ ║
+║   │   📁 PROJECT NAME: TaskFlow Enterprise                                  │ ║
+║   │   ──────────────────────────────────────────────────────────────────── │ ║
+║   │                                                                         │ ║
+║   │   🎯 SHORT DESCRIPTION:                                                 │ ║
+║   │   ══════════════════════                                                │ ║
+║   │   Agile productivity suite with dynamic Kanban boards, live priority    │ ║
+║   │   tagging, and sprint tracking. Built with React + modern state          │ ║
+║   │   management for enterprise productivity.                                │ ║
+║   │                                                                         │ ║
+║   │   ✨ KEY FEATURES:                                                      │ ║
+║   │   ├── ✅ Dynamic Kanban Boards                                          │ ║
+║   │   ├── ✅ Live Priority Tagging                                          │ ║
+║   │   ├── ✅ Sprint Tracking                                                 │ ║
+║   │   ├── ✅ Modern State Management                                        │ ║
+║   │   └── ✅ Real-time Updates                                              │ ║
+║   │                                                                         │ ║
+║   │   🛠️ TECH STACK:                                                        │ ║
+║   │   ⚛️ React  │  📦 Redux Toolkit  │  🎨 Tailwind CSS                   │ ║
+║   │   🔷 TypeScript  │  🟢 Node.js                                       │ ║
+║   │                                                                         │ ║
+║   │   📊 PROJECT STATS:                                                     │ ║
+║   │   ├── ⭐ Stars: 1                                                       │ ║
+║   │   ├── 🍴 Forks: [COUNT]                                                 │ ║
+║   │   └── 📅 Last Updated: July 7, 2026                                     │ ║
+║   │                                                                         │ ║
+║   ╰─────────────────────────────────────────────────────────────────────────╯ ║
+║                                                                               ║
+║   🔗 LINKS:                                                                  ║
+║   └── 💻 GitHub:     [github.com/Manashjyoti-Bora/taskflow-enterprise](https://github.com/Manashjyoti-Bora/taskflow-enterprise)  │ ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+# 📬 14. CONTACT
+
+## 📬 Get In Touch
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                               📬 CONTACT ME 📬                                 ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   💬 PREFERRED CONTACT METHODS                                                ║
+║   ═══════════════════════════                                                 ║
+║                                                                               ║
+║   ┌─────────────────────────────────────────────────────────────────────────┐ ║
+║   │                                                                         │ ║
+║   │   📧 EMAIL                                                               │ ║
+║   │   ═══════                                                               │ ║
+║   │   └── Response Time: Within 24 hours                                     │ | | ║
+║   │                                                                         | | ║
+║   │   💼 LINKEDIN                                                            | | ║
+║   │   ═════════                                                             | | ║
+║   │   └── Profile: linkedin.com/in/manashjyoti-bora                         | | ║
+║   │                                                                         | | ║
+║   │   🐙 GITHUB                                                              | | ║
+║   │   ═══════                                                               | | ║
+║   │   └── Profile: github.com/Manashjyoti-Bora                               | | ║
+║   │                                                                         | | ║
+║   │   🌐 PORTFOLIO                                                           | | ║
+║   │   ═════════                                                             | | ║
+║   │   └── Website: manashjyoti-bora.vercel.app                              | | ║
+║   │                                                                         | | ║
+║   └─────────────────────────────────────────────────────────────────────────┘ ║
+║                                                                               ║
+║   🤝 OPEN FOR                                                                 ║
+║   ═════════                                                                   ║
+║                                                                               ║
+║   ├── 💼 Internship opportunities at tech companies                          | | ║
+║   ├── 🤝 Collaborative open source projects                                  | | ║
+║   ├── 💡 Freelance web development projects                                  | | ║
+║   ├── 🎓 Research collaborations                                            | | ║
+║   ├── 📚 Mentorship                                                          | | ║
+║   └── ☕ Just a friendly chat about tech!                                     | | ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+### Quick Contact Buttons
+
+<div align="center">
+
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/manashjyoti-bora)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Manashjyoti-Bora)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://manashjyoti-bora.vercel.app)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ManashjyotiBora)
+
+</div>
+
+---
+
+# 🔥 24. PROFESSIONAL FOOTER
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   ╭───────────────────────────────────────────────────────────────────────────╮ ║
+║   │                                                                         │ ║
+║   │                         🙏 Thank You for Visiting! 🙏                   │ ║
+║   │                                                                         │ ║
+║   │                     ─────────────────────────────────                    │ ║
+║   │                                                                         │ ║
+║   │         "The best way to predict the future is to create it."          │ ║
+║   │                                       - Peter Drucker                   │ ║
+║   │                                                                         │ ║
+║   │                     ─────────────────────────────────                    │ ║
+║   │                                                                         │ ║
+║   │         Thanks for taking the time to explore my profile.               │ ║
+║   │         If you found something interesting, let's connect!              │ ║
+║   │                                                                         │ ║
+║   │              💡 Keep Coding, Keep Building! 💡                           │ ║
+║   │                                                                         │ ║
+║   │         📱 Built with passion - even from an Android phone! 💪          │ ║
+║   │                                                                         │ ║
+║   ╰───────────────────────────────────────────────────────────────────────────╯ ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## 📊 Footer Stats
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              📊 FINAL STATS 📊                                 ║
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║   📅 Last Updated: July 10, 2026                                              ║
+║   ═════════════════════════                                                   ║
+```
+
+  ![GitHub followers](https://img.shields.io/github/followers/Manashjyoti-Bora?style=for-the-badge&logo=github&label=Follow&color=00FF88)
+  ![GitHub stars](https://img.shields.io/github/stars/Manashjyoti-Bora?style=for-the-badge&logo=github&label=Stars&color=FFD93D)
+  ![Profile Views](https://img.shields.io/badge/Views-Active-00D9FF?style=for-the-badge)
+
+```
+║                                                                               ║
+║   Made with ❤️  using Markdown & 💻                                          ║
+║                                                                               ║
+║   © 2024-2026 Manashjyoti Bora. All rights reserved.                          ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                                                                               ║
+║   ███████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ███████╗██████╗ ██╗██╗                 ║
+║   ██╔════╝██║  ██║██╔══██╗██╔══██╗██╔════╝ ██╔════╝██╔══██╗██║██║                 ║
+║   ███████║███████║███████║██║  ██║██║  ███╗█████╗  ██║  ██║██║██║                 ║
+║   ╚════██║██╔══██║██╔══██║██║  ██║██║   ██║██╔══╝  ██║  ██║╚═╝╚═╝               ║
+║   ███████║██║  ██║██║  ██║██████╔╝╚██████╔╝███████╗██████╔╝██╗██╗                ║
+║   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═════╝  ╚═════╝ ╚══════╝╚═════╝ ╚═╝╚═╝                ║
+║                                                                               ║
+║                              🚀 LEVEL: LEGENDARY 🚀                           ║
+║                                                                               ║
+║                    "Built with passion - from Android to Cloud!"              ║
+║                                                                               ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+<!---
+🔗 USEFUL LINKS:
+GitHub Readme Stats: https://github-readme-stats.vercel.app
+Streak Stats: https://streak-stats.demolab.com
+Profile Trophies: https://github-profile-trophy.vercel.app
+Shields.io Badges: https://shields.io
+Typing SVG: https://readme-typing-svg.demolab.com
+Capsule Render: https://capsule-render.vercel.app
+Visitor Counter: https://komarev.com/ghpvc
+Activity Graph: https://github-readme-activity-graph.vercel.app
+--->
