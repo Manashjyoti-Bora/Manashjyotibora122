@@ -9,7 +9,11 @@
 <br><br>
 
 <p align="center">
-  <a href="https://github.com/Manashjyoti-Bora"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspal&logoColor=white"></a>
+  <a href="https://github.com/Manashjyoti-Bora"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspal&logoColor=white"></a><span style="display:inline-block;position:relative;top:-3px;margin:0 6px">
+  <span style="display:inline-block;width:12px;height:12px;border-radius:50%;background:#22c55e;box-shadow:0 0 0 0 rgba(34,197,94,.8);animation:pulseDot 1.8s infinite"></span>
+  <style>@keyframes pulseDot{0%{box-shadow:0 0 0 0 rgba(34,197,94,.7)}70%{box-shadow:0 0 0 14px rgba(34,197,94,0)}100%{box-shadow:0 0 0 0 rgba(34,197,94,0)}}</style>
+  <sub style="color:#22c55e;font-weight:700;margin-left:4px">online</sub>
+</span>
   <a href="https://manashjyoti-bora.vercel.app"><img src="https://img.shields.io/badge/Portfolio-manashjyoti--bora.vercel.app-8A2BE2?style=for-the-badge&logo=vercel"></a>
   <a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?style=for-the-badge&logo=github&color=6e5494"></a>
   <img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Visitors">
@@ -26,6 +30,13 @@
 </p>
 
 </div>
+<br>
+<a href="mailto:manashjyotibora122@gmail.com">
+  <span style="display:inline-block;animation:shake 2.5s infinite;padding:8px 18px;background:linear-gradient(90deg,#8A2BE2,#4169E1,#00CED1);color:#fff;border-radius:8px;font-weight:800;font-family:monospace;letter-spacing:.5px;box-shadow:0 4px 18px rgba(138,43,226,.45);text-decoration:none">
+    🤝 HIRE ME / INTERNSHIP — I'M READY! 🚀
+  </span>
+</a>
+<style>@keyframes shake{0%,92%,100%{transform:translate(0,0) rotate(0)}93%{transform:translate(-2px,1px) rotate(-1deg)}94%{transform:translate(3px,-1px) rotate(1deg)}95%{transform:translate(-2px,-1px) rotate(-1deg)}96%{transform:translate(2px,1px) rotate(1deg)}97%{transform:translate(-1px,2px) rotate(0)}98%{transform:translate(1px,-1px) rotate(0)}}</style>
 
 > [!NOTE]
 > Full Stack Developer from **Nagaon, Assam, India 🇮🇳**, building secure production-style web apps with React • Next.js • TypeScript • Node.js from Android to Cloud.
@@ -72,8 +83,24 @@
 
 ---
 
-## 👋 About Me
+## 👋 About Me <span style="display:inline-block;position:relative;vertical-align:middle">
+<svg width="160" height="60" viewBox="0 0 160 60" xmlns="http://www.w3.org/2000/svg" style="vertical-align:middle">
+  <style>@keyframes or2{to{transform:rotate(360deg)}}.o2{transform-origin:80px 30px;animation:or2 7s linear infinite}</style>
+  <circle cx="80" cy="30" r="18" fill="url(#g2)"/>
+  <defs><radialGradient id="g2"><stop offset="0" stop-color="#8A2BE2"/><stop offset="1" stop-color="#4169E1"/></radialGradient></defs>
+  <g class="o2"><text x="148" y="36" font-size="20">🚀</text></g>
+</svg></span>
 
+<svg width="64" height="80" viewBox="0 0 64 80" style="float:right;margin:-18px 6px 0 0" xmlns="http://www.w3.org/2000/svg">
+  <style>@keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}@keyframes steam{0%{opacity:0;transform:translateY(0)}40%{opacity:.9}100%{opacity:0;transform:translateY(-30px)}}g.f{animation:bob 2.6s ease-in-out infinite}
+    .s{opacity:0;animation:steam 2.4s ease-in-out infinite}.s2{animation-delay:.8s}.s3{animation-delay:1.6s}</style>
+  <g class="f">
+    <text x="6" y="60" font-size="44">☕</text>
+    <text class="s" x="18" y="14" font-size="16">💨</text>
+    <text class="s s2" x="28" y="10" font-size="14">💨</text>
+    <text class="s s3" x="8" y="12" font-size="12">💨</text>
+  </g>
+</svg>
 <img align="right" alt="Coding" width="270" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 Hi, I'm **Manashjyoti Bora** — a Full Stack Developer from Nagaon, Assam. I love turning ideas into clean, production-ready web apps.
@@ -86,7 +113,7 @@ Hi, I'm **Manashjyoti Bora** — a Full Stack Developer from Nagaon, Assam. I lo
 - 📅 GitHub since February 2025
 - ⚡ I code better with Assamese masala chai ☕
 - 🌐 Portfolio: [manashjyoti-bora.vercel.app](https://manashjyoti-bora.vercel.app)
-- 📧 [email protected]
+- 📧 manashjyotibora122@gmail.com
 
 <br clear="right">
 
@@ -121,7 +148,19 @@ Hi, I'm **Manashjyoti Bora** — a Full Stack Developer from Nagaon, Assam. I lo
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack <svg width="36" height="36" viewBox="0 0 40 40" style="vertical-align:middle" xmlns="http://www.w3.org/2000/svg">
+  <style>@keyframes spin{to{transform:rotate(360deg)}}.sp{transform-origin:20px 20px;animation:spin 6s linear infinite}@keyframes spin2{to{transform:rotate(-360deg)}}.sp2{transform-origin:20px 20px;animation:spin2 9s linear infinite}</style>
+  <g class="sp"><circle cx="20" cy="20" r="3" fill="#61DAFB"/><ellipse cx="20" cy="20" rx="17" ry="7" fill="none" stroke="#61DAFB" stroke-width="1.6"/><ellipse cx="20" cy="20" rx="17" ry="7" fill="none" stroke="#61DAFB" stroke-width="1.6" transform="rotate(60 20 20)"/><ellipse cx="20" cy="20" rx="17" ry="7" fill="none" stroke="#61DAFB" stroke-width="1.6" transform="rotate(120 20 20)"/></g>
+</svg>
+
+<div align="center" style="font-size:22px;letter-spacing:18px">
+<span style="display:inline-block;animation:tw 1.6s ease-in-out infinite">✨</span>
+<span style="display:inline-block;animation:tw 1.6s ease-in-out infinite;animation-delay:.3s">⭐</span>
+<span style="display:inline-block;animation:tw 1.6s ease-in-out infinite;animation-delay:.6s">✨</span>
+<span style="display:inline-block;animation:tw 1.6s ease-in-out infinite;animation-delay:.9s">💫</span>
+<span style="display:inline-block;animation:tw 1.6s ease-in-out infinite;animation-delay:1.2s">✨</span>
+<style>@keyframes tw{0%,100%{opacity:.3;transform:scale(.8)}50%{opacity:1;transform:scale(1.2) rotate(12deg)}}</style>
+</div>
 
 <div align="center">
 <marquee behavior="alternate" scrollamount="8" direction="left" width="100%">
@@ -171,6 +210,30 @@ Hi, I'm **Manashjyoti Bora** — a Full Stack Developer from Nagaon, Assam. I lo
 
 ## 🚀 Getting Started
 
+<div align="center">
+<svg width="560" height="140" viewBox="0 0 560 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tbg" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#0b1021"/><stop offset="1" stop-color="#14061f"/>
+    </linearGradient>
+  </defs>
+  <rect width="560" height="140" rx="12" fill="url(#tbg)" stroke="#8A2BE2" stroke-width="1"/>
+  <circle cx="22" cy="22" r="6" fill="#ff5f56"/><circle cx="44" cy="22" r="6" fill="#ffbd2e"/><circle cx="66" cy="22" r="6" fill="#27c93f"/>
+  <text xml:space="preserve" x="24" y="60" fill="#00CED1" font-family="Fira Code,monospace" font-size="15">
+    <tspan x="24" dy="0"><tspan fill="#ff69b4">$</tspan> whoami</tspan>
+    <tspan x="24" dy="22" fill="#ffffff">manash — full stack dev, Nagaon ☕</tspan>
+    <tspan x="24" dy="22"><tspan fill="#ff69b4">$</tspan> npm run build</tspan>
+    <tspan x="24" dy="22" fill="#27c93f">✔ compiled successfully ✨</tspan>
+  </text>
+  <style>
+    @keyframes cur{0%,49%{opacity:1}50%,100%{opacity:0}}
+  </style>
+  <rect x="180" y="106" width="9" height="16" fill="#8A2BE2">
+    <animate attributeName="opacity" values="1;0;1" keyTimes="0;.5;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
+</div>
+
 ```bash
 git clone https://github.com/Manashjyoti-Bora/starter-template.git
 cd starter-template
@@ -218,6 +281,8 @@ volumes:
 ---
 
 ## 💻 Usage
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=00CED1&center=true&vCenter=true&width=720&height=34&lines=console.log%28%22Namaskar+from+Nagaon%2C+Assam%21%22%29%3B+%F0%9F%87%AE%F0%9F%87%B3;git+commit+-m+%22%E2%9C%A8+ship+it%22%3B+%F0%9F%9A%80;npm+run+build+%26%26+chai+%E2%98%95" alt="code typing"></div>
 
 **Code diff example:**
 ```diff
@@ -274,6 +339,20 @@ Portfolio    TS         Blog
 
 ---
 
+<div align="center">
+<span style="display:inline-block;animation:bounce 1.4s infinite;font-size:28px">⬇️</span>
+<style>@keyframes bounce{0%,100%{transform:translateY(0)}50%{transform:translateY(12px)}}</style>
+</div>
+<div align="center">
+<svg width="720" height="18" viewBox="0 0 720 18" xmlns="http://www.w3.org/2000/svg">
+  <defs><linearGradient id="rb" x1="0" x2="1" y1="0" y2="0">
+    <stop offset="0" stop-color="#ff0040"><animate attributeName="stop-color" values="#ff0040;#ff8a00;#ffe600;#00c853;#00b0ff;#8A2BE2;#ff0040" dur="6s" repeatCount="indefinite"/></stop>
+    <stop offset="1" stop-color="#8A2BE2"><animate attributeName="stop-color" values="#8A2BE2;#ff0040;#ff8a00;#ffe600;#00c853;#00b0ff;#8A2BE2" dur="6s" repeatCount="indefinite"/></stop>
+  </linearGradient></defs>
+  <rect width="720" height="8" y="5" rx="4" fill="url(#rb)"/>
+</svg>
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -325,6 +404,23 @@ Portfolio    TS         Blog
 <summary>🎵 Music (coming soon)</summary>
 <p align="center">
   <a href="https://open.spotify.com"><img src="https://img.shields.io/badge/Spotify-Show%20Now%20Playing-1DB954?style=for-the-badge&logo=spotify"></a><br>
+<svg width="160" height="46" viewBox="0 0 160 46" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .b{fill:#1DB954}
+    .b1{animation:b .9s ease-in-out infinite}
+    .b2{animation:b .7s ease-in-out infinite;animation-delay:.2s}
+    .b3{animation:b 1.1s ease-in-out infinite;animation-delay:.4s}
+    .b4{animation:b .8s ease-in-out infinite;animation-delay:.1s}
+    .b5{animation:b 1.0s ease-in-out infinite;animation-delay:.3s}
+    @keyframes b{0%,100%{height:8px;y:34}50%{height:36px;y:6}}
+  </style>
+  <rect class="b b1" x="10" y="34" width="14" height="8" rx="3"/>
+  <rect class="b b2" x="36" y="34" width="14" height="18" rx="3"/>
+  <rect class="b b3" x="62" y="34" width="14" height="28" rx="3"/>
+  <rect class="b b4" x="88" y="34" width="14" height="14" rx="3"/>
+  <rect class="b b5" x="114" y="34" width="14" height="24" rx="3"/>
+  <text x="140" y="32" fill="#1DB954" font-family="monospace" font-size="12" font-weight="700">♪</text>
+</svg><br>
   <sub>Deploy <a href="https://github.com/novatorem/novatorem">novatorem</a> to Vercel with your Spotify API keys for live status.</sub>
 </p>
 </details>
@@ -396,6 +492,11 @@ Portfolio    TS         Blog
 
 ## 🎮 Fun Stuff
 
+<p align="center">
+  <img width="220" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding setup">
+  <img width="220" src="https://media.giphy.com/media/14kqI3Y4urS3rG/giphy.gif" alt="pixel coder">
+  <img width="220" src="https://media.giphy.com/media/L1R1tvI9ivRbTYW4pN/giphy.gif" alt="isometric dev">
+</p>
 ```text
   __  __                  _      ____                       _
  |  \/  | __ _ _ __   __| |    / ___|_   _  __ _ _ __     (_)
@@ -447,7 +548,7 @@ We follow the [Contributor Covenant](https://www.contributor-covenant.org/) Code
 
 ## 🔒 Security
 
-Found a vulnerability? **Don't** open a public issue. Email **[[email protected]](mailto:[email protected])** — I respond within 48 hours.
+Found a vulnerability? **Don't** open a public issue. Email **[manashjyotibora122@gmail.com](mailto:manashjyotibora122@gmail.com)** — I respond within 48 hours.
 
 <p>
   <img src="https://img.shields.io/badge/Secure%20by-Default-success?style=flat-square">
@@ -477,7 +578,7 @@ Found a vulnerability? **Don't** open a public issue. Email **[[email protected]
 <a href="https://github.com/Manashjyoti-Bora"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 <a href="https://manashjyoti-bora.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/manashjyoti-bora"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="mailto:[email protected]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:manashjyotibora122@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 <!-- Uncomment & fill as you create accounts:
 <a href="https://twitter.com/HANDLE"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
