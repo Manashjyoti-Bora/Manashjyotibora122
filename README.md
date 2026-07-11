@@ -353,6 +353,14 @@ Portfolio    TS         Blog         SaaS      Mobile
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manashjyoti-Bora&theme=radical" alt="Stats Card">
 </div>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/8A2BE2/Manashjyoti-Bora" alt="GHChart Contributions" width="90%">
+</p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FManashjyoti-Bora&count_bg=%238A2BE2&title_bg=%234169E1&icon=github.svg&icon_color=%23ffffff&title=Total+Hits&edge_flat=false" alt="Total Hits Counter">
+</p>
+
 ---
 
 ## 📈 Activity Graph
@@ -377,13 +385,16 @@ Portfolio    TS         Blog         SaaS      Mobile
 
 ## 🏙 3D Contributions
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:8A2BE2&height=34&text=%F0%9F%8F%99+3D+Contribution+Skyline+%C2%B7+Isometric+Calendar&fontSize=13&fontAlign=50&fontColor=ffffff">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:8A2BE2&height=34&text=%F0%9F%8F%99+3D+Contribution+Skyline+%C2%B7+Isometric+Calendar+%C2%B7+GitHub+Skyline&fontSize=13&fontAlign=50&fontColor=ffffff">
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manashjyoti-Bora&theme=radical" alt="Profile Details" width="100%">
   <br><br>
   <img alt="3D Profile" src="https://cdn.jsdelivr.net/gh/Manashjyoti-Bora/Manashjyoti-Bora/profile-3d-contrib/profile-night-rainbow.svg" onerror="this.style.display='none'">
   <sub><br><i>(3D profile requires the <a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111/github-profile-3d-contrib</a> GitHub Action — auto-generated on push)</i></sub>
+  <br><br>
+  <img alt="GitHub Skyline 2025" src="https://github-skyline.vercel.app/api?username=Manashjyoti-Bora&year=2025" onerror="this.style.display='none'">
+  <br><sub><i>GitHub Skyline 2025 — 3D city of your contributions 🏙️</i></sub>
 </p>
 
 ---
@@ -501,6 +512,8 @@ Tip: phone ta Spotify Developer App tu create korile moi step-by-step loi dim �
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:00CED1&height=32&text=%F0%9F%8E%AE+Fun+Stuff+%C2%B7+Fun+Facts+%C2%B7+ASCII+Art+%C2%B7+GIFs+%C2%B7+Mini+Game&fontSize=13&fontAlign=50&fontColor=000">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeAuto&height=30&text=%E2%8F%B0+Auto-color+gradient+%C2%B7+changes+with+time+of+day+%E2%98%80%EF%B8%8F%E2%86%92%F0%9F%8C%99&fontSize=12&fontAlign=50&fontColor=ffffff&animation=twinkling">
+
 <img src="https://capsule-render.vercel.app/api?type=speech&color=0:FF69B4,100:8A2BE2&height=60&text=Did+you+know%3F+%F0%9F%A4%93&fontSize=20&fontColor=ffffff&animation=scaleIn&fontAlign=50">
 
 ### 🤓 Fun Facts About Me (100% Real!)
@@ -606,19 +619,42 @@ Tip: phone ta Spotify Developer App tu create korile moi step-by-step loi dim �
   <img src="https://forthebadge.com/images/badges/fuck-it-ship-it.svg" alt="Ship it">
   <img src="https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg" alt="You didn't ask for this">
   <img src="https://forthebadge.com/images/badges/does-not-contain-treenuts.svg" alt="No tree nuts">
+  <img src="https://forthebadge.com/images/badges/0-percent-optimized.svg" alt="0% Optimized">
+  <img src="https://forthebadge.com/images/badges/kinda-sfw.svg" alt="Kinda SFW">
+  <img src="https://forthebadge.com/images/badges/designed-in-ms-paint.svg" alt="Designed in MS Paint">
+  <img src="https://forthebadge.com/images/badges/winter-is-coming.svg" alt="Winter is Coming">
+  <img src="https://forthebadge.com/images/badges/uses-git.svg" alt="Uses Git">
+  <img src="https://forthebadge.com/images/badges/made-with-crayons.svg" alt="Made with Crayons">
+  <img src="https://forthebadge.com/images/badges/gluten-free.svg" alt="Gluten Free">
+  <img src="https://forthebadge.com/images/badges/validated-html5.svg" alt="Validated HTML5">
+  <img src="https://forthebadge.com/images/badges/powered-by-oxygen.svg" alt="Powered by Oxygen">
+  <img src="https://forthebadge.com/images/badges/fo-real.svg" alt="Fo Real">
+  <img src="https://forthebadge.com/images/badges/ages-12.svg" alt="Ages 12+">
 </p>
+
+<marquee behavior="alternate" scrollamount="6" direction="left">
+<span style="font-size:24px">🎉 🎊 🥳 🎉 🎊 🥳 🎉 🎊 🥳 🎉 🎊 🥳 confetti vibes 🎉 🎊 🥳 🎉 🎊 🥳</span>
+</marquee>
+
+<marquee scrollamount="12" direction="left">
+<span style="font-size:22px">🪐 🌍 🚀 👨‍🚀 ☄️ 🌠 🌌 🌛 🌞 🛰 🛸 🪐 🌍 🚀 👨‍🚀 ☄️ 🌠 exploring the code galaxy 🛸</span>
+</marquee>
+
+<marquee behavior="alternate" scrollamount="7" direction="right">
+<span style="font-size:20px">💻 ⌨️ 🖱 🖥 📱 💾 💿 📀 💽 🖨 🕹 🎮 💻 ⌨️ all the gadgets! 🖥 📱</span>
+</marquee>
 
 <marquee behavior="alternate" scrollamount="5" direction="left">
 <span style="font-size:20px">📚 📖 📕 📗 📘 📙 📓 📔 📒 — always learning! 📚 📖 📕 📗 📘 📙 📓 📔 📒</span>
 </marquee>
 
 ```text
-  __  __                  _      ____                       _
- |  \/  | __ _ _ __   __| |    / ___|_   _  __ _ _ __     (_)
- | |\/| |/ _` | '_ \ / _` |   | |  _| | | |/ _` | '_ \    | |
- | |  | | (_| | | | | (_| |   | |_| | |_| | (_| | | | |   | |
- |_|  |_|\__,_|_| |_|\__,_|    \____|\__,_|\__,_|_| |_|  _/ |
-   Bora — from Nagaon, Assam                           |__/
+  __  __                             _            _           _        ____                       _
+ |  \/  |  __ _  _ __    __ _   ___ | |__    _   (_)  _   _  | |_     | __ )   ___  _ __  __ _   (_)
+ | |\/| | / _` || '_ \  / _` | / __|| '_ \  (_)  | | | | | | | __|    |  _ \  / _ \| '__|/ _` |  | |
+ | |  | || (_| || | | || (_| || (__ | | | |  _   | | | |_| | | |_     | |_) || (_) | |  | (_| | _| |
+ |_|  |_| \__,_||_| |_| \__,_| \___||_| |_| (_)  |_|  \__,_|  \__|    |____/  \___/|_|   \__,_|(_) |
+   Manashjyoti Bora  ·  Full Stack Developer  ·  Nagaon, Assam 🇮🇳                               |__/
 ```
 
 ```text
