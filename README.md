@@ -11,8 +11,16 @@
 <p align="center">
   <a href="https://github.com/Manashjyoti-Bora"><img src="https://img.shields.io/badge/Status-Open%20to%20Work-brightgreen?style=for-the-badge&logo=statuspal&logoColor=white"></a>
   <a href="https://manashjyoti-bora.vercel.app"><img src="https://img.shields.io/badge/Portfolio-manashjyoti--bora.vercel.app-8A2BE2?style=for-the-badge&logo=vercel"></a>
-  <a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?style=for-the-badge&logo=github&color=6e5494"></a>
+  <a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?style=for-the-badge&logo=github&color=6e5494&label=Follow+%E2%9C%A8"></a>
   <img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Visitors">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/Manashjyoti-Bora?style=flat-square&logo=github&label=Stars&color=yellow">
+  <img src="https://img.shields.io/github/repo-size/Manashjyoti-Bora/Manashjyoti-Bora?style=flat-square&logo=github&label=Repo+Size&color=blue">
+  <img src="https://img.shields.io/github/last-commit/Manashjyoti-Bora/Manashjyoti-Bora?style=flat-square&logo=git&label=Last+Commit&color=green">
+  <img src="https://img.shields.io/github/issues/Manashjyoti-Bora/Manashjyoti-Bora?style=flat-square&logo=github&label=Issues&color=orange">
+  <img src="https://img.shields.io/github/forks/Manashjyoti-Bora?style=flat-square&logo=github&label=Forks&color=purple">
 </p>
 
 <p align="center">
@@ -25,7 +33,7 @@
   <img src="https://img.shields.io/badge/carbon--offset-verified-green?style=flat-square&logo=leaf">
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&text=%F0%9F%9A%80+LIVE+%C2%B7+OPEN+TO+WORK+%C2%B7+NAGAON%2C+ASSAM+%C2%B7+BUILDING+THE+WEB+ONE+COMMIT+AT+A+TIME&fontSize=14&fontAlign=50&fontColor=ffffff">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&text=%F0%9F%9A%80+LIVE+%C2%B7+OPEN+TO+WORK+%C2%B7+NAGAON%2C+ASSAM+%C2%B7+BUILDING+THE+WEB+ONE+COMMIT+AT+A+TIME&fontSize=14&fontAlign=50&fontColor=ffffff&animation=blink">
 
 <br>
 
@@ -58,7 +66,9 @@
 - [💻 Usage](#-usage)
 - [🗺 Roadmap](#-roadmap)
 - [📊 GitHub Stats](#-github-stats)
+- [📈 Activity Graph](#-activity-graph)
 - [🐍 Contribution Snake](#-contribution-snake)
+- [🏙 3D Contributions](#-3d-contributions)
 - [🎬 Widgets & Media](#-widgets--media)
 - [🎮 Fun Stuff](#-fun-stuff)
 - [🤝 Contributing](#-contributing)
@@ -116,6 +126,10 @@ Hi, I'm **Manashjyoti Bora** — a Full Stack Developer from Nagaon, Assam. I lo
 
 </details>
 
+<marquee behavior="alternate" scrollamount="6" direction="left">
+<span style="font-size:18px">👋 🙏 🖐️ ✋ 🤚 🖖 👌 🤌 🤏 ✌️ 🤞 🤟 🤘 🤙 👈 👉 👆 🖕 👇 ☝️ 👍 👎 ✊ 👊 🤛 🤜 👏 🙌 👐 🤲 🤝 🙏 💪</span>
+</marquee>
+
 ---
 
 <marquee scrollamount="10" direction="right">
@@ -137,7 +151,15 @@ Hi, I'm **Manashjyoti Bora** — a Full Stack Developer from Nagaon, Assam. I lo
 
 ## 🛠️ Tech Stack
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00CED1&height=40&text=%E2%9A%9B%EF%B8%8F%20My%20Tech%20Stack%20%C2%B7%20Always%20Learning%20%F0%9F%9A%80&fontSize=15&fontAlign=50&fontColor=ffffff">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8A2BE2,100:00CED1&height=50&text=%E2%9A%9B%EF%B8%8F%20My%20Tech%20Stack%20%C2%B7%20Always%20Learning%20%F0%9F%9A%80&fontSize=18&fontAlign=50&fontColor=ffffff&animation=twinkling">
+
+<br>
+
+<p align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,html,css,py,mongodb,postgres,firebase,docker,git,vscode,vercel,figma,redux,prisma,redis,graphql,linux,bash,npm,yarn,webpack,vite,jest,postman&perline=15&theme=dark" alt="Skill Icons" />
+</a>
+</p>
 
 <marquee behavior="alternate" scrollamount="8" direction="left" width="100%">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -158,20 +180,24 @@ Hi, I'm **Manashjyoti Bora** — a Full Stack Developer from Nagaon, Assam. I lo
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white">
 </marquee>
 
 <marquee behavior="alternate" scrollamount="12" direction="right" width="100%">
   <span style="font-size:22px">✨ ⭐ 💻 🚀 ☕ 🎨 🔒 ⚡ 🐳 📱 🌍 ♻️ 🛠️ 🎯 🔥 💡 ✨ ⭐ 💻 🚀 ☕ 🎨 🔒 ⚡ 🐳 📱 🌍</span>
 </marquee>
 
-| Chrome | Firefox | Safari | Edge | Brave |
-|:---:|:---:|:---:|:---:|:---:|
-| ✅ | ✅ | ✅ | ✅ | ✅ |
+| Chrome | Firefox | Safari | Edge | Brave | Opera |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 
 **Shortcuts I use daily:**
 - Terminal: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd>
 - Command Palette: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>P</kbd>
 - Save: <kbd>Ctrl</kbd> + <kbd>S</kbd>
+- Toggle Terminal: <kbd>Ctrl</kbd> + <kbd>`</kbd>
+- Multi-cursor: <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>↑/↓</kbd>
 
 **Learning checklist:**
 - [x] HTML, CSS, JavaScript
@@ -180,16 +206,19 @@ Hi, I'm **Manashjyoti Bora** — a Full Stack Developer from Nagaon, Assam. I lo
 - [x] TypeScript
 - [x] Node.js & Express
 - [x] Tailwind CSS
+- [x] MongoDB & PostgreSQL
+- [x] Docker basics
 - [ ] Advanced System Design *(in progress)*
 - [ ] Rust
 - [ ] Kubernetes & DevOps
 - [ ] Machine Learning
+- [ ] WebAssembly
 
 ---
 
 ## 🚀 Getting Started
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4169E1,100:8A2BE2&height=34&text=%24+whoami+%C2%B7+%24+npm+run+build+%C2%B7+%E2%9C%94+compiled+successfully+%E2%9C%A8&fontSize=13&fontAlign=50&fontColor=ffffff&fontAlignY=50">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:4169E1,100:8A2BE2&height=45&text=%24+whoami+%C2%B7+%24+npm+run+build+%C2%B7+%E2%9C%94+compiled+successfully+%E2%9C%A8&fontSize=14&fontAlign=50&fontColor=ffffff&animation=fadeIn">
 
 ```bash
 git clone https://github.com/Manashjyoti-Bora/starter-template.git
@@ -233,6 +262,8 @@ volumes:
   <img src="https://img.shields.io/badge/Dependabot-enabled-025E8C?style=flat-square&logo=dependabot">
   <img src="https://img.shields.io/badge/Renovate-enabled-19b2c6?style=flat-square">
   <img src="https://img.shields.io/badge/pre--commit-enabled-brightgreen?style=flat-square&logo=pre-commit">
+  <img src="https://img.shields.io/badge/GitHub_Actions-passing-success?style=flat-square&logo=github-actions">
+  <img src="https://img.shields.io/badge/ESLint-passing-4B32C3?style=flat-square&logo=eslint">
 </p>
 
 ---
@@ -264,6 +295,7 @@ $$e^{i\pi}+1=0 \quad \text{(Euler's Identity)}$$
   <a href="https://stackblitz.com"><img src="https://img.shields.io/badge/Open%20in-StackBlitz-1389FD?style=for-the-badge&logo=stackblitz"></a>
   <a href="https://codesandbox.io"><img src="https://img.shields.io/badge/Open%20in-CodeSandbox-000?style=for-the-badge&logo=codesandbox"></a>
   <a href="https://colab.research.google.com"><img src="https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab"></a>
+  <a href="https://replit.com"><img src="https://img.shields.io/badge/Try%20on-Replit-F26207?style=for-the-badge&logo=replit"></a>
 </p>
 
 ```mermaid
@@ -281,6 +313,8 @@ flowchart TD
 
 ## 🗺 Roadmap
 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:8A2BE2,100:FF69B4&height=40&text=%F0%9F%97%BA+Roadmap+%C2%B7+2025+%E2%9E%9C+2027&fontSize=15&fontAlign=50&fontColor=ffffff&animation=twinkling">
+
 - [x] v1.0 — Portfolio launch
 - [x] v1.5 — TypeScript/Next.js upgrade
 - [ ] **v2.0** — Blog integration (MDX) *coming soon*
@@ -289,9 +323,9 @@ flowchart TD
 - [ ] v4.0 — Mobile app (React Native)
 
 ```text
-2025 ─────────────────────►
- v1.0        v1.5       v2.0 🚀
-Portfolio    TS         Blog
+2025 ─────────────────────►  2027
+ v1.0        v1.5       v2.0 🚀       v3.0      v4.0
+Portfolio    TS         Blog         SaaS      Mobile
 ```
 
 ---
@@ -301,15 +335,28 @@ Portfolio    TS         Blog
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=32&text=%F0%9F%93%8A+GitHub+Stats+%C2%B7+%F0%9F%94%A5+Streaks+%C2%B7+%F0%9F%8F%86+Trophies&fontSize=13&fontAlign=50&fontColor=ffffff">
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Manashjyoti-Bora&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Stats">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Manashjyoti-Bora&theme=radical&hide_border=true" alt="Streak">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Manashjyoti-Bora&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&disable_animations=false" alt="Stats">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Manashjyoti-Bora&theme=radical&hide_border=true&background=141321&stroke=8A2BE2&ring=8A2BE2&fire=FF69B4&currStreakLabel=8A2BE2" alt="Streak">
   <br>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manashjyoti-Bora&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Manashjyoti-Bora&theme=radical&no-frame=true&row=2&column=4" alt="Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=Manashjyoti-Bora&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies">
   <br><br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manashjyoti-Bora&theme=radical&utcOffset=5.5" alt="Productive Time">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Manashjyoti-Bora&theme=radical" alt="Repos per Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manashjyoti-Bora&theme=radical" alt="Most Commit Language">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manashjyoti-Bora&theme=radical" alt="Stats Card">
 </div>
+
+---
+
+## 📈 Activity Graph
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00CED1,100:8A2BE2&height=36&text=%F0%9F%93%88+Contribution+Activity+Graph+%C2%B7+Every+commit+counts&fontSize=13&fontAlign=50&fontColor=ffffff">
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manashjyoti-Bora&bg_color=141321&color=8A2BE2&line=00CED1&point=FF69B4&area=true&hide_border=true&theme=radical&custom_title=Manashjyoti%27s%20Contribution%20Activity" alt="Activity Graph">
+</p>
 
 ---
 
@@ -319,9 +366,26 @@ Portfolio    TS         Blog
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg">
   <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake.svg">
 </picture>
-<p align="center"><sub>Add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to <code>.github/workflows/snake.yml</code> to enable.</sub></p>
+<p align="center"><sub>Add the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to <code>.github/workflows/snake.yml</code> to enable. Snake-eating-contributions animation! 🐍</sub></p>
 
 ---
+
+## 🏙 3D Contributions
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF69B4,100:8A2BE2&height=34&text=%F0%9F%8F%99+3D+Contribution+Skyline+%C2%B7+Isometric+Calendar&fontSize=13&fontAlign=50&fontColor=ffffff">
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Manashjyoti-Bora&theme=radical" alt="Profile Details" width="100%">
+  <br><br>
+  <img alt="3D Profile" src="https://cdn.jsdelivr.net/gh/Manashjyoti-Bora/Manashjyoti-Bora/profile-3d-contrib/profile-night-rainbow.svg" onerror="this.style.display='none'">
+  <sub><br><i>(3D profile requires the <a href="https://github.com/yoshi389111/github-profile-3d-contrib">yoshi389111/github-profile-3d-contrib</a> GitHub Action — auto-generated on push)</i></sub>
+</p>
+
+---
+
+<marquee behavior="alternate" direction="up" height="50" scrollamount="3">
+<span style="font-size:22px">💜💙💚💛🧡❤️🤍💜💙💚💛🧡❤️🤍💜💙💚💛🧡❤️🤍💜💙💚💛🧡❤️🤍</span>
+</marquee>
 
 ## 🎬 Widgets & Media
 
@@ -336,7 +400,7 @@ Portfolio    TS         Blog
 </div>
 
 <details>
-<summary>😂 Random dev joke</summary>
+<summary>😂 Random dev joke (refreshes on page load)</summary>
 <p align="center"><img src="https://readme-jokes.vercel.app/api?theme=radical&hideBorder" alt="Joke"></p>
 </details>
 
@@ -344,17 +408,20 @@ Portfolio    TS         Blog
 <summary>📱 Scan to visit my GitHub</summary>
 <p align="center">
   <img alt="QR" width="180" src="https://api.qrserver.com/v1/create-qr-code/?size=220x220&data=https://github.com/Manashjyoti-Bora&color=8A2BE2&bgcolor=ffffff">
+  <br><sub>Scan with your phone camera! 📷</sub>
 </p>
 </details>
 
 <details open>
 <summary>🎵 Spotify · Now Playing</summary>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1DB954,100:1ED760&height=40&text=%F0%9F%8E%B6+Spotify+%C2%B7+Currently+listening+on+repeat+%F0%9F%8E%A7&fontSize=14&fontAlign=50&fontColor=ffffff">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:1DB954,100:1ED760&height=45&text=%F0%9F%8E%B6+Spotify+%C2%B7+Currently+listening+on+repeat+%F0%9F%8E%A7&fontSize=14&fontAlign=50&fontColor=ffffff&animation=twinkling">
   <br><br>
   <a href="https://open.spotify.com/user/spotify"><img src="https://img.shields.io/badge/Spotify-Follow-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M"><img src="https://img.shields.io/badge/Today%27s-Top%20Hits-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
   <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwnEm1IYyoj"><img src="https://img.shields.io/badge/Daily-Mix-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DWWQRwui0ExPn"><img src="https://img.shields.io/badge/Chill-Lofi-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX0kbJZpiYdZl"><img src="https://img.shields.io/badge/Happy-Hits-1DB954?style=for-the-badge&logo=spotify&logoColor=white"></a>
 </p>
 
 <marquee scrollamount="12" direction="left">
@@ -375,10 +442,19 @@ Tip: phone ta Spotify Developer App tu create korile moi step-by-step loi dim �
 </details>
 
 <details>
-<summary>⌛ Coding stats (coming soon)</summary>
+<summary>⌛ Coding stats (WakaTime — coming soon)</summary>
 <p align="center">
   <a href="https://wakatime.com"><img src="https://wakatime.com/badge/user/YOUR_WAKA_ID.svg" alt="WakaTime"></a><br>
-  <sub>Sign up at <a href="https://wakatime.com">wakatime.com</a> and replace YOUR_WAKA_ID.</sub>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKA_USER&theme=radical&layout=compact&hide_border=true" alt="WakaTime Stats" onerror="this.style.display='none'">
+  <br><sub>Sign up at <a href="https://wakatime.com">wakatime.com</a>, install the VS Code plugin, then replace YOUR_WAKA_ID / YOUR_WAKA_USER.</sub>
+</p>
+</details>
+
+<details>
+<summary>🏆 Holopin Badges (coming soon)</summary>
+<p align="center">
+  <a href="https://holopin.io/@YOUR_HANDLE"><img src="https://holopin.me/YOUR_HANDLE" alt="@YOUR_HANDLE Holopin badges" onerror="this.style.display='none'"></a>
+  <br><sub>Create a Holopin account and replace YOUR_HANDLE to display your badge board.</sub>
 </p>
 </details>
 
@@ -390,6 +466,7 @@ Tip: phone ta Spotify Developer App tu create korile moi step-by-step loi dim �
   <a href="https://www.buymeacoffee.com/YOUR_BMC"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
   <a href="https://ko-fi.com/YOUR_KOFI"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
   <a href="https://github.com/sponsors/Manashjyoti-Bora"><img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"></a>
+  <a href="https://www.paypal.me/YOUR_PAYPAL"><img src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
 </p>
 
 <details>
@@ -404,7 +481,7 @@ Tip: phone ta Spotify Developer App tu create korile moi step-by-step loi dim �
 
 </details>
 
-<marquee behavior="alternate" direction="up" height="40">
+<marquee behavior="alternate" direction="up" height="45" scrollamount="2">
 <b style="color:#8A2BE2;font-size:16px">⬆️ BOUNCING MARQUEE • OPEN TO WORK • NAGAON, ASSAM • CHAI ☕ • BUILD • SHIP • REPEAT ⬇️</b>
 </marquee>
 <marquee scrollamount="10" direction="right">
@@ -417,7 +494,7 @@ Tip: phone ta Spotify Developer App tu create korile moi step-by-step loi dim �
 
 ## 🎮 Fun Stuff
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:22c55e,100:00CED1&height=32&text=%F0%9F%8E%AE+Fun+Stuff+%C2%B7+ASCII+Art+%C2%B7+GIFs+%C2%B7+Mini+Game&fontSize=13&fontAlign=50&fontColor=000">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:22c55e,100:00CED1&height=36&text=%F0%9F%8E%AE+Fun+Stuff+%C2%B7+ASCII+Art+%C2%B7+GIFs+%C2%B7+Mini+Game&fontSize=13&fontAlign=50&fontColor=000&animation=fadeIn">
 
 <p align="center">
   <img width="220" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="coding setup">
@@ -428,6 +505,11 @@ Tip: phone ta Spotify Developer App tu create korile moi step-by-step loi dim �
   <img width="220" src="https://media.giphy.com/media/14kqI3Y4urS3rG/giphy.gif" alt="pixel coder">
   <img width="220" src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" alt="dev life">
   <img width="220" src="https://media.giphy.com/media/11KzOet1ElBDz2/giphy.gif" alt="cat coding">
+  <img width="220" src="https://media.giphy.com/media/11JTxkrmq4bGE0/giphy.gif" alt="hacker">
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" alt="woman coding">
 </p>
 
 <marquee scrollamount="15" direction="left">
@@ -449,20 +531,39 @@ Tip: phone ta Spotify Developer App tu create korile moi step-by-step loi dim �
       > ^ ^ <
 ```
 
+<marquee behavior="alternate" scrollamount="5" direction="left">
+<span style="font-size:20px">🐱 😺 😸 😹 😻 😼 😽 🙀 😿 😾 🐈 🐈‍⬛ 🐱 😺 😸 😹 😻 😼 😽 🙀 😿 😾</span>
+</marquee>
+
 <details>
 <summary>🕹 Play: The GitHub Quest</summary>
 
 You're in a dark repo. A **terminal**, a **README.md**, and a **.env** file sit before you.
 
-<details><summary>🅰 Read the README</summary>You won! 🏆</details>
-<details><summary>🅱 Run <code>npm install</code></summary>Victory! 💪</details>
-<details><summary>🅾 Peek inside .env</summary>REDACTED — report to security 🔒</details>
+<details><summary>🅰 Read the README</summary>You won! 🏆 You got +10 XP and a chai ☕</details>
+<details><summary>🅱 Run <code>npm install</code></summary>Victory! 💪 All 2,847 packages installed. Your SSD weeps.</details>
+<details><summary>🅾 Peek inside .env</summary>REDACTED — report to security 🔒 (DATABASE_URL was `postgres://admin:password123@...` 😱)</details>
+<details><summary>🅳 <code>git push --force</code></summary>☠️ You destroyed production. The team is now looking for you. 🏃‍♂️</details>
 
+</details>
+
+<details>
+<summary>🎲 Mini Dice Roll</summary>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=FF69B4&center=true&vCenter=true&width=400&height=50&lines=%F0%9F%8E%B2+Rolling...;%F0%9F%8E%B2+You+rolled+a+%E2%9A%83+%286%29%21;Refresh+to+roll+again+%F0%9F%94%84" alt="Dice">
+</p>
+</details>
+
+<details>
+<summary>💭 Random motivational quote</summary>
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="Quote vertical">
+</p>
 </details>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:FF69B4&height=34&text=%F0%9F%A4%9D+Contributing+%C2%B7+PRs+welcome+%C2%B7+Conventional+Commits+%E2%9C%A8&fontSize=13&fontAlign=50&fontColor=ffffff">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=50&section=header&text=%F0%9F%A4%9D+Contributing+%C2%B7+PRs+welcome+%C2%B7+Conventional+Commits+%E2%9C%A8&fontSize=15&fontColor=ffffff&animation=twinkling&fontAlignY=40">
 
 ## 🤝 Contributing
 
@@ -474,12 +575,13 @@ You're in a dark repo. A **terminal**, a **README.md**, and a **.env** file sit 
 We follow Conventional Commits and semantic-release. All contributions welcome!
 
 <a href="https://github.com/Manashjyoti-Bora/Manashjyoti-Bora/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Manashjyoti-Bora/Manashjyoti-Bora" alt="Contributors">
+  <img src="https://contrib.rocks/image?repo=Manashjyoti-Bora/Manashjyoti-Bora&anon=0" alt="Contributors">
 </a>
 
 > 💬 Start a [Discussion](https://github.com/Manashjyoti-Bora/Manashjyoti-Bora/discussions)!
 > 🙏 Inspired by many awesome OSS README creators.
 > 🏅 Hacktoberfest participant.
+> 🌟 Star this repo if it helped you!
 
 We follow the [Contributor Covenant](https://www.contributor-covenant.org/) Code of Conduct. Be kind.
 
@@ -494,6 +596,8 @@ Found a vulnerability? **Don't** open a public issue. Email **[manashjyotibora12
   <img src="https://img.shields.io/badge/HTTPS-Enforced-brightgreen?style=flat-square">
   <img src="https://img.shields.io/badge/Snyk-Monitored-4B45BE?style=flat-square&logo=snyk">
   <img src="https://img.shields.io/badge/OpenSSF-Scorecard-blue?style=flat-square">
+  <img src="https://img.shields.io/badge/SHA--256-verified-green?style=flat-square">
+  <img src="https://img.shields.io/badge/2FA-Enabled-success?style=flat-square">
 </p>
 
 > [!IMPORTANT]
@@ -507,13 +611,17 @@ Found a vulnerability? **Don't** open a public issue. Email **[manashjyotibora12
   <a href="https://github.com/sponsors/Manashjyoti-Bora"><img src="https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"></a>
 </p>
 
-<!-- BMC/Ko-fi links above in Widgets section -->
+<!-- BMC/Ko-fi/PayPal links above in Widgets section -->
+
+<marquee behavior="alternate" scrollamount="8" direction="right">
+<span style="font-size:22px">💖 💝 💕 💗 💓 💞 💘 💟 💖 💝 💕 💗 💓 💞 💘 💟 💖 💝 💕 💗</span>
+</marquee>
 
 ---
 
 ## 📫 Connect
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:4169E1&height=32&text=%F0%9F%93%AB+Connect+with+me+%C2%B7+Let%27s+build+something+cool+%F0%9F%9A%80&fontSize=13&fontAlign=50&fontColor=ffffff">
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:8A2BE2,100:4169E1&height=40&text=%F0%9F%93%AB+Connect+with+me+%C2%B7+Let%27s+build+something+cool+%F0%9F%9A%80&fontSize=14&fontAlign=50&fontColor=ffffff&animation=twinkling">
 
 <div align="center">
 <a href="https://github.com/Manashjyoti-Bora"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
@@ -528,12 +636,21 @@ Found a vulnerability? **Don't** open a public issue. Email **[manashjyotibora12
 <a href="https://instagram.com/HANDLE"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://t.me/HANDLE"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://discord.gg/INVITE"><img src="https://img.shields.io/discord/YOUR_ID?style=for-the-badge&logo=discord&logoColor=white&label=Discord"></a>
--->
-
-<br><br>
+<a href="https://leetcode.com/YOUR_HANDLE/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
+<a href="https://www.hackerrank.com/YOUR_HANDLE"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
+<a href="https://codeforces.com/profile/YOUR_HANDLE"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
+--><br>
+<p align="center">
 <img src="https://img.shields.io/badge/Figma-Designs-F24E1E?style=flat-square&logo=figma">
 <img src="https://img.shields.io/badge/Notion-Notes-black?style=flat-square&logo=notion">
+<img src="https://img.shields.io/badge/Stack_Overflow-Ask-f48024?style=flat-square&logo=stackoverflow">
 <img src="https://img.shields.io/badge/Location-Nagaon%2C%20Assam%2C%20India%20%F0%9F%87%AE%F0%9F%87%B3-success?style=flat-square">
+<img src="https://img.shields.io/badge/Timezone-IST%20UTC%2B5%3A30-blue?style=flat-square&logo=clockify">
+</p>
+
+<marquee behavior="alternate" scrollamount="6" direction="left">
+<span style="font-size:16px">📬 📧 💌 📨 📩 📤 📥 ✉️ 📮 📪 📫 📬 📭 📧 💌 📨 📩 📤 📥 ✉️ 📮 📪 📫 📬</span>
+</marquee>
 </div>
 
 ---
@@ -557,6 +674,8 @@ my-nextjs-app/
 ├── next.config.mjs
 ├── docker-compose.yml
 ├── .env.example
+├── .github/
+│   └── workflows/        # CI/CD + snake.yml
 ├── CODE_OF_CONDUCT.md
 ├── CONTRIBUTING.md
 ├── SECURITY.md
@@ -567,14 +686,20 @@ my-nextjs-app/
 
 ## ❓ FAQ
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00CED1,100:4169E1&height=34&text=%E2%9D%93+FAQ+%C2%B7+Frequently+Asked+Questions&fontSize=13&fontAlign=50&fontColor=ffffff">
+
 <details><summary><b>💻 Tech stack?</b></summary><br>React • Next.js • TypeScript • Node.js • Tailwind • MongoDB/PostgreSQL.</details>
-<details><summary><b>💼 Hireable?</b></summary><br><b>Yes!</b> Email or LinkedIn DM.</details>
+<details><summary><b>💼 Hireable?</b></summary><br><b>Yes!</b> Email or LinkedIn DM — open to remote/internship/full-time.</details>
 <details><summary><b>🌐 Languages?</b></summary><br>অসমীয়া • हिन्दी • English.</details>
-<details><summary><b>☕ Chai or coffee?</b></summary><br>Always Assamese masala chai.</details>
+<details><summary><b>☕ Chai or coffee?</b></summary><br>Always Assamese masala chai. No debate. 🍵</details>
+<details><summary><b>📍 Based in?</b></summary><br>Nagaon, Assam, India 🇮🇳 (UTC+5:30 IST).</details>
+<details><summary><b>🎓 Education?</b></summary><br>Always learning. Self-taught + online courses / docs.</details>
+<details><summary><b>⚡ Favorite editor?</b></summary><br>VS Code + Dark+ theme + Fira Code font.</details>
 
 <details>
 <summary>📋 Changelog</summary>
 
+- **v5.0** — A to Z animations expansion: skill-icons, activity-graph, 3D profile, venom/rounded/cylinder/soft capsule banners, 14 marquees, new GIFs, extra stats cards, dice game, Holopin, WakaTime card, more badges
 - **v4.0** — Sanitizer-safe animations rebuild (external SVGs + marquees + GIFs)
 - **v3.0** — 210-element redesign with real data
 - **v2.0** — Portfolio launch on Vercel
@@ -597,10 +722,11 @@ Distributed under the **MIT License**.
 
 ```bibtex
 @software{bora2026profile,
-  author = {Bora, Manashjyoti},
-  title  = {GitHub Profile README},
-  year   = {2026},
-  url    = {https://github.com/Manashjyoti-Bora}
+  author  = {Bora, Manashjyoti},
+  title   = {GitHub Profile README},
+  year    = {2026},
+  url     = {https://github.com/Manashjyoti-Bora},
+  license = {MIT}
 }
 ```
 
@@ -609,21 +735,24 @@ Distributed under the **MIT License**.
 <div align="center">
 <table>
 <tr><td align="center" bgcolor="#8A2BE2" width="90" height="60"><font color="white"><b>#8A2BE2</b><br>Purple</font></td>
-<td align="center" bgcolor="#4169E1" width="90" height="60"><font color="white"><b>#4169E1</b><br>Blue</font></td>
+<td align="center" bgcolor="#4169E1" width="90" height="60"><font color="white"><b>#4169E1</b><br>Royal Blue</font></td>
 <td align="center" bgcolor="#00CED1" width="90" height="60"><font color="white"><b>#00CED1</b><br>Cyan</font></td>
-<td align="center" bgcolor="#FF69B4" width="90" height="60"><font color="white"><b>#FF69B4</b><br>Pink</font></td>
+<td align="center" bgcolor="#FF69B4" width="90" height="60"><font color="white"><b>#FF69B4</b><br>Hot Pink</font></td>
+<td align="center" bgcolor="#22c55e" width="90" height="60"><font color="white"><b>#22c55e</b><br>Green</font></td>
 <td align="center" bgcolor="#0F172A" width="90" height="60"><font color="white"><b>#0F172A</b><br>Dark</font></td></tr>
 </table>
 </div>
 
+<br>
 
-<marquee behavior="alternate" scrollamount="8" direction="left">
-<span style="font-size:20px">☕ 🍵 Masala Chai • Code • Ship • Repeat ☕ 🍵 • Made in Nagaon, Assam 🇮🇳</span>
+<marquee behavior="alternate" scrollamount="9" direction="left">
+<span style="font-size:20px">☕ 🍵 Masala Chai • Code • Ship • Repeat ☕ 🍵 • Made in Nagaon, Assam 🇮🇳 • Namaskar 🙏</span>
 </marquee>
+
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=140&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%99%8F&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20chai%20%E2%98%95%20in%20Nagaon%2C%20Assam&descAlignY=65&descSize=15">
-  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=140&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%99%8F&fontSize=32&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20chai%20%E2%98%95%20in%20Nagaon%2C%20Assam&descAlignY=65&descSize=15">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%99%8F&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20chai%20%E2%98%95%20in%20Nagaon%2C%20Assam&descAlignY=65&descSize=15">
+  <img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,50:4169E1,100:8A2BE2&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%99%8F&fontSize=34&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Made%20with%20%E2%9D%A4%EF%B8%8F%20and%20chai%20%E2%98%95%20in%20Nagaon%2C%20Assam&descAlignY=65&descSize=15">
 </picture>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=32&text=%22First%20solve%20the%20problem.%20Then%20write%20the%20code.%22%20%E2%80%94%20Johnson&fontSize=13&fontAlign=50&fontColor=ffffff">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=32&text=%22First%20solve%20the%20problem.%20Then%20write%20the%20the%20code.%22%20%E2%80%94%20Johnson&fontSize=13&fontAlign=50&fontColor=ffffff">
 </div>
