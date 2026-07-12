@@ -13,7 +13,7 @@
 
 | 🌐 Website | 📧 Email | 💼 LinkedIn | 📱 GitHub |
 |:----------:|:-------:|:-----------:|:---------:|
-| [Portfolio](https://manashjyoti-bora.vercel.app) | [manashjyotibora122@gmail.com](mailto:manashjyotibora122@gmail.com) | [LinkedIn](https://www.linkedin.com/in/manashjyoti-bora) | [GitHub](https://github.com/Manashjyoti-Bora) |
+| [Portfolio](https://manashjyoti-bora.vercel.app) | [[email protected]](mailto:[email protected]) | [LinkedIn](https://www.linkedin.com/in/manashjyoti-bora) | [GitHub](https://github.com/Manashjyoti-Bora) |
 
 ---
 
@@ -163,7 +163,7 @@
 ```
 💼  Looking for opportunities - Open to Work!
 
-📧  Email: manashjyotibora122@gmail.com
+📧  Email: [email protected]
 🌐  Portfolio: manashjyoti-bora.vercel.app
 💼  LinkedIn: linkedin.com/in/manashjyoti-bora
 📱  GitHub: github.com/Manashjyoti-Bora
