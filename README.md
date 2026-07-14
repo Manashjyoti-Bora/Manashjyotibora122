@@ -10,10 +10,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-light.svg">
-  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg" width="100%" alt="Manashjyoti Bora — hand-coded animated hero: ASCII portrait reveal, typing terminal, glowing skill pills, floating particles, scanline, glassmorphism, shimmer border" />
+  <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg" width="100%" alt="Manashjyoti Bora — hand-coded animated hero banner: photo, typing terminal, skill pills and social icons" />
 </picture>
 
-*This banner is hand-coded SVG (SMIL) — it adapts automatically to your GitHub light or dark theme.*
+<sub>Hand-coded SVG banner — adapts to your GitHub light/dark theme.</sub>
 
 ![Wave](https://capsule-render.vercel.app/api?type=waving&height=140&text=LEARNING%20IN%20PUBLIC&fontSize=38&color=0:030712,50:7C3AED,100:10B981&fontColor=ffffff&animation=fadeIn&desc=a%20development%20journey%20built%20entirely%20on%20mobile&descSize=16&descAlignY=80)
 
@@ -214,7 +214,6 @@ CONSISTENCY  ██████████████████████�
 # 📊 06 · Live Metrics
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-cosmos.svg" width="100%" alt="Animation dashboard — starfield, shooting stars, aurora, fireworks, solar orbit, DNA helix, radar scan, liquid fill gauge, progress ring and equalizer, all hand-coded SVG" />
-
 
 <div align="center">
 
