@@ -12,7 +12,7 @@
 </linearGradient>
 </defs>
 <rect width="1180" height="582" rx="16" fill="#030712"/>
-<text x="590" y="36" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="22" fill="#F8FAFC">🧪 FX LAB 2 — 24 more techniques (incl. simulated cursor/interaction FX)</text>
+<text x="590" y="36" text-anchor="middle" font-family="Arial" font-weight="bold" font-size="22" fill="#F8FAFC">FX LAB 02 — 24 Techniques · Simulated Interaction Effects</text>
 <g transform="translate(5,60)">
 <rect x="2" y="2" width="187" height="118" rx="10" fill="#0F172A" stroke="#1e293b"/>
 <clipPath id="d0_0"><rect x="2" y="2" width="187" height="98" rx="10"/></clipPath>
@@ -218,7 +218,7 @@
 <g clip-path="url(#d5_3)">
 <text x="65.5" y="63.0" font-size="34"><animateTransform attributeName="transform" type="rotate" values="0 81.5 57.0;22 81.5 57.0;0 81.5 57.0;22 81.5 57.0;0 81.5 57.0" dur="1.6s" repeatCount="indefinite"/>👋</text>
 <text x="109.5" y="63.0" font-size="30"><animate attributeName="y" values="63.0;53.0;63.0" dur="0.9s" repeatCount="indefinite"/>🚀</text></g>
-<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">ANIMATED EMOJI 👋</text>
+<text x="95.5" y="112" text-anchor="middle" font-family="monospace" font-size="9.5" fill="#94A3B8">ANIMATED EMOJI</text>
 </g>
 <rect x="1" y="1" width="1178" height="580" rx="16" fill="none" stroke="url(#rainbowG2)" stroke-width="1.5" opacity="0.5"/>
 </svg>
