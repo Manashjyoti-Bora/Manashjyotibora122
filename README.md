@@ -1,10 +1,10 @@
 <div align="center">
 
-<!-- ══════════════════════════════════════════════════════════════════ -->
-<!--   THE LEARNING LOG — MY CODING JOURNEY, 100% FROM A PHONE 📱        -->
-<!--   6 hand-coded SMIL animation files · 160+ animation techniques     -->
-<!--   honestly applied · learning in public · one of one                -->
-<!-- ══════════════════════════════════════════════════════════════════ -->
+<!-- ════════════════════════════════════════════════════════════════ -->
+<!--  Manashjyoti Bora · Full-Stack Development Student                 -->
+<!--  Portfolio of work built and deployed entirely from a mobile       -->
+<!--  device. All animations are hand-coded SVG (SMIL).                 -->
+<!-- ════════════════════════════════════════════════════════════════ -->
 
 <!-- ═══ CUSTOM HERO — hand-coded SVG · theme-aware dark/light ═══ -->
 <picture>
@@ -13,16 +13,16 @@
   <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/hero-dark.svg" width="100%" alt="Manashjyoti Bora — hand-coded animated hero: ASCII portrait reveal, typing terminal, glowing skill pills, floating particles, scanline, glassmorphism, shimmer border" />
 </picture>
 
-*Hand-coded in pure SVG — typing terminal, ASCII reveal, glowing pills, particles, and auto dark/light switching. 🪄*
+*This banner is hand-coded SVG (SMIL) — it adapts automatically to your GitHub light or dark theme.*
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&height=140&text=THE%20LEARNING%20LOG&fontSize=38&color=0:030712,50:7C3AED,100:10B981&fontColor=ffffff&animation=fadeIn&desc=learning%20to%20code%20%E2%80%94%20one%20phone%2C%20zero%20excuses&descSize=16&descAlignY=80)
+![Wave](https://capsule-render.vercel.app/api?type=waving&height=140&text=LEARNING%20IN%20PUBLIC&fontSize=38&color=0:030712,50:7C3AED,100:10B981&fontColor=ffffff&animation=fadeIn&desc=a%20development%20journey%20built%20entirely%20on%20mobile&descSize=16&descAlignY=80)
 
-![Glitch](https://svg-banners.vercel.app/api?type=glitch&text1=%F0%9F%8C%B1%20STUDENT%20DEV%20%E2%80%94%20SHIPPING%20WHILE%20LEARNING&width=830&height=110)
+![Glitch](https://svg-banners.vercel.app/api?type=luminance&text1=STUDENT%20DEVELOPER%20%E2%80%94%20SHIPPING%20WHILE%20LEARNING&width=830&height=110)
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&duration=1900&pause=400&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=130&lines=%3E+STATUS+..............+LEARNING+IN+PUBLIC+%F0%9F%8C%B1;%3E+CLASSROOM+...........+ONE+ANDROID+PHONE+%F0%9F%93%B1;%3E+HOMEWORK+............+2+APPS+SHIPPED+TO+PRODUCTION;%3E+CURRENT+CHAPTER+.....+TYPESCRIPT+%C2%B7+TESTING+%C2%B7+OSS;%3E+FINAL+EXAM+..........+SDE+INTERNSHIP+%5BLOADING...%5D" alt="typing animation" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=19&duration=1900&pause=400&color=22D3EE&center=true&vCenter=true&multiline=true&repeat=true&width=840&height=130&lines=%3E+STATUS+..............+LEARNING+IN+PUBLIC;%3E+ENVIRONMENT+.........+ANDROID+%C2%B7+TERMUX+%C2%B7+VERCEL;%3E+DEPLOYED+............+2+PRODUCTION+APPLICATIONS;%3E+CURRENT+FOCUS+.......+TYPESCRIPT+%C2%B7+TESTING+%C2%B7+OSS;%3E+OBJECTIVE+...........+SDE+INTERNSHIP" alt="typing animation" />
 
-<img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=JOURNEY+WITNESSES&color=10B981&style=for-the-badge" alt="profile views" />&nbsp;
-<a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=CO-TRAVELLERS&style=for-the-badge&color=22D3EE&labelColor=030712" alt="followers" /></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE+VIEWS&color=10B981&style=for-the-badge" alt="profile views" />&nbsp;
+<a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=22D3EE&labelColor=030712" alt="followers" /></a>&nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_FOR-SDE_INTERNSHIP-10B981?style=for-the-badge&labelColor=030712" alt="open to internship" />
 
 [![Portfolio](https://img.shields.io/badge/%E2%9A%A1_PORTFOLIO-Live-22D3EE?style=for-the-badge&labelColor=030712)](https://manashjyoti-bora.vercel.app)&nbsp;
@@ -37,61 +37,59 @@
 </div>
 
 > [!IMPORTANT]
-> **🌱 THE SHORT VERSION:** I'm a student still learning to code — and while learning, I've already **shipped 2 real apps to production**, entirely from **one Android phone**. No expert claims. Just clickable, verifiable proof. **Learning in public. Shipping in public.** 📱
+> **Summary:** First-year IT student, learning full-stack development in public. While studying, I have **designed, built, and deployed two production applications** — using only an Android phone as my development machine. Every claim on this page links to live, verifiable work.
 
 <!-- ═══ CUSTOM FX 1: HAND-CODED MATRIX RAIN DIVIDER ═══ -->
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-matrix.svg" width="100%" alt="Matrix rain divider — hand-coded SMIL animation with falling glyph columns, glow, scanline and flickering neon text" />
 
-# 📖 CHAPTER 1 · MY STORY — WHY FROM A PHONE?
+# 📖 01 · Background — Why a Phone?
 
 <img align="right" width="310" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="developer learning animation" />
 
-> No laptop. No excuses either.
+> I'm a first-year B.Voc IT student from Nagaon, Assam.
+> I don't own a laptop — so I built my entire development
+> environment on an Android phone:
 >
-> I'm a 1st-year B.Voc IT student from Nagaon, Assam.
-> My entire computer lab is **one Android phone**:
+> - ⌨️ **Termux** — terminal, Git, Node.js
+> - 🌐 **GitHub web editor** — code editing
+> - ☁️ **Vercel** — cloud builds and deployment
 >
-> - ⌨️ **Termux** — my terminal (git, node, npm)
-> - 🌐 **GitHub web editor** — my IDE
-> - ☁️ **Vercel** — my build machine
-> - 👍 **Two thumbs** — my keyboard
->
-> Every day I learn something and immediately apply it
-> to a real project. That's why my repos aren't tutorials —
-> **they're live products.**
+> My approach: learn a concept, then immediately apply it
+> to a real project. As a result, my repositories aren't
+> tutorial copies — **they are live, deployed products.**
 
 <br clear="right"/>
 
 ```ansi
-[38;5;46m[ DAY 001 ][0m "Hello World" ran successfully ............ [38;5;46mfelt like magic[0m
-[38;5;51m[ DAY 0XX ][0m First git push from Termux ................ [38;5;51mhands were shaking[0m
-[38;5;213m[ DAY 0XX ][0m First Vercel deploy went LIVE ............. [38;5;213mshowed the whole family[0m
-[38;5;220m[ DAY 0XX ][0m Second app shipped with a real database ... [38;5;220mokay, this is real now[0m
-[38;5;46m[ TODAY   ][0m Still learning. Still shipping. ........... [38;5;46mstreak alive[0m
+[38;5;46m[ DAY 001 ][0m First "Hello World" executed .............. [38;5;46mday one[0m
+[38;5;51m[ DAY 0XX ][0m First git push from Termux ................ [38;5;51mmilestone one[0m
+[38;5;213m[ DAY 0XX ][0m First production deploy on Vercel ......... [38;5;213mportfolio live[0m
+[38;5;220m[ DAY 0XX ][0m Second app shipped with a real database ... [38;5;220mfull-stack unlocked[0m
+[38;5;46m[ TODAY   ][0m Still learning. Still shipping. ........... [38;5;46min progress[0m
 ```
 
 ![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
 
-# 🗂️ CHAPTER 2 · WHAT I'VE BUILT — REPOSITORY DIARY
+# 🗂️ 02 · Projects — What Each One Taught Me
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="60" alt="rocket" />
 
-**Every repo = one chapter of learning. All of them are clickable:**
+**Each repository represents a stage of learning. All demos are live:**
 
 </div>
 
-## ⚡ portfolio-website — *"What it taught me: the entire frontend world"*
+## ⚡ portfolio-website — Frontend Engineering
 
 ```text
-┌─ WHAT I BUILT ──────────────────────────────────────────────┐
-│  AUREA — my own interactive portfolio                       │
+┌─ OVERVIEW ──────────────────────────────────────────────────┐
+│  AUREA — interactive developer portfolio                    │
 │  🌌 3D particle hero (Three.js + React Three Fiber)         │
-│  🤖 AI chatbot — ask it anything about me                   │
+│  🤖 AI chatbot with intent matching                         │
 │  ⌨️ Ctrl+K command palette · Ctrl+/ hidden terminal         │
 │  📊 Live GitHub dashboard (real API, zero fake numbers)     │
-├─ WHAT I LEARNED ────────────────────────────────────────────┤
+├─ SKILLS APPLIED ────────────────────────────────────────────┤
 │  Next.js 14 App Router · TypeScript · Tailwind · GSAP       │
 │  Framer Motion · API routes · SEO · security headers        │
 └─────────────────────────────────────────────────────────────┘
@@ -99,15 +97,15 @@
 
 [![Live](https://img.shields.io/badge/%F0%9F%94%B4_LIVE-manashjyoti--bora.vercel.app-22D3EE?style=for-the-badge&labelColor=030712)](https://manashjyoti-bora.vercel.app) [![Code](https://img.shields.io/badge/%F0%9F%93%82_CODE-GitHub-7C3AED?style=for-the-badge&labelColor=030712)](https://github.com/Manashjyoti-Bora/portfolio-website)
 
-## 🛒 nexusmart — *"What it taught me: backend + database + security"*
+## 🛒 nexusmart — Backend, Database & Security
 
 ```text
-┌─ WHAT I BUILT ──────────────────────────────────────────────┐
-│  Full-stack e-commerce — sign up, cart, checkout, orders    │
+┌─ OVERVIEW ──────────────────────────────────────────────────┐
+│  Full-stack e-commerce: auth, cart, checkout, orders        │
 │  🔐 JWT auth (HTTP-only cookies) + bcrypt password hashing  │
-│  🗄️ MongoDB Atlas — real database, orders persist           │
-│  👑 Admin dashboard — role-based access (403 walls)         │
-├─ WHAT I LEARNED ────────────────────────────────────────────┤
+│  🗄️ MongoDB Atlas with persistent order storage             │
+│  👑 Role-based admin dashboard                              │
+├─ SKILLS APPLIED ────────────────────────────────────────────┤
 │  Mongoose models · Zod validation · REST API design         │
 │  auth flows · environment secrets · production debugging    │
 └─────────────────────────────────────────────────────────────┘
@@ -115,16 +113,16 @@
 
 [![Live](https://img.shields.io/badge/%F0%9F%94%B4_LIVE-nexusmart--dusky.vercel.app-10B981?style=for-the-badge&labelColor=030712)](https://nexusmart-dusky.vercel.app) [![Code](https://img.shields.io/badge/%F0%9F%93%82_CODE-GitHub-7C3AED?style=for-the-badge&labelColor=030712)](https://github.com/Manashjyoti-Bora/nexusmart)
 
-## 🧪 devhire-pro-ats & taskflow-enterprise — *"What they taught me: UI patterns + state"*
+## 🧪 devhire-pro-ats & taskflow-enterprise — UI Patterns & State
 
-| REPO | WHAT I PRACTICED | LINK |
+| REPOSITORY | FOCUS AREA | LINK |
 |:---|:---|:---:|
-| **devhire-pro-ats** | ATS-style resume screening UI · complex layouts | [🔓 Open](https://github.com/Manashjyoti-Bora/devhire-pro-ats) |
-| **taskflow-enterprise** | Task management · state handling · CRUD patterns | [🔓 Open](https://github.com/Manashjyoti-Bora/taskflow-enterprise) |
+| **devhire-pro-ats** | ATS-style screening UI, complex layouts | [Open](https://github.com/Manashjyoti-Bora/devhire-pro-ats) |
+| **taskflow-enterprise** | Task management, state handling, CRUD | [Open](https://github.com/Manashjyoti-Bora/taskflow-enterprise) |
 
-## 🤖 Manashjyoti-Bora (this repo) — *"What it taught me: CI/CD automation"*
+## 🤖 Manashjyoti-Bora (this repository) — CI/CD & Automation
 
-This profile is itself a project — **3 GitHub Actions pipelines** I set up and debugged myself: snake 🐍 · 3D city 🏙️ · auto-rebuild. Plus **6 hand-coded SMIL animation files** you're watching right now.
+This profile is itself a project: **three GitHub Actions pipelines** (contribution snake, 3D city, automated rebuilds) that I configured and debugged independently, plus **six hand-coded SMIL animation files** rendered on this page.
 
 <!-- ═══ CUSTOM FX 2: HAND-CODED COSMIC DASHBOARD ═══ -->
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-cosmos.svg" width="100%" alt="Cosmic dashboard — hand-coded: twinkling starfield, shooting stars, aurora, fireworks, solar system orbit, DNA helix, radar scan, liquid fill gauge, progress ring, equalizer bars" />
@@ -135,65 +133,65 @@ This profile is itself a project — **3 GitHub Actions pipelines** I set up and
 
 ![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
 
-# 🧪 BONUS CHAPTER · THE FX LAB
+# 🧪 03 · The FX Lab — Hand-Coded SVG Animation Study
 
 <div align="center">
 
-**30 animation techniques in one file — every panel hand-coded in pure SVG. No libraries. No JavaScript. Just code.**
+**A self-directed study in SVG animation: 30 techniques in a single file — no libraries, no JavaScript, pure SMIL.**
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-lab.svg" width="100%" alt="FX LAB — 30 hand-coded SVG animation panels: glitch, CRT, neon, rainbow, marquee, flip card, cube, pendulum, oscilloscope, odometer, skeleton loader, ripple, bubbles, lava lamp, metaballs, rain, snow, lightning, laser, fire, smoke, confetti, comet, synthwave, halftone, moire, kaleidoscope, checkmark draw, spotlight" />
 
-*Why would a learner build this? Because the best way to learn animation is to make 30 of them.* 🌱
+*Built as a deliberate practice exercise — the fastest way to learn a technique is to implement it thirty times.*
 
-**...and 24 more — including simulated versions of "impossible" effects like cursor trails, mouse-follow and magnetic hover:**
+**A second set of 24 techniques, including SVG-simulated versions of effects that normally require JavaScript (cursor trails, hover interactions):**
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-lab2.svg" width="100%" alt="FX LAB 2 — 24 more hand-coded SVG panels: simulated cursor trail, mouse follow, animated tooltip, magnetic hover, page peel, book flip, origami fold, Ken Burns, zoom blur, heartbeat, elastic ball, flip clock, card stack, 3D text, morphing text, shatter explosion, sonic boom, parallax layers, flow field, voronoi, prism dispersion, lens refraction, animated charts, animated emoji" />
 
-*54 hand-coded panels in total. GitHub blocks JavaScript — so I simulated the cursor effects frame by frame in pure SVG. When you can't use the tool, build the illusion.* 😎
+*54 hand-coded panels in total. GitHub does not execute JavaScript in READMEs, so interactive effects were reproduced frame-by-frame in declarative SVG.*
 
 </div>
 
-# 📚 CHAPTER 3 · WHAT I'M LEARNING RIGHT NOW
+# 📚 04 · Current Learning
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="60" alt="glowing bulb" /></div>
 
 ```mermaid
 %%{init: {'theme':'dark'}}%%
 timeline
-    title MY LEARNING ROADMAP — THE HONEST VERSION
-    Done ✅ : HTML · CSS · JavaScript basics
+    title LEARNING ROADMAP
+    Completed : HTML · CSS · JavaScript fundamentals
             : React · Next.js 14 fundamentals
             : Git + Termux workflow (phone-only!)
             : MongoDB + auth + deployment
-    Now 🌱 : TypeScript advanced patterns
+    Current : TypeScript advanced patterns
            : Testing — Jest + Playwright
            : Open source contribution flow
-    Next 🎯 : First npm package
+    Next : First npm package
             : System design basics
             : DSA consistency
 ```
 
-**Skill bars (honest self-assessment):**
+**Self-assessment:**
 
 ```text
-HTML/CSS     ██████████████████░░░░░░░  where it all started
-JAVASCRIPT   ████████████████░░░░░░░░░  learning by shipping
-REACT/NEXT   ██████████████████░░░░░░░  2 apps built with it
-TYPESCRIPT   ██████████████░░░░░░░░░░░  strict mode always on
-BACKEND/DB   ██████████████░░░░░░░░░░░  real auth + Mongo done
-TESTING      ██████░░░░░░░░░░░░░░░░░░░  new chapter — honest!
-CONSISTENCY  █████████████████████████  the only maxed skill
+HTML/CSS     ██████████████████░░░░░░░  foundation
+JAVASCRIPT   ████████████████░░░░░░░░░  applied in production
+REACT/NEXT   ██████████████████░░░░░░░  two deployed apps
+TYPESCRIPT   ██████████████░░░░░░░░░░░  strict mode, no any
+BACKEND/DB   ██████████████░░░░░░░░░░░  JWT auth, MongoDB
+TESTING      ██████░░░░░░░░░░░░░░░░░░░  actively learning
+CONSISTENCY  █████████████████████████  daily commits
 ```
 
 ![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
 
-# 🛠️ CHAPTER 4 · MY TOOLS
+# 🛠️ 05 · Development Environment
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="60" alt="spinning gear" />
 
-### Animated tech icons (they move — watch!)
+### Core stack
 
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" alt="react spinning" />&nbsp;
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="65" alt="typescript" />&nbsp;
@@ -205,12 +203,12 @@ CONSISTENCY  ██████████████████████�
 <br/>
 <img src="https://skillicons.dev/icons?i=vercel,git,github,githubactions,linux,vite,npm,figma&theme=dark" alt="tool icons" />
 
-| 🧩 SLOT | ⚙️ MY GEAR |
+| COMPONENT | TOOL |
 |:---|:---|
-| 💻 Machine | Android phone — my entire workstation |
-| 🐧 Terminal | Termux (node · git · npm) |
+| 💻 Machine | Android phone |
+| 🐧 Terminal | Termux — Node.js, Git, npm |
 | ✏️ Editor | GitHub web editor |
-| ☁️ Builds | Vercel cloud |
+| ☁️ Build & deploy | Vercel |
 | 🗄️ Database | MongoDB Atlas |
 | 🚦 CI/CD | GitHub Actions |
 
@@ -218,13 +216,13 @@ CONSISTENCY  ██████████████████████�
 
 ![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
 
-# 📊 CHAPTER 5 · LIVE PROOF OF THE JOURNEY
+# 📊 06 · Live Metrics
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="60" alt="animated chart" />
 
-**Live widgets — real data on every load, no screenshots:**
+**All widgets below pull live data:**
 
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Manashjyoti-Bora&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=22D3EE&icon_color=10B981&text_color=F8FAFC&ring_color=7C3AED" alt="github stats" />
 
@@ -236,17 +234,17 @@ CONSISTENCY  ██████████████████████�
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manashjyoti-Bora&theme=react-dark&bg_color=030712&color=22D3EE&line=7C3AED&point=10B981&hide_border=true&area=true" width="100%" alt="activity graph" />
 
-**🏙️ My commits build a 3D city — rebuilt automatically every night:**
+**Contribution activity rendered as a 3D city — rebuilt nightly by GitHub Actions:**
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city" />
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/profile-3d-contrib/profile-season-animate.svg" width="100%" alt="3D seasons animated" />
 
-**🐍 The snake eats my commits — dispatched at 00:00 UTC:**
+**Contribution snake — regenerated daily at 00:00 UTC:**
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake" />
 
-**Emerald heatmap — every single day of learning:**
+**Contribution heatmap:**
 
 <img src="https://ghchart.rshah.org/10B981/Manashjyoti-Bora" width="100%" alt="contribution heatmap" />
 
@@ -257,7 +255,7 @@ CONSISTENCY  ██████████████████████�
 
 ![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
 
-# 🧭 CHAPTER 6 · JOURNEY MAP
+# 🧭 07 · Roadmap
 
 ```mermaid
 %%{init: {'theme':'dark','themeVariables':{'primaryColor':'#7C3AED','primaryTextColor':'#fff','lineColor':'#22D3EE'}}}%%
@@ -274,24 +272,24 @@ flowchart LR
     style G fill:#030712,stroke:#7C3AED,color:#7C3AED
 ```
 
-- [x] 🌱 First line of code — on a phone
-- [x] ⚡ First production deploy
-- [x] 🛒 First full-stack app with a real database
-- [x] 🤖 First CI/CD pipelines
-- [x] 🎨 First hand-coded SMIL animation files (this page!)
-- [ ] 🌍 First external open-source PR — **next!**
-- [ ] 📦 First npm package
-- [ ] 🏆 First internship — **the goal**
+- [x] First line of code — written on a phone
+- [x] First production deployment
+- [x] First full-stack application with a live database
+- [x] First CI/CD pipelines
+- [x] First hand-coded SMIL animation files (this page)
+- [ ] First external open-source contribution — **in progress**
+- [ ] First published npm package
+- [ ] SDE internship — **primary objective**
 
 ![div](https://capsule-render.vercel.app/api?type=rect&height=3&color=0:7C3AED,50:22D3EE,100:10B981)
 
-# 📬 CHAPTER 7 · WANT TO JOIN THE JOURNEY?
+# 📬 08 · Contact
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80" alt="handshake" />
 
-**Looking for a junior who learns fast and ships real things? Let's talk.** 🌱
+**Open to SDE internship opportunities — remote-ready, IST timezone, immediate availability.**
 
 [![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_EMAIL-manashjyotibora122%40gmail.com-D14836?style=for-the-badge&labelColor=030712&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com?subject=Hello%20Manashjyoti)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=030712&logo=linkedin)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)
@@ -307,7 +305,7 @@ flowchart LR
 <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="dev joke" />
 
 <details>
-<summary>🥚 <b>SECRET PAGE — the real lesson of this journey (tap)</b></summary>
+<summary>💡 <b>A closing note (tap to open)</b></summary>
 <br/>
 
 ```ansi
@@ -326,9 +324,9 @@ flowchart LR
 
 <br/>
 
-<samp>learning.log → day by day · commit by commit · no shortcuts</samp><br/>
-<sub>© 2026 Manashjyoti Bora · Nagaon, Assam 🇮🇳 · written with two thumbs</sub>
+<samp>Updated continuously — one commit at a time.</samp><br/>
+<sub>© 2026 Manashjyoti Bora · Nagaon, Assam, India</sub>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:7C3AED,100:10B981&height=150&section=footer&text=THE%20JOURNEY%20CONTINUES...&fontSize=26&fontColor=ffffff&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:7C3AED,100:10B981&height=150&section=footer&text=THANK%20YOU%20FOR%20VISITING&fontSize=26&fontColor=ffffff&animation=fadeIn)
 
 </div>
