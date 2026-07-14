@@ -15,12 +15,12 @@
 
 <sub>Hand-coded SVG banner — adapts to your GitHub light/dark theme.</sub>
 
-```ansi
-[38;5;51m> STATUS ............. [38;5;46mLEARNING IN PUBLIC[0m
-[38;5;51m> ENVIRONMENT ........ [0mANDROID · TERMUX · VERCEL[0m
-[38;5;51m> DEPLOYED ........... [38;5;46m2 PRODUCTION APPLICATIONS[0m
-[38;5;51m> CURRENT FOCUS ...... [0mTYPESCRIPT · TESTING · OSS[0m
-[38;5;51m> OBJECTIVE .......... [38;5;213mSDE INTERNSHIP[0m
+```text
+> STATUS ............. LEARNING IN PUBLIC
+> ENVIRONMENT ........ ANDROID · TERMUX · VERCEL
+> DEPLOYED ........... 2 PRODUCTION APPLICATIONS
+> CURRENT FOCUS ...... TYPESCRIPT · TESTING · OSS
+> OBJECTIVE .......... SDE INTERNSHIP
 ```
 
 <img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE+VIEWS&color=10B981&style=for-the-badge" alt="profile views" />&nbsp;
@@ -62,12 +62,12 @@
 
 <br clear="right"/>
 
-```ansi
-[38;5;46m[ DAY 001 ][0m First "Hello World" executed .............. [38;5;46mday one[0m
-[38;5;51m[ DAY 0XX ][0m First git push from Termux ................ [38;5;51mmilestone one[0m
-[38;5;213m[ DAY 0XX ][0m First production deploy on Vercel ......... [38;5;213mportfolio live[0m
-[38;5;220m[ DAY 0XX ][0m Second app shipped with a real database ... [38;5;220mfull-stack unlocked[0m
-[38;5;46m[ TODAY   ][0m Still learning. Still shipping. ........... [38;5;46min progress[0m
+```text
+[ DAY 001 ] First "Hello World" executed .............. day one
+[ DAY 0XX ] First git push from Termux ................ milestone one
+[ DAY 0XX ] First production deploy on Vercel ......... portfolio live
+[ DAY 0XX ] Second app shipped with a real database ... full-stack unlocked
+[ TODAY   ] Still learning. Still shipping. ........... in progress
 ```
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="" />
@@ -294,16 +294,16 @@ flowchart LR
 <summary>💡 <b>A closing note (tap to open)</b></summary>
 <br/>
 
-```ansi
-[38;5;51m╔════════════════════════════════════════════════╗[0m
-[38;5;51m║[0m   [38;5;220mTHE REAL LESSON 🌱[0m                           [38;5;51m║[0m
-[38;5;51m║[0m                                                [38;5;51m║[0m
-[38;5;51m║[0m   Hardware doesn't make a developer.           [38;5;51m║[0m
-[38;5;51m║[0m   [38;5;46mConsistency does.[0m                            [38;5;51m║[0m
-[38;5;51m║[0m                                                [38;5;51m║[0m
-[38;5;51m║[0m   If all you have is a phone — start with      [38;5;51m║[0m
-[38;5;51m║[0m   the phone. [38;5;213mStarting is the real skill.[0m      [38;5;51m║[0m
-[38;5;51m╚════════════════════════════════════════════════╝[0m
+```text
+┌────────────────────────────────────────────────┐
+│   THE TAKEAWAY                                 │
+│                                                │
+│   Hardware does not make a developer.          │
+│   Consistency does.                            │
+│                                                │
+│   If a phone is all you have, start with       │
+│   the phone. Starting is the real skill.       │
+└────────────────────────────────────────────────┘
 ```
 
 </details>
