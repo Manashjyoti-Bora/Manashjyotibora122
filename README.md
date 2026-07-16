@@ -40,7 +40,7 @@
 
 # 📖 01 · Background — Why a Phone?
 
-<img align="right" width="310" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="developer learning animation" />
+<img align="right" width="260" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="developer learning animation" />
 
 > I'm a first-year B.Voc IT student from Nagaon, Assam.
 > I don't own a laptop — so I built my entire development
@@ -237,8 +237,9 @@ timeline
 
 <img src="https://ghchart.rshah.org/10B981/Manashjyoti-Bora" width="100%" alt="contribution heatmap" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manashjyoti-Bora&theme=tokyonight&utcOffset=5.5" width="49%" alt="productive time" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manashjyoti-Bora&theme=tokyonight" width="49%" alt="commit language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Manashjyoti-Bora&theme=tokyonight&utcOffset=5.5" width="100%" alt="productive time" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manashjyoti-Bora&theme=tokyonight" width="100%" alt="commit language" />
 
 </div>
 
