@@ -15,11 +15,11 @@
 
 <sub>Hand-coded SVG banner — adapts to your GitHub light/dark theme.</sub>
 
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/status.svg" width="100%" alt="Animated status terminal: learning in public · Android/Termux/Vercel · 2 production applications · TypeScript, testing, OSS · objective SDE internship" />
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/status.svg" width="100%" alt="Animated status terminal: learning in public · Android/Termux/Vercel · 2 production applications · TypeScript, testing, OSS" />
 
 <img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE+VIEWS&color=10B981&style=for-the-badge" alt="profile views" />&nbsp;
 <a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=22D3EE&labelColor=030712" alt="followers" /></a>&nbsp;
-<img src="https://img.shields.io/badge/%F0%9F%9F%A2_OPEN_FOR-SDE_INTERNSHIP-10B981?style=for-the-badge&labelColor=030712" alt="open to internship" />
+<img src="https://img.shields.io/badge/%F0%9F%8C%B1_STATUS-BUILDING_%26_LEARNING-10B981?style=for-the-badge&labelColor=030712" alt="building and learning" />
 
 [![Portfolio](https://img.shields.io/badge/%E2%9A%A1_PORTFOLIO-Live-22D3EE?style=for-the-badge&labelColor=030712)](https://manashjyoti-bora.vercel.app)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=030712&logo=linkedin)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)&nbsp;
@@ -33,7 +33,7 @@
 </div>
 
 > [!IMPORTANT]
-> **Summary:** First-year IT student, learning full-stack development in public. While studying, I have **designed, built, and deployed two production applications** — using only an Android phone as my development machine. Every claim on this page links to live, verifiable work.
+> **Summary:** First-year IT student, learning full-stack development in public. While studying, I have **designed, built, and deployed two production applications** — using only an Android phone as my development machine. Every claim on this page links to live, verifiable work. Where this journey leads next — the work will decide.
 
 <!-- ═══ CUSTOM FX 1: HAND-CODED MATRIX RAIN DIVIDER ═══ -->
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/fx-matrix.svg" width="100%" alt="Matrix rain divider — hand-coded SMIL animation with falling glyph columns, glow, scanline and flickering neon text" />
@@ -326,14 +326,14 @@ flowchart LR
     B --> D["🛒 NexusMart LIVE"]
     C --> E["🌍 Open source PRs"]
     D --> E
-    E --> F{"🏆 SDE Internship"}
+    E --> F{"🧭 Whatever comes next"}
     F --> G["🚀 Software Engineer"]
     style A fill:#030712,stroke:#22D3EE,color:#22D3EE
     style F fill:#0F172A,stroke:#10B981,color:#10B981
     style G fill:#030712,stroke:#7C3AED,color:#7C3AED
 ```
 
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/roadmap.svg" width="100%" alt="Animated milestone path: five completed milestones (phone-first code, production deploy, full-stack app, CI/CD, SVG animation system) and three upcoming (external PR, npm package, SDE internship)" />
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/roadmap.svg" width="100%" alt="Animated milestone path: five completed milestones (phone-first code, production deploy, full-stack app, CI/CD, SVG animation system) and what comes next (external PR, npm package, the next build)" />
 
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/divider.svg" width="100%" alt="" />
 
@@ -343,13 +343,13 @@ flowchart LR
 
 </div>
 
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/contact.svg" width="100%" alt="Animated contact card — email, LinkedIn, GitHub and portfolio with live status marquee: open to SDE internships, remote-ready, IST timezone" />
+<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/contact.svg" width="100%" alt="Animated contact card — email, LinkedIn, GitHub and portfolio with live status marquee" />
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="80" alt="handshake" />
 
-**Open to SDE internship opportunities — remote-ready, IST timezone, immediate availability.**
+**Always open to a conversation — collaboration, feedback, or ideas about building things.**
 
 [![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_EMAIL-manashjyotibora122%40gmail.com-D14836?style=for-the-badge&labelColor=030712&logo=gmail&logoColor=white)](mailto:manashjyotibora122@gmail.com?subject=Hello%20Manashjyoti)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-Connect-0077B5?style=for-the-badge&labelColor=030712&logo=linkedin)](https://www.linkedin.com/in/manashjyoti-bora-323b97405)
