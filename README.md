@@ -15,8 +15,6 @@
 
 <sub>Hand-coded SVG banner — adapts to your GitHub light/dark theme.</sub>
 
-<img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/status.svg" width="100%" alt="Animated status terminal: learning in public · Android/Termux/Vercel · 2 production applications · TypeScript, testing, OSS" />
-
 <img src="https://komarev.com/ghpvc/?username=Manashjyoti-Bora&label=PROFILE+VIEWS&color=10B981&style=for-the-badge" alt="profile views" />&nbsp;
 <a href="https://github.com/Manashjyoti-Bora?tab=followers"><img src="https://img.shields.io/github/followers/Manashjyoti-Bora?label=FOLLOWERS&style=for-the-badge&color=22D3EE&labelColor=030712" alt="followers" /></a>&nbsp;
 <img src="https://img.shields.io/badge/%F0%9F%8C%B1_STATUS-BUILDING_%26_LEARNING-10B981?style=for-the-badge&labelColor=030712" alt="building and learning" />
