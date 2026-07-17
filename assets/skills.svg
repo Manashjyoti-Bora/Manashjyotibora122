@@ -1,5 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 430" width="1180" height="430" role="img" aria-label="Animated skill self-assessment bars">
-<defs><clipPath id="sc"><rect width="1180" height="430" rx="16"/></clipPath></defs>
+<defs><linearGradient id="rainbowBar" x1="0" y1="0" x2="1" y2="0">
+<stop offset="0%" stop-color="#FFD700"><animate attributeName="stop-color" values="#FFD700;#ec4899;#22D3EE;#10B981;#FFD700" dur="5s" repeatCount="indefinite"/></stop>
+<stop offset="100%" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#FFD700;#ec4899;#22D3EE;#10B981" dur="5s" repeatCount="indefinite"/></stop>
+</linearGradient><clipPath id="sc"><rect width="1180" height="430" rx="16"/></clipPath></defs>
 <g clip-path="url(#sc)">
 <rect width="1180" height="430" fill="#0F172A"/>
 <text x="40" y="34" font-family="'Segoe UI',Arial" font-weight="bold" font-size="18" fill="#94A3B8">SELF-ASSESSMENT — bars animate on load, honestly calibrated</text>
@@ -67,7 +70,7 @@
 <text x="40" y="383" font-family="monospace" font-size="16" fill="#F8FAFC">Consistency</text>
 <text x="1140" y="383" text-anchor="end" font-family="monospace" font-size="13" fill="#94A3B8" opacity="0">daily commits<animate attributeName="opacity" values="0;1" begin="3.0s" dur="0.4s" fill="freeze"/></text>
 <rect x="300" y="368" width="640" height="18" rx="9" fill="#1e293b"/>
-<rect x="300" y="368" width="0" height="18" rx="9" fill="#FFD700">
+<rect x="300" y="368" width="0" height="18" rx="9" fill="url(#rainbowBar)">
   <animate attributeName="width" values="0;640" begin="1.8s" dur="1.2s" fill="freeze" calcMode="spline" keySplines="0.25 0.1 0.25 1"/>
 </rect>
 <rect x="300" y="368" width="60" height="18" rx="9" fill="#ffffff" opacity="0.18">
