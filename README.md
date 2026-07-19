@@ -355,3 +355,4 @@ flowchart LR
 <img src="https://raw.githubusercontent.com/Manashjyoti-Bora/Manashjyoti-Bora/main/assets/footer.svg" width="100%" alt="Thank you for visiting — hand-coded animated waves" />
 
 </div>
+<!-- v1.0.0 -->
